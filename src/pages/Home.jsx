@@ -5,6 +5,7 @@ const Home = () => {
   return (
     <div>
       <Sliderimage />
+      HOme from master
     </div>
   )
 }
