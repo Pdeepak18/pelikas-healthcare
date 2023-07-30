@@ -1,39 +1,49 @@
-import { React, useState } from "react";
-import Sidenav from "./Sidenav";
-import { GiHamburgerMenu } from "react-icons/gi";
-import { RxCross1 } from "react-icons/rx";
+import React, { useState } from "react";
+import { Button } from "./Button";
+import "./Sidebar.css";
+import Dropdown from "./Dropdown";
 import { Link } from "react-router-dom";
-import "../App.css";
-import Sidebar from "./Sidebar";
+import * as FaIcons from "react-icons/fa";
+import * as AiIcons from "react-icons/ai";
+import { SidebarData } from "./SidebarData";
+import { IconContext } from "react-icons";
+import {IoMdArrowDropdown} from  "react-icons/io";
+// import Button from './Button'
 
 const Navbar = () => {
+  const [click, setClick] = useState(false);
+  const [dropdown, setDropdown] = useState(false);
+
+  const handleClick = () => setClick(!click);
+  
+
+  const closeMobileMenu = () => setClick(false);
+  const onMouseEnter = () => {
+    if (window.innerWidth < 960) {
+      setDropdown(false);
+    } else {
+      setDropdown(true);
+    }
+  };
+  const onMouseLeave = () => {
+    if (window.innerWidth < 960) {
+      setDropdown(false);
+    } else {
+      setDropdown(false);
+    }
+  };
+
+  const [sidebar, setSidebar] = useState(false);
+
+  const showSidebar = () => setSidebar(!sidebar);
+
   const sidelogo = require("../assests/new-logo-removebg-preview.png");
-  const [isActive, setIsActive] = useState(false);
-  const [active, setActive] = useState(false);
-  let sidebar = document.getElementsByClassName("sidebar");
-  const myStyle = {
-    fontFamily: "Segoe UI",
-  };
-  const handleClick = (event) => {
-    // 👇️ toggle isActive state on click
-    setIsActive(!isActive);
-  };
 
-  // const handleSideNavClick = (event) => {
-  //   // 👇️ toggle isActive state on click
-  //   // setActive(!active);
-  //   return(
-  //     <div>
-  //       <Sidebar />
-  //     </div>
-  //   )
-
-  // };
   return (
-    <div className="">
-      <nav className="h-15 flex flex-row p-2 md:p-5   justify-between md:justify-around">
-        {/* company logo */}
-        <div>
+    <>
+      <nav className="navbar">
+        <div className="mr-3 md:mr-5">
+          {/* logo */}
           <Link to="/">
             <img
               src={sidelogo}
@@ -43,126 +53,78 @@ const Navbar = () => {
           </Link>
         </div>
 
-        {/* hamburger logo */}
-        <div className="block md:hidden">
-          <GiHamburgerMenu
-            color="blue"
-            fontSize="2rem"
-            className="relative top-3 lg:top-2 p-1"
-            cursor="pointer"
-            onClick={handleClick}
-          />
+        <div className="menu-icon" onClick={handleClick}>
+          <i className={click ? "fas fa-times" : "fa fa-bars"} />
         </div>
-
-        <div className="hidden md:block  relative top-5 ">
-          <ul className="md:flex cursor-pointer text-2xl gap-8 text-gray-700 ">
-            <li className=" hover:text-blue-800 font-semibold	">Home</li>
-            <li className=" hover:text-blue-800 font-semibold	">About Us</li>
-            <li className=" hover:text-blue-800 font-semibold	">Services</li>
-            <li className=" hover:text-blue-800 font-semibold	">Contact Us</li>
-            <li>
-              <Sidebar
-                pageWrapId={"page-wrap"}
-                outerContainerId={"outer-container"}
-                className="hidden md:block"
-              />
-            </li>
-          </ul>
-        </div>
-      </nav>
-      <hr />
-
-      {/* Sidebar */}
-      {/* <div  className={active ? "sidebar" : "hidden"}>
-    <div className="flex flex-row">
-    <img src={sidelogo} alt="" className="logo w-29 h-10"  />
-    <RxCross1 size={20} className="cursor-pointer"/>
-
-    </div>
-   
-
-    <div>
-      <ul>
-        <li>Contact Us</li>
-        <li>Contact Us</li>
-        <li>Contact Us</li>
-        <li>Contact Us</li>
-        <li>Contact Us</li>
-      </ul>
-    </div>
-</div> */}
-
-      <div
-        className={
-          isActive ? "bg-white py-1  px-3 text-sm border-red-50" : "hidden"
-        }
-      >
-        <ul className="bg-gray-200 px-2 lg:hidden">
-          <Link to="/">
-            <li className="relative p-1  font-semibold	 hover:bg-sky-400">
+        <ul className={click ? "nav-menu active" : "nav-menu"}>
+          <li className="nav-item">
+            <Link to="/" className="nav-links" onClick={closeMobileMenu}>
               Home
-              <div className="absolute w-full h-[1px] bg-black	left-0 bottom-0  "></div>
-            </li>
-          </Link>
-
-          <Link to="/">
-            <li className="relative p-1 font-semibold	 hover:bg-sky-400">
-              Services
-              <div className="absolute w-full h-[1px] bg-black	left-0 bottom-0  "></div>
-            </li>
-          </Link>
-
-          <Link to="/">
-            <li className="relative p-1 font-semibold	 hover:bg-sky-400">
-              Certifications
-              <div className="absolute w-full h-[1px] bg-black	left-0 bottom-0  "></div>
-            </li>
-          </Link>
-
-          <Link to="/">
-            <li className="relative p-1  font-semibold	 hover:bg-sky-400">
-              Global Presence / Our Reach
-              <div className="absolute w-full h-[1px] bg-black	left-0 bottom-0  "></div>
-            </li>
-          </Link>
-
-          <Link to="/">
-            <li className="relative p-1 font-semibold	 hover:bg-sky-400">
-              Product Portfolio
-              <div className="absolute w-full h-[1px] bg-black	left-0 bottom-0  "></div>
-            </li>
-          </Link>
-
-          <Link to="/">
-            <li className="relative p-1 font-semibold	 hover:bg-sky-400">
-              Our Brands
-              <div className="absolute w-full h-[1px] bg-black	left-0 bottom-0  "></div>
-            </li>
-          </Link>
-
-          <Link to="/">
-            <li className="relative p-1  font-semibold	 hover:bg-sky-400">
-              Our Gallery
-              <div className="absolute w-full h-[1px] bg-black	left-0 bottom-0  "></div>
-            </li>
-          </Link>
-
-          <Link to="/">
-            <li className="relative p-1  font-semibold	 hover:bg-sky-400">
-              Career
-              <div className="absolute w-full h-[1px] bg-black	left-0 bottom-0  "></div>
-            </li>
-          </Link>
-
-          <Link to="/">
-            <li className="relative p-1  font-semibold	 hover:bg-sky-400">
-              Contact us
-              <div className="absolute w-full h-[1px] bg-black	left-0 bottom-0  "></div>
-            </li>
-          </Link>
+            </Link>
+          </li>
+          <li
+            className="nav-item"
+            onMouseEnter={onMouseEnter}
+            onMouseLeave={onMouseLeave}
+          >
+            <Link
+              to="/Services"
+              className="nav-links flex flex-row"
+              onClick={closeMobileMenu}
+            >
+              Services <i className="fa fa-caret-down" color="white"/> <IoMdArrowDropdown className=" relative top-3 ml-1" />
+            </Link>
+            {dropdown && <Dropdown />}
+          </li>
+          <li className="nav-item">
+            <Link
+              to="/contact-us"
+              className="nav-links"
+              onClick={closeMobileMenu}
+            >
+              Contact Us
+            </Link>
+          </li>
+          <li className="nav-item">
+            <Link
+              to="/sign-up"
+              className="nav-links-mobile"
+              onClick={closeMobileMenu}
+            >
+              Sign Up
+            </Link>
+          </li>
         </ul>
-      </div>
-    </div>
+        {/* <Button/> */}
+        <Link to="#" className="menu-bars text-[2rem] bg-none text-[#fff]">
+          <FaIcons.FaBars onClick={showSidebar} />
+        </Link>
+        <IconContext.Provider value={{ color: "#fff" }}>
+          <nav className={sidebar ? "nav-menu2 active z-20" : "nav-menu2"}>
+            <ul className="nav-menu-items" onClick={showSidebar}>
+              <li className="navbar-toogle">
+                <Link
+                  to="#"
+                  className="menu-bars text-3xl flex justify-end mr-9 absolute right-10 top-8"
+                >
+                  <AiIcons.AiOutlineClose className="relative bottom-14 right-20 lg:bottom-0 lg:right-10"/>
+                </Link>
+              </li>
+              {SidebarData.map((item, index) => {
+                return (
+                  <li key={index} className={item.cName}>
+                    <Link to={item.path} className="">
+                      {item.icon}
+                      <span className="">{item.title}</span>
+                    </Link>
+                  </li>
+                );
+              })}
+            </ul>
+          </nav>
+        </IconContext.Provider>
+      </nav>
+    </>
   );
 };
 
