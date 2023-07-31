@@ -22,7 +22,15 @@
   right: 0;
   z-index: 1;
 }
-
+.box-shadow{
+  border-radius: 66px 0px 66px 0px;
+  -moz-border-radius: 66px 0px 70px 0px;
+  -webkit-border-radius: 66px 0px 70px 0px;
+  border: 0px solid #000000;
+  -webkit-box-shadow: 10px 10px 5px 0px rgba(183,195,199,1);
+-moz-box-shadow: 10px 10px 5px 0px rgba(183,195,199,1);
+box-shadow: 10px 10px 5px 0px rgba(183,195,199,1);
+}
 /* .sidebar {
   max-width: 14rem !important;
   width: 100%;

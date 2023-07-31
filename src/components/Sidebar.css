@@ -5,12 +5,20 @@
   justify-content:space-around;
   align-items: center;
   font-size: 1.2rem;
+  position: fixed;
+  width: 100vw;
+  overflow: hidden;
+  top: 0;
+  z-index: 10;
+
 
 }
 
 @media screen and (max-width: 766px)  {
  
-
+.navbar{
+  position: fixed;
+}
   .menu-bars{
     position: relative;
     left: 10px;
