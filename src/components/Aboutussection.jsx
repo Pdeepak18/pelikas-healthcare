@@ -58,12 +58,12 @@ const Aboutussection = () => {
         Plikas Healthcare is the largest contract manufacturing <br />
         pharmaceutical company of India
       </p>
-      <div className="flex flex-row flex-wrap gap-20 justify-center mt-28 px-auto md:px-20 ">
+      <div className=" flex flex-row flex-wrap  gap-20 justify-center mt-28 px-auto md:px-20 ">
         {aboutUsNo.map((i)=>{
             return(
                 <div className="flex flex-col">
-                    <h2 className="font-bold text-center">{i.no}{i.extra}</h2>
-                    <p className="text-[20px] text-center">{i.title}</p>
+                    <h2 className="font-bold text-center text-xl md:text-2xl">{i.no}{i.extra}</h2>
+                    <p className=" md:text-[20px] text-center">{i.title}</p>
                 </div>
             )
         })}

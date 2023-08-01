@@ -6,10 +6,10 @@ import 'animate.css';
 
 const Ourexpertise = () => {
   return (
-    <div className="bg-[#E9E9F6]">
-    <h3 className="relative -top-40 md:mt-8 md:top-0 text-3xl text-center font-bold">Our Expertise</h3>
+    <div className="bg-[#E9E9F6] relative -top-[110px] md:mt-10">
+    <h3 className="relative  md:mt-8 md:top-0 text-3xl text-center font-bold">Our Expertise</h3>
     <div className="w-6 h-1 bg-green-400 hidden md:block	 mx-auto mt-0 md:mt-4  md:mb-2"></div>
-<div className="relative -top-[130px] md:mt-4 md:top-0  p-8 grid grid-cols-1 md:grid-cols-2 gap-6 place-items-center">
+<div className="relative  md:mt-4 md:top-0  p-8 grid grid-cols-1 md:grid-cols-2 gap-6 place-items-center">
     
 
     {Ourexpertisedata.map(expert =>{
