@@ -9,13 +9,13 @@ export default function Dropdown(){
   
     const handleClick = () => setClick(!click);
     return(
-        <div >
+        <div className='drop-class'>
             <ul onClick={handleClick}
-            className={click? 'dropdown-menu text-black clicked': 'dropdown-menu'}>
+            className={click? 'dropdown-menu  clicked': 'dropdown-menu'}>
                 {MenuItems.map((item,index) => {
                     return(
-                        <li key={index}>
-                            <Link className={item.cName} to={item.path} onClick={() => setClick(false)}>
+                        <li key={index} className='p-2'>
+                            <Link  to={item.path} onClick={() => setClick(false)}>
                                 {item.title}
                             </Link>
                         </li>
