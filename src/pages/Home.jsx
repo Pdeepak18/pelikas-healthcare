@@ -1,9 +1,11 @@
 import React from 'react'
-import Sidenav from '../components/Sidenav'
+
 import Sliderimage from '../components/Sliderimage'
 import  Navbar  from  '../components/Navbar'
 import Ourexpertise from '../components/Ourexpertise'
 import Aboutussection from '../components/Aboutussection'
+import Chooseus from '../components/Chooseus'
+import Productlist from '../components/Productlist'
 
 
 const Home = () => {
@@ -13,6 +15,8 @@ const Home = () => {
      <Sliderimage />
     <Ourexpertise />
     <Aboutussection />
+    <Chooseus />
+   <Productlist />
     </div>
   )
 }
