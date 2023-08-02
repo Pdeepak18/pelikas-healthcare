@@ -52,7 +52,7 @@ const Aboutussection = () => {
     },
   ]
   return (
-    <div style={myStyle} className="bg p-6 md:">
+    <div style={myStyle} className="bg p-6 relative -top-[140px] md:top-0">
       <h1 className="text-3xl font-semibold text-center">About Us</h1>
       <p className="text-[20px] md:text-2xl text-center mt-10">
         Plikas Healthcare is the largest contract manufacturing <br />

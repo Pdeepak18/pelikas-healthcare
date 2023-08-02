@@ -6,17 +6,15 @@ import 'animate.css';
 
 const Ourexpertise = () => {
   return (
-    <div className="bg-[#E9E9F6] relative -top-[110px] md:mt-10">
+    <div className="bg-[#E9E9F6] relative -top-[140px] md:top-0 md:mt-14">
     <h3 className="relative  md:mt-8 md:top-0 text-3xl text-center font-bold">Our Expertise</h3>
     <div className="w-6 h-1 bg-green-400 hidden md:block	 mx-auto mt-0 md:mt-4  md:mb-2"></div>
 <div className="relative  md:mt-4 md:top-0  p-8 grid grid-cols-1 md:grid-cols-2 gap-6 place-items-center">
-    
-
     {Ourexpertisedata.map(expert =>{
         return(
-            <div className=" animate__animated animate__backInLeft border-solid border-red-500 border-2	box-shadow flex flex-col rounded-lg bg-white shadow-[0_2px_15px_-3px_rgba(0,0,0,0.07),0_10px_20px_-2px_rgba(0,0,0,0.04)] dark:bg-white md:max-w-xl md:flex-row">
+            <div className=" animate__animated animate__backInLeft  border-solid border-red-500 border-2	box-shadow flex flex-col rounded-lg bg-white shadow-[0_2px_15px_-3px_rgba(0,0,0,0.07),0_10px_20px_-2px_rgba(0,0,0,0.04)] dark:bg-white md:max-w-xl md:flex-row">
         <img
-          className="h-[320px]  w-full rounded-t-lg object-cover md:h-auto md:w-[250px]  md:rounded-none md:rounded-tl-[66px]"
+          className="  h-[120px] lg:h-[320px]  w-full rounded-t-lg object-cover md:h-auto md:w-[250px]  md:rounded-none md:rounded-tl-[66px]"
           src={expert.image}
           alt=""
         />
