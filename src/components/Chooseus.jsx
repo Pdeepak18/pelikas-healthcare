@@ -12,7 +12,7 @@ const Chooseus = () => {
   return (
     <div style={myStyle} className="flex flex-row relative -top-[140px] md:top-0">
       {/* image */}
-      <div className="w-[40%] hidden lg:block object-cover ">
+      <div className="w-[40%] hidden lg:block object-cover h-full ">
         <img src={bg} alt="" className="w-full" />
       </div>
 
