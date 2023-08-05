@@ -3,7 +3,7 @@ export const MenuItems=[
     {
         title: "Home",
         path:"/",
-        cName:'nav-links',
+        cName:'nav-links dropdown',
     },
     {
         title:"Product",
@@ -11,13 +11,13 @@ export const MenuItems=[
         cName:'nav-links dropdown',
     },
     {
-        title:"careers",
+        title:"Career",
         path:"/careers",
         cName:'nav-links dropdown',
     },
     {
         title: "About Us",
         path:"/about-us",
-        cName:'nav-links',
+        cName:'nav-links dropdown',
     }
 ]
