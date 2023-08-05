@@ -6,7 +6,8 @@ import Ourexpertise from '../components/Ourexpertise'
 import Aboutussection from '../components/Aboutussection'
 import Chooseus from '../components/Chooseus'
 import Productlist from '../components/Productlist'
-
+import Faq from '../components/Faq'
+import Footer from '../components/Footer'
 
 const Home = () => {
   return (
@@ -17,6 +18,8 @@ const Home = () => {
     <Aboutussection />
     <Chooseus />
    <Productlist />
+   {/* <Faq/> */}
+   <Footer />
     </div>
   )
 }
