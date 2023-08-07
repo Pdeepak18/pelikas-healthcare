@@ -2,7 +2,11 @@
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 } */
 
+  @import url('https://fonts.googleapis.com/css2?family=Lato:wght@100&family=Pacifico&family=Poppins:wght@500&family=Saira:wght@300&display=swap');
 
+.ff-saira{
+  font-family: 'Saira', sans-serif;
+}
 
 
 *{
@@ -30,6 +34,18 @@
   -webkit-box-shadow: 10px 10px 5px 0px rgba(183,195,199,1);
 -moz-box-shadow: 10px 10px 5px 0px rgba(183,195,199,1);
 box-shadow: 10px 10px 5px 0px rgba(183,195,199,1);
+}
+
+td:hover{
+  font-weight: bold;
+cursor: pointer;
+}
+
+
+.bg-about{
+  background-image: url("./assests/about-us-assets/bg-12.webp");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 /* .sidebar {
   max-width: 14rem !important;
@@ -167,4 +183,20 @@ box-shadow: 10px 10px 5px 0px rgba(183,195,199,1);
   background-image: url("./assests/slide0.jpg");
   background-repeat: no-repeat;
   background-size: cover;
+}
+
+.bg-vid{
+ 
+}
+
+#background-video {
+  width: 1000px;
+  height:400px;
+  object-fit: cover;
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  z-index: -1;
 }

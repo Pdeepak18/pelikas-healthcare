@@ -35,3 +35,9 @@
     color:white;
     padding:16px;
 }
+
+.selected-option {
+    font-weight: bold;
+    color: yellow;
+    background-color: #f2f2f2;
+}

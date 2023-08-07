@@ -72,7 +72,7 @@ const Navbar = () => {
               className="nav-links flex flex-row"
               onClick={closeMobileMenu}
             >
-              Services <IoMdArrowDropdown className=" relative top-3 ml-1" />
+              About Us <IoMdArrowDropdown className=" relative top-3 ml-1" />
             </Link>
             {dropdown && <Dropdown />}
           </li>
