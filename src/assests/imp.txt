@@ -16,3 +16,16 @@ Media Corner
 -News & Announcements
 Investors
 Contact us
+
+
+
+<ul className="text-white">
+                      <li >{item.title}</li>
+
+                      <li>
+
+                        {item.submenu.map(function (submenu) {
+                          return <li>{item.submenu.subTitle}</li>;
+                        })}
+                      </li>
+                    </ul>

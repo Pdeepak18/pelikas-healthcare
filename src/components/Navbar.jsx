@@ -9,7 +9,7 @@ import { SidebarData } from "./SidebarData";
 import { IconContext } from "react-icons";
 import { IoMdArrowDropdown } from "react-icons/io";
 // import Button from './Button'
-
+import { MdOutlineFormatListBulleted } from "react-icons/md";
 const Navbar = () => {
   const [click, setClick] = useState(false);
   const [dropdown, setDropdown] = useState(false);
@@ -93,9 +93,23 @@ const Navbar = () => {
   const handleSubProduct6 = () => {
     setActive6(!active6);
   };
+
+  // sidebar
+  const [act,setAct ] = useState(false)
+  const handlesubitemfunc = () =>{
+      setAct(!act)
+  }
+
+  // mobile
+  const [isActive, setIsActive] = useState(false);
+
+  const handleClickmob = (event) => {
+    // 👇️ toggle isActive state on click
+    setIsActive(!isActive);
+  };
   return (
     <>
-      <nav className="navbar">
+      <nav className="navbar invisible md:visible">
         <div className="mr-3 md:mr-5">
           {/* logo */}
           <Link to="/">
@@ -148,6 +162,7 @@ const Navbar = () => {
           </li>
           {isHovering && (
             <div
+              onMouseEnter={handleMouseOver}
               onMouseLeave={handleMouseOut}
               className="absolute top-20 left-0 bg-[#1B1919] w-[900px]  md:w-[100vw] h-min-[100px] opacity-90"
             >
@@ -175,7 +190,7 @@ const Navbar = () => {
                 <div>
                   <div onClick={handleSubProduct2}>
                     <h1 className="flex flex-row cursor-pointer">
-                    PARENTAL FORMULATIONS
+                      PARENTAL FORMULATIONS
                       <IoMdArrowDropdown className=" relative top-2 ml-1" />
                     </h1>
                   </div>
@@ -195,7 +210,7 @@ const Navbar = () => {
                 <div>
                   <div onClick={handleSubProduct3}>
                     <h1 className="flex flex-row cursor-pointer">
-                    INHALATIONAL FORMULATIONS
+                      INHALATIONAL FORMULATIONS
                       <IoMdArrowDropdown className=" relative top-2 ml-1" />
                     </h1>
                   </div>
@@ -206,7 +221,6 @@ const Navbar = () => {
                         <li>ROTACAPS</li>
                         <li>INHALERS</li>
                         <li>NASAL SPRAYS</li>
-                        
                       </ul>
                     </div>
                   )}
@@ -215,7 +229,7 @@ const Navbar = () => {
                 <div>
                   <div onClick={handleSubProduct4}>
                     <h1 className="flex flex-row cursor-pointer">
-                    TOPICAL (SKIN/HAIR) FORMULATIONS
+                      TOPICAL (SKIN/HAIR) FORMULATIONS
                       <IoMdArrowDropdown className=" relative top-2 ml-1" />
                     </h1>
                   </div>
@@ -225,7 +239,6 @@ const Navbar = () => {
                         <li>CREAM/OINTMENTS/GELS</li>
                         <li>LOTIONS/POWDER</li>
                         <li>LOZENGESSERUM/DROPS/SPRAYS</li>
-                        
                       </ul>
                     </div>
                   )}
@@ -234,7 +247,7 @@ const Navbar = () => {
                 <div>
                   <div onClick={handleSubProduct5}>
                     <h1 className="flex flex-row cursor-pointer">
-                    OPTHALMIC & ENT PRODUCTS
+                      OPTHALMIC & ENT PRODUCTS
                       <IoMdArrowDropdown className=" relative top-2 ml-1" />
                     </h1>
                   </div>
@@ -253,7 +266,7 @@ const Navbar = () => {
                 <div>
                   <div onClick={handleSubProduct6}>
                     <h1 className="flex flex-row cursor-pointer">
-                    OTHERS
+                      OTHERS
                       <IoMdArrowDropdown className=" relative top-2 ml-1" />
                     </h1>
                   </div>
@@ -264,7 +277,6 @@ const Navbar = () => {
                         <li>SURGICAL INSTRUMENTS</li>
                         <li>HOSPITAL TECHNOLOGY</li>
                         <li>HOSPITAL FURNITURE</li>
-                        
                       </ul>
                     </div>
                   )}
@@ -299,19 +311,131 @@ const Navbar = () => {
                 </Link>
               </li>
               {SidebarData.map((item, index) => {
-                return (
-                  <li key={index} className={item.cName}>
-                    <Link to={item.path} className="">
-                      {item.icon}
-                      <span className="">{item.title}</span>
-                    </Link>
-                  </li>
-                );
-              })}
+               
+                  return (
+                    <li key={index} className={item.cName}>
+                      <Link to={item.path} className="">
+                        {item.icon}
+                        <span className="">{item.title}</span>
+                      </Link>
+                    </li>
+                  );
+              })
+              }
             </ul>
           </nav>
         </IconContext.Provider>
       </nav>
+      <div className="visible md:invisible z-1000 ">
+      <nav className="bg-blue-950 ">
+        <div className="relative w-10/12 md:w-11/12 max-w-[1080px] mx-auto flex items-center justify-between ">
+          <Link to="/">
+            <div>
+              <a href="/" className="cursor-pointer py-7 pr-7 block">
+                <img src={sidelogo} alt="" width="200" height="30" />
+              </a>
+              <p></p>
+            </div>
+          </Link>
+
+          <div>
+            <ul className="hidden gap-5 lg:flex">
+              <Link to="/">
+                <li className="text-black relative font-inherit py-7 hover:font-bold cursor-pointer transition-all duration-200 text-xl group">
+                  <a href="/" className="text-xl ">
+                    Home
+                  </a>
+                  <div className="absolute w-full h-1 bg-black	 bottom-0 opacity-0 group-hover:opacity-100"></div>
+                </li>
+              </Link>
+
+              <Link to="/aboutus">
+                <li className="text-black relative font-inherit py-7 hover:font-bold cursor-pointer transition-all duration-200 text-xl group">
+                  <a href="/aboutus" className="text-xl">
+                    About Us
+                  </a>
+                  <div className="absolute w-full h-1 bg-black	 bottom-0 opacity-0 group-hover:opacity-100"></div>
+                </li>
+              </Link>
+
+              
+              <Link to="/ourproducts">
+                <li className="text-black relative font-inherit py-7 hover:font-bold cursor-pointer transition-all duration-200 text-xl group">
+                  <a href="/ourproducts" className="text-xl">
+                    Our Products
+                  </a>
+                  <div className="absolute w-full h-1 bg-black	 bottom-0 opacity-0 group-hover:opacity-100"></div>
+                </li>{" "}
+              </Link>
+
+              <Link to="/contactus">
+                <li className="text-black relative font-inherit py-7 hover:font-bold cursor-pointer transition-all duration-200 text-xl group">
+                  <a href="/contactus" className="text-xl">
+                    {" "}
+                    Contact Us
+                  </a>
+                  <div className="absolute w-full h-1 bg-black	 bottom-0 opacity-0 group-hover:opacity-100"></div>
+                </li>
+              </Link>
+            </ul>
+
+            {/* Side icon for small screen */}
+            <div className="flex gap-5 lg:hidden">
+              <MdOutlineFormatListBulleted
+                fontSize="2rem"
+                color="black"
+                className="bg-salmon cursor-pointer"
+                onClick={handleClickmob}
+              />
+            </div>
+          </div>
+        </div>
+      </nav>
+
+      <div className={isActive ? "bg-blue-950  " : "hidden"}>
+        <div className="relative w-10/12 md:w-11/12 max-w-[1080px] mx-auto flex items-center justify-between lg:hidden">
+          <ul className="">
+            <Link to="/">
+              <li className="text-black relative font-inherit py-7 hover:text-lightBlue hover:text-2xl cursor-pointer transition-all duration-200 text-xl group">
+                {" "}
+                <a href="/" className="text-xl">
+                  Home
+                </a>
+                <div className="absolute w-full h-1 bg-black	 bottom-0 opacity-0 group-hover:opacity-100"></div>
+              </li>
+            </Link>
+            <Link to="/aboutus">
+              <li className="text-black relative font-inherit py-7 hover:text-lightBlue hover:text-2xl cursor-pointer transition-all duration-200 text-xl group">
+                {" "}
+                <a href="/aboutus" className="text-xl">
+                  About Us
+                </a>
+                <div className="absolute w-full h-1 bg-black	 bottom-0 opacity-0 group-hover:opacity-100"></div>
+              </li>
+            </Link>
+            <Link to="/ourproducts">
+              <li className="text-black relative font-inherit py-7 hover:text-lightBlue hover:text-2xl cursor-pointer transition-all duration-200 text-xl group">
+                <a href="/ourproducts" className="text-xl">
+                  Our Products
+                </a>
+                <div className="absolute w-full h-1 bg-black	 bottom-0 opacity-0 group-hover:opacity-100"></div>
+              </li>
+            </Link>
+
+            <Link to="/contactus">
+              <li className="text-black relative font-inherit py-7 hover:text-lightBlue hover:text-2xl cursor-pointer transition-all duration-200 text-xl group">
+                {" "}
+                <a href="/contactus" className="text-xl">
+                  {" "}
+                  Contact Us
+                </a>
+                <div className="absolute w-full h-1 bg-black	 bottom-0 opacity-0 group-hover:opacity-100"></div>
+              </li>
+            </Link>
+          </ul>
+        </div>
+      </div>
+      </div>
     </>
   );
 };

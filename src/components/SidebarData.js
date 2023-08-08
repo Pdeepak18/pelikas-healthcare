@@ -12,9 +12,31 @@ export const SidebarData= [
     },
     {
         title: 'About Us',
-        path:'/about-us',
+        path:'/about-pelikas-healthcare/',
         icon:<IoIcons.IoIosPaperPlane />,
         cName:"nav-text",
+        submenu:[
+            {
+                subTitle:"Infrastructure",
+                subPath:"/about-pelikas-healthcare/infrastructure/"
+            },
+            {
+                subTitle:"Mission and Value",
+                subPath:"/about-pelikas-healthcare/mission-and-value/"
+            },
+            {
+                subTitle:"Overview",
+                subPath:"/about-pelikas-healthcare/overview-pelikas-healthcare/"
+            },
+            {
+                subTitle:"Why choose use",
+                subPath:"/about-pelikas-healthcare/why-choose-us/"
+            },
+            {
+                subTitle:"Infrastructure",
+                subPath:"/about-pelikas-healthcare/social-responsibility/"
+            },
+        ]
     },
     {
         title: 'Reports',
@@ -43,6 +65,12 @@ export const SidebarData= [
         title: 'Support',
         path:'/support',
         icon:<IoIcons.IoMdHelpCircle />,
+        cName:"nav-text",
+    },
+    {
+        title: 'Messages',
+        path:'/messages',
+        icon:<FaIcons.FaEnvelopeOpenText />,
         cName:"nav-text",
     },
 ]

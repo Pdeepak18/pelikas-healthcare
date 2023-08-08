@@ -11,7 +11,7 @@
   top: 0;
   right: 0;
   z-index: 100;
-
+ 
 
 }
 
@@ -186,6 +186,10 @@
   transition: 300ms;
   transition: ease;
 
+}
+
+.nav-men2 li{
+  height:1000px;
 }
 
 .nav-menu2.active{
