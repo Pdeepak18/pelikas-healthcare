@@ -177,11 +177,11 @@ const Navbar = () => {
                   {active1 && (
                     <div className="ml-5 leading-8 cursor-pointer">
                       <ul className="list-[circle] ">
-                        <li>TABLETS</li>
-                        <li>CAPSULES</li>
-                        <li>LOZENGES</li>
-                        <li>GRANULES</li>
-                        <li>SUPPOSITORIES/PESSARY</li>
+                        <li><a href='/products/enteral-formulation'>TABLETS</a></li>
+                        <li><a href='/products/enteral-formulation'>CAPSULES</a></li>
+                        <li><a href='/products/enteral-formulation'>LOZENGES</a></li>
+                        <li><a href='/products/enteral-formulation'>GRANULES</a></li>
+                        <li><a href='/products/enteral-formulation'>SUPPOSITORIES/PESSARY</a></li>
                       </ul>
                     </div>
                   )}
@@ -197,11 +197,11 @@ const Navbar = () => {
                   {active2 && (
                     <div className="ml-5 leading-8 cursor-pointer">
                       <ul className="list-[circle] ">
-                        <li>DRY POWDER INJECTABLES (VIALS/AMPS)</li>
-                        <li>LIQUID INJECTABLES (VIALS/AMPS)</li>
-                        <li>PREFILLED SYRINGES (PFS)</li>
-                        <li>INFUSIONS</li>
-                        <li>CONTRAST MEDIA</li>
+                        <li><a href='/products/parenteral-formulations'>DRY POWDER INJECTABLES (VIALS/AMPS)</a></li>
+                        <li><a href='/products/parenteral-formulations'>LIQUID INJECTABLES (VIALS/AMPS)</a></li>
+                        <li><a href='/products/parenteral-formulations'>PREFILLED SYRINGES (PFS)</a></li>
+                        <li><a href='/products/parenteral-formulations'>INFUSIONS</a></li>
+                        <li><a href='/products/parenteral-formulations'>CONTRAST MEDIA</a></li>
                       </ul>
                     </div>
                   )}
@@ -217,10 +217,10 @@ const Navbar = () => {
                   {active3 && (
                     <div className="ml-5 leading-8 cursor-pointer">
                       <ul className="list-[circle] ">
-                        <li>REPSULES</li>
-                        <li>ROTACAPS</li>
-                        <li>INHALERS</li>
-                        <li>NASAL SPRAYS</li>
+                        <li><a href='/products/inhalational-formulations'>REPSULES</a></li>
+                        <li><a href='/products/inhalational-formulations'>ROTACAPS</a></li>
+                        <li><a href='/products/inhalational-formulations'>INHALERS</a></li>
+                        <li><a href='/products/inhalational-formulations'>NASAL SPRAYS</a></li>
                       </ul>
                     </div>
                   )}
@@ -236,9 +236,9 @@ const Navbar = () => {
                   {active4 && (
                     <div className="ml-5 leading-8 cursor-pointer">
                       <ul className="list-[circle] ">
-                        <li>CREAM/OINTMENTS/GELS</li>
-                        <li>LOTIONS/POWDER</li>
-                        <li>LOZENGESSERUM/DROPS/SPRAYS</li>
+                        <li><a href='/products/topical-formulations'>CREAM/OINTMENTS/GELS</a></li>
+                        <li><a href='/products/topical-formulations'>LOTIONS/POWDER</a></li>
+                        <li><a href='/products/topical-formulations'>LOZENGESSERUM/DROPS/SPRAYS</a></li>
                       </ul>
                     </div>
                   )}
@@ -254,10 +254,10 @@ const Navbar = () => {
                   {active5 && (
                     <div className="ml-5 leading-8 cursor-pointer">
                       <ul className="list-[circle] ">
-                        <li>TABLETSEYE/EAR DROPS</li>
-                        <li>IMPLANTS / LENSES</li>
-                        <li>INTRAOCULAR SOLUTIONS</li>
-                        <li>OPTHALMIC CONSUMABLES & INSTRUMENTS</li>
+                        <li><a href='/products/opthlamic-formulations'>TABLETSEYE/EAR DROPS</a></li>
+                        <li><a href='/products/opthlamic-formulations'>IMPLANTS / LENSES</a></li>
+                        <li><a href='/products/opthlamic-formulations'>INTRAOCULAR SOLUTIONS</a></li>
+                        <li><a href='/products/opthlamic-formulations'>OPTHALMIC CONSUMABLES & INSTRUMENTS</a></li>
                       </ul>
                     </div>
                   )}
@@ -273,10 +273,10 @@ const Navbar = () => {
                   {active6 && (
                     <div className="ml-5 leading-8 cursor-pointer">
                       <ul className="list-[circle] ">
-                        <li>SURGICAL DISPOSABLES</li>
-                        <li>SURGICAL INSTRUMENTS</li>
-                        <li>HOSPITAL TECHNOLOGY</li>
-                        <li>HOSPITAL FURNITURE</li>
+                        <li><a href='/products/others'>SURGICAL DISPOSABLES</a></li>
+                        <li><a href='/products/others'>SURGICAL INSTRUMENTS</a></li>
+                        <li><a href='/products/others'>HOSPITAL TECHNOLOGY</a></li>
+                        <li><a href='/products/others'>HOSPITAL FURNITURE</a></li>
                       </ul>
                     </div>
                   )}
