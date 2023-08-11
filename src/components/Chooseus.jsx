@@ -19,14 +19,14 @@ const Chooseus = () => {
       {/* data */}
       <div className="bg-[#04A3BB] w-full px-[30px] lg:px-[70px] py-4 lg:py-2 flex flex-col gap-8">
       
-        <h1 className="text-2xl lg:text-4xl text-white font-semibold">WHY CHOOSE US</h1>
+        <h1 className="text-2xl lg:text-3xl text-white font-semibold">WHY CHOOSE US</h1>
         <p className="text-white text-md lg:text-xl">
           We Are The Leader Amongst Fastest Growing Pharma Companies In India.
           Maya Biotech Is Known As One Of The Best Third Party Pharmaceutical
           Manufacturing Company. Maya Biotech Is A Trusted Pharma Third Party
           Manufacturing Company.
         </p>
-        <div  className=" flex flex-col md:flex-row px-3 lg:px-8 py-4 text-white gap-[50px] lg:gap-[130px]">
+        <div  className=" flex flex-col md:flex-row px-3 lg:px-6 py-2 text-white gap-[50px] lg:gap-[10px]">
           <div className="flex flex-row gap-5 ">
             <FaSuitcase color="white" size="30" />
             <div>
@@ -34,7 +34,7 @@ const Chooseus = () => {
               <p className="text-xl tracking-wide">Pharma franchise products under <br /> different divisions</p>
             </div>
           </div>
-          <div className="flex flex-row gap-5 ">
+          <div className="flex flex-row gap-5 pl-10">
             <FaTruckMoving color="white" size="30" />
             <div>
               <h2 className="text-xl lg:text-3xl">Easy Goods Tracking</h2>

@@ -1,0 +1,28 @@
+.cart-info {
+    color: var(--color-fg-primary);
+    position: -webkit-sticky;
+    position:         sticky;
+    bottom: 0;
+  }
+  
+  .cart-info-inner {
+    display: flex;
+    flex-direction: column;
+    gap: .5rem;
+    position: -webkit-sticky;
+    position:         sticky;
+    top: 4rem;
+    padding: 0 2rem 2rem;
+}
+
+@media (max-width: 768px) {
+    .cart-info {
+       position: relative;
+      }
+    .cart-info-inner {
+      padding: 1rem;
+      
+    }
+  
+  
+  }
