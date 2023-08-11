@@ -20,10 +20,10 @@ import OpthlamicProduct from "./components/product/OpthlamicProduct";
 function App() {
   return (
     <div className="scroll-smooth	">
+    
       <Routes>
         <Route index path="/" element={<Home />} />
         <Route path="/contact-us" element={<Contactus />} />
-
         <Route path="about-pelikas-healthcare">
           <Route index element={<Aboutpelikas />} />
           <Route path="infrasturcture" element={<Infrasturcture />} />
@@ -32,7 +32,6 @@ function App() {
           <Route path="why-choose-us" element={<Whychooseus />} />
           <Route path="social-responsibility" element={<Social />} />
         </Route>
-
         <Route path="products">
           <Route index element={<Productdropdown />} />
           <Route path="enteral-formulation" element={<EnteralFormulation/>}/>

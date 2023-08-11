@@ -1,45 +1,49 @@
 import { Typography } from "@material-tailwind/react";
 import logo from "../assests/new-logo-removebg-preview.png";
 import { Link } from "react-router-dom";
-import { HashLink } from "react-router-hash-link";
+
 import "../App.css"
 const LINKS = [
   {
-    title: "Product",
+    title: "Products",
     items: [
-      <HashLink smooth to="/aboutus/#vitreoretina">
+      <Link smooth to="/products/enteral-formulation">
         {" "}
-        VITREO RETINA{" "}
-      </HashLink>,
-      <HashLink smooth to="/aboutus/#OPHTHALMICCANNULAS">
+        Enternal Formutaions{" "}
+      </Link>,
+      <Link smooth to="/products/parenteral-formulations">
         {" "}
-        OPHTHALMIC CANNULAS
-      </HashLink>,
-      <HashLink smooth to="/aboutus/#FLUIDMANAGEMENTDEVICES">
+        Parenteral Formutaions
+      </Link>,
+      <Link smooth to="/products/inhalational-formulations">
         {" "}
-        FLUID MANAGEMENT DEVICES{" "}
-      </HashLink>,
-      <HashLink smooth to="/aboutus/#Needleholder">
+        Inhalational Formutaions{" "}
+      </Link>,
+      <Link smooth to="/products/topical-formulations">
         {" "}
-        Needle holder{" "}
-      </HashLink>,
-      <HashLink smooth to="/aboutus/#AKAHOSHIPRECHOPPER">
+        Topical  (SKIN/HAIR) Formutaions{" "}
+      </Link>,
+      <Link smooth to="/products/opthlamic-formulations">
         {" "}
-        AKAHOSHI PRE-CHOPPER{" "}
-      </HashLink>,
+        Opthalmic & ENT Products{" "}
+      </Link>,
+       <Link smooth to="/products/others">
+        {" "}
+        Others
+      </Link>,
     ],
   },
   {
     title: "Company",
     items: [
-      <a href="/aboutus">
-        <Link to="/aboutus"><HashLink smooth to="/aboutus/#/">ABOUT US</HashLink></Link>
+      <a href="/about-pelikas-healthcare/">
+        <Link to="/about-pelikas-healthcare/">About Us</Link>
       </a>,
-      <a href="/ourproducts">
-        <Link to="/ourproducts">OUR PRODUCTS</Link>
+      <a href="/products">
+        <Link to="/products">Our Products</Link>
       </a>,
-      <a href="/contactus">
-        <Link to="/contactus">CONTACT US</Link>
+      <a href="/contact-us">
+        <Link to="/contact-us">Contact Us</Link>
       </a>,
       "",
     ],
@@ -92,7 +96,7 @@ export default function Footer() {
             className="mb-4 text-center font-poppins font-normal text-blue-gray-900 md:mb-0"
           >
             &copy; {currentYear}{" "}
-            <a href="https://fraglot.onrender.com/">Fraglot</a>. All Rights
+            <a href="">Pelikas Healthcare</a>. All Rights
             Reserved.
           </Typography>
 

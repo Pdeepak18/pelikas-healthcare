@@ -35,7 +35,7 @@ export const ProductItems = [
         ]
     },
     {
-        TITLE: "PARENTERAL FORMULATIONS",
+        TITLE: "PARENTERAL FORMULATIONS FORMULATIONS",
         SUBMENU: [
             {
                 TITLE: "DRY POWDER INJECTABLES (VIALS/AMPS)",

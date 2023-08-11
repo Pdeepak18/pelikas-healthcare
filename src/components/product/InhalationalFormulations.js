@@ -1,37 +1,37 @@
-import React from 'react'
-// import React from "react";
+import React,{useEffect} from "react";
 import { ProductItems } from "./ProductItems";
-// import Productdropdown from './Productdropdown'
-// import { LoremIpsum, Avatar } from "react-lorem-ipsum";
 import Navbar from "../Navbar";
-// import Footer from '../Footer'
-import { useNavigate } from 'react-router-dom';
-import Contactus from './Contactus';
+import Footer from "../Footer";
+import { useNavigate } from "react-router-dom";
+import Contactus from "./Contactus";
+import styles from "./product.module.css";
 
 export default function InhalationalFormulations() {
-    const data = ProductItems[2];
-    const navigate = useNavigate();
-    // {console.log(typeof data)}
-    return (
-      <div className=" overflow-hidden">
-        <Navbar />
-        <div className="flex flex-col justify-center items-center text-center space-y-10">
-          <h1 className="font-semibold text-4xl text-slate-500 ">OUR PRODUCT</h1>
-          <h1 className="font-semibold text-4xl text-green-600 underline italic">
-          INHALATIONAL FORMULATIONS
-          </h1>
-          <p className=" md:max-w-[960px] max-w-700px m-auto text-base">
-            Non etiam tempor id arcu magna ante eget. Nec per posuere cubilia cras
-            porttitor condimentum orci suscipit. Leo maecenas in tristique,
-            himenaeos elementum placerat. Taciti rutrum nostra, eget cursus velit
-            ultricies. Quam molestie tellus himenaeos cubilia congue vivamus
-            ultricies. Interdum praesent ut penatibus fames eros ad consectetur
-            sed.
-          </p>
-        </div>
-        <div className="flex justify-center items-start  w-screen mt-10 md:space-x-10">
-          <table className=" w-[700px]">
-            <tr className="">
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
+  const data = ProductItems[2];
+  const navigate = useNavigate();
+  return (
+    <div className=" overflow-hidden">
+      <Navbar />
+      <div className="flex flex-col justify-center items-center text-center gap-10 mt-20 px-[10px] md:px-auto">
+        <h1 className="font-semibold text-4xl text-green-600 underline italic">
+          Inhalational Formulations 
+        </h1>
+        <p className=" md:max-w-[960px] max-w-700px m-auto text-base text-justify">
+          Non etiam tempor id arcu magna ante eget. Nec per posuere cubilia cras
+          porttitor condimentum orci suscipit. Leo maecenas in tristique,
+          himenaeos elementum placerat. Taciti rutrum nostra, eget cursus velit
+          ultricies. Quam molestie tellus himenaeos cubilia congue vivamus
+          ultricies. Interdum praesent ut penatibus fames eros ad consectetur
+          sed.
+        </p>
+      </div>
+      <div className="flex flex-col md:flex-row px-[10px]  md:px-[6rem] gap-2 bg-slate h-[100%] mt-5 md:mt-10">
+        <div>
+          <table className="  w-[100%] md:w-[600px] text-lg mt-0 md:mt-16">
+            <tr className="bg-blue-500 text-white">
               <th className=" border-2 border-solid border-[#dddddd] text-center p-[8px]">
                 Sr no.
               </th>
@@ -45,18 +45,35 @@ export default function InhalationalFormulations() {
                   <td className=" border-2 border-solid border-[#dddddd] text-center p-[8px]">
                     {index + 1}
                   </td>
-                  <td className=" border-2 border-solid border-[#dddddd] text-center p-[8px]">
-                  <button onClick={()=>{navigate("/products/tablet",{state:{desc:item.description,imgURL:item.imgURL}})}}>
-                          {item.TITLE}
-                        </button>
-                    </td>
+                  <td className="border-2 border-solid border-[#dddddd] text-center md:p-[8px]">
+                    <button
+                       className="block w-full text-center border-hidden	 sm:border-0	md:border-2 text-base "
+                      onClick={() => {
+                        navigate("/products/tablet", {
+                          state: {
+                            desc: item.description,
+                            imgURL: item.imgURL,
+                          },
+                        });
+                      }}
+                    >
+                      {item.TITLE}
+                    </button>
+                  </td>
                 </tr>
               );
             })}
           </table>
-          <Contactus/>
         </div>
-        {/* <Footer/> */}
+
+        <section className={`${styles["cart-info"]} `}>
+          <div className={`${styles["cart-info-inner"]}  `}>
+            <h1 className="font-semibold text-4xl ">Contact Us</h1>
+            <Contactus className="" />
+          </div>
+        </section>
       </div>
-    );
+      <Footer/>
+    </div>
+  );
 }
