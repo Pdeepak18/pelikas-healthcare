@@ -16,7 +16,7 @@ const Infrastructure = () => {
     <div classname="  ">
       <Navbar />
       <div
-        className="md:rounded-xl relative top-20 h-[200px] md:h-[250px]"
+        className="md:rounded-xl relative lg:top-[72px] h-[200px] md:h-[250px]"
         id="/"
       >
         <div className="relative h-full w-full">
@@ -92,7 +92,7 @@ const Infrastructure = () => {
               <p className="text-3xl font-semibold text-[#044EA1] text-center ff-saira">
                 Own Premises
               </p>
-              <p className="mt-2 ff-saira text-justify">
+              <p className="mt-2 ff-saira lg:text-justify">
                 Our headquarters are located in Chandigarh and are fully
                 equipped with cutting-edge technological systems. Our entire
                 infrastructure has been thoughtfully segmented into distinct
@@ -106,13 +106,13 @@ const Infrastructure = () => {
           </div>
         </div>
 
-        <div className="mt-10 mx-auto md:w-[1200px] h-[400px] bg-[#EEEEEE] rounded-xl bg-vid relative ">
-          <div className="flex flex-row">
-            <div className="w-[50%] p-12">
+        <div className="mt-10 mx-auto md:w-[1200px] lg:h-[400px] bg-[#EEEEEE] rounded-xl bg-vid relative ">
+          <div className="flex flex-col lg:flex-row">
+            <div className="lg:w-[50%] p-2 lg:p-12">
               <h1 className="text-[#044EA1] text-3xl text-center ">
                 Research & Development
               </h1>
-              <p className="mt-3 ff-saira text-justify text-lg">
+              <p className="mt-3 ff-saira text-justify lg:text-lg">
                 Our Chandigarh headquarters are fully equipped with cutting-edge
                 technological systems. Our entire infrastructure has been
                 carefully segmented into distinct areas, including research and
@@ -124,7 +124,7 @@ const Infrastructure = () => {
               </p>
             </div>
 
-            <img src={BgImage3} alt="" className="object-cover w-[50%]" />
+            <img src={BgImage3} alt="" className="object-fill lg:w-[50%]" />
           </div>
         </div>
       </div>

@@ -10,7 +10,7 @@ const Overview = () => {
   return (
     <div className="">
       <Navbar />
-      <div className="relative top-20 pt-10 overflow-x-hidden">
+      <div className="relative lg:top-[72px] pt-10 overflow-x-hidden">
 
       
         <h1 className="font-semibold text-blue-800 text-3xl md:text-4xl px-1 md:px-28 mb-8">

@@ -11,7 +11,7 @@ const Whychooseus = () => {
   return (
     <div className="w-full h-full ">
       <Navbar />
-      <div className="relative top-20 lg:h-[100vh]  relative ">
+      <div className="relative lg:top-[72px] lg:h-[100vh]   ">
         <div className=" ">
           <div className="flex  flex-col-reverse md:flex-row md:justify-center md:items-center gap-5 py-10 md:py-20 md:px-10 ">
             <div className="flex flex-col md:w-[55%] animate__animated animate__backInLeft">

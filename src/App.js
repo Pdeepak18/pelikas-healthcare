@@ -16,6 +16,9 @@ import Productdropdown from './components/product/Productdropdown'
 import Tablet from "./components/product/Tablet";
 import TopicFormulation from "./components/product/TopicFormulation";
 import OpthlamicProduct from "./components/product/OpthlamicProduct";
+import Services from "./pages/Services";
+import InternationalPresence from "./pages/InternationalPresence";
+import PageNotFound from "./pages/PageNotFound";
 
 function App() {
   return (
@@ -42,6 +45,9 @@ function App() {
           <Route path="topical-formulations" element={<TopicFormulation/>}/>
           <Route path="opthlamic-formulations" element={<OpthlamicProduct/>}/>
         </Route>
+        <Route path="/services" element={<Services />} />
+        <Route path="/international-presence" element={<InternationalPresence />} />
+        <Route path="*" element={<PageNotFound />} />
 
         {/* <Route path="about-pelikas-healthcare" element={<Aboutpelikas  />}>
           <Route  path="infrasturcture" element={<Infrasturcture />} />

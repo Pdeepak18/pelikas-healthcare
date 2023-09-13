@@ -11,7 +11,7 @@ const Social = () => {
   return (
     <div className="w-full h-full ">
       <Navbar />
-      <div className="relative top-20 lg:h-[100vh]  relative ">
+      <div className="relative lg:top-[72px] lg:h-[100vh]   ">
         <div className=" ">
           {/* mission */}
           <div className="flex  flex-col-reverse md:flex-row md:justify-center gap-5 py-10 md:py-20 md:px-10 ">

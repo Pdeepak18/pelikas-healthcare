@@ -1,5 +1,5 @@
 import { Typography } from "@material-tailwind/react";
-import logo from "../assests/new-logo-removebg-preview.png";
+import logo from "../assests/Pelikas Healthcare Logo_finmal.png";
 import { Link } from "react-router-dom";
 
 import "../App.css"
