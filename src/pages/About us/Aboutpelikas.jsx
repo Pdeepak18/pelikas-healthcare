@@ -16,7 +16,7 @@ const Aboutpelikas = () => {
   return (
     <div className="w-full h-full ">
       <Navbar />
-      <div className="ff-saira  lg:h-[100vh]  flex overflow-x-hidden	 relative top-20 ">
+      <div className="ff-saira  lg:min-h-[100vh]  flex overflow-x-hidden	 relative top-20 ">
         <div className=" md:max-w-6xl  mx-auto  justify-center  items-center md:space-x-16  flex flex-col md:flex-row">
           <img
             src={BGimage}
@@ -34,29 +34,37 @@ const Aboutpelikas = () => {
               Focus on Purity and Quality
             </h1>
 
-            <p className="text-md md:text-xl text-justify md:text-left p-4 md:p-0">
-              Our vision is to grow into a contract manufacturing pharmaceutical
-              company based on advanced technology and research, and to
-              establish ourselves as an intellectually strong player in both the
-              domestic and international markets. Pelikas Healthcare has grown
-              tremendously from a small domestic company to an integrated,
-              research-based, contract manufacturing pharmaceutical company with
-              a strong focus on contract manufacturing.
-              <br></br>
-              <br></br>
-              We have travelled this far as a team of Pelikas Healthcare because
-              of our management’s unwavering “dedication” and “will” to win. Our
-              company is dedicated to providing the highest-quality
-              pharmaceutical products at the most affordable prices to the
-              community in order to contribute to the reduction of healthcare
-              costs. We are confident that our efforts will result in the
-              Company’s continued growth as a contract manufacturer in the years
-              ahead. While we continue to grow our business.
+            <p className="text-md md:text-lg text-justify md:text-left p-4 md:p-0">
+              Pelikas Healthcare Pvt. Ltd., a trailblazing pharmaceutical
+              company with over years of manufacturing and marketing expertise.
+              From our Mumbai-based head office in Maharashtra, India, we are
+              revolutionizing the industry by delivering products that surpass
+              international standards of excellence. As proud bearers of ISO and
+              GDP compliance, we leave no stone unturned in ensuring the highest
+              levels of safety, quality, and efficacy for our valued customers.
+              Our state-of-the-art manufacturing units boast prestigious
+              certifications such as WHO-GMP and GLP, reflecting our unwavering
+              commitment to global best practices. 
+              <br></br>              <br></br>
+
+             
+              Our extensive range of over 5,000 healthcare
+              products includes tablets, capsules, lozenges, sachets,
+              suppositories/pessaries, and dry powder injectables (vials/amps),
+              liquid injectables (vials/amps), prefilled syringes (PFS),
+              infusions, contrast media, repulses, rotacaps, inhalers, nasal
+              sprays, cream/ointments/gels, lotions/powder, serum/drops/sprays,
+              eye/ear drops, implants / lenses, intraocular solutions,
+              ophthalmic consumables & instruments, etc. We are driven by a
+              passion to transform lives through innovative healthcare solutions
+              that make a tangible difference. Join us on this remarkable
+              journey towards a healthier future! Experience excellence in every
+              dose – choose Pelikas Healthcare for your healthcare needs.
             </p>
           </div>
         </div>
       </div>
-      <div className="bg-about md:h-[600px] ff-saira top-20 relative">
+      <div className="bg-about md:h-[600px] ff-saira top-28 relative">
         <div className="flex flex-col md:flex-row gap-8 md:gap-10 z-10 justify-center items-center  h-full">
           <div className="border-2 border-gray-800 flex flex-col md:w-[30%] m-2 md:m-0 p-8 md:p-20 z-50 hover:bg-[#65BC51] hover:text-white group hover:cursor-pointer">
             <h2 className="text-[#65BC51] text-2xl text-center  group-hover:text-white font-semibold">
@@ -113,7 +121,7 @@ const Aboutpelikas = () => {
           </div>
         </div>
       </div>
-      <div className="relative top-[80px] md:top-[80px]">
+      <div className="relative top-[110px] md:top-[80px]">
         <Footer />
       </div>
     </div>

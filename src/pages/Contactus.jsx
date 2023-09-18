@@ -5,6 +5,7 @@ import { useRef, useEffect } from "react";
 import emailjs from "@emailjs/browser";
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
+import AddressDetails from "../components/AddressDetails";
 
 const Contactus = () => {
   useEffect(() => {
@@ -48,7 +49,7 @@ const Contactus = () => {
       <Navbar />
       <div className="w-[100%] ">
         {/* <!-- ====== Contact Section Start --> */}
-        <section className="relative z-10 overflow-hidden smll bg-white py-20 lg:py-[120px]">
+        <section className="relative z-10 overflow-hidden smll bg-white py-20 px-3 lg:pt-[120px]">
           <div className="container mx-auto">
             <div className="-mx-4 flex flex-wrap lg:justify-between">
               <div className="w-full px-4 lg:w-1/2 xl:w-6/12">
@@ -60,9 +61,9 @@ const Contactus = () => {
                     GET IN TOUCH WITH US
                   </h2>
                   <p className="text-body-color mb-9 text-base leading-relaxed">
-                    Fraglot is a one of the leading manufacturer and supplier of
-                    wide-range of highly demanded finest quality Surgical
-                    Instruments in India.
+                    Dear Pelikas customer, Thank you for reaching out! You are
+                    an invaluable part of everything we do here. And we’re
+                    absolutely thrilled to hear from you.
                   </p>
                   <div className="mb-8 flex w-full max-w-[400px]">
                     <div className="bg-primary text-primary mr-6 flex h-[60px] w-full max-w-[60px] items-center justify-center overflow-hidden rounded bg-opacity-5 sm:h-[70px] sm:max-w-[70px]">
@@ -81,10 +82,8 @@ const Contactus = () => {
                         Our Location
                       </h4>
                       <p className="text-body-color text-base">
-                        Fraglot Industries Anwar Industrial, C-2,Pimplkar
-                        Compound, Near pimpari pada market, opp. swapnalok
-                        apartment, General A.K VaidyaMarg, Malad (E), Mumbai-400
-                        097
+                        Shop No. 2, C-Wing, Shri Badrinath CHSL, Ketkipada,
+                        Dahisar (East), Mumbai - 400 068, Maharashtra, INDIA 097
                       </p>
                     </div>
                   </div>
@@ -107,7 +106,7 @@ const Contactus = () => {
                         Phone Number
                       </h4>
                       <p className="text-body-color text-base">
-                        (+91)8976420730
+                        (+91)84549 68736
                       </p>
                     </div>
                   </div>
@@ -128,7 +127,7 @@ const Contactus = () => {
                         Email Address
                       </h4>
                       <p className="text-body-color text-base">
-                        fraglot02@gmail.com
+                        pelikashealthcare@gmail.com
                       </p>
                     </div>
                   </div>
@@ -999,6 +998,7 @@ const Contactus = () => {
         </section>
         {/* <!-- ====== Contact Section End --> */}
       </div>
+      <AddressDetails />
 
       <Footer />
     </>
@@ -1007,4 +1007,4 @@ const Contactus = () => {
   );
 };
 
-export default Contactus
+export default Contactus;

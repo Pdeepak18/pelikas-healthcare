@@ -3,6 +3,8 @@ import Navbar from "../../components/Navbar";
 import misson from "../../assests/about-us-assets/why-choose.webp";
 import Footer from "../../components/Footer";
 import "animate.css";
+import styles from "../../components/product/product.module.css";
+
 
 const Whychooseus = () => {
   useEffect(() => {
@@ -19,7 +21,7 @@ const Whychooseus = () => {
                 {" "}
                 Why Choose Us{" "}
               </h1>
-              <p className="text-md md:text-2xl pt-5 md:pt-10 ff-saira px-2 md:px-5 leading-6 text-justify">
+              <p className="text-md md:text-lg pt-5 md:pt-10 ff-saira px-2 md:px-5 leading-6 text-justify">
                 <p>
                   Owing to perfection and quality oriented approach, we have
                   carved niche in the industry by offering an enormous grade
@@ -39,49 +41,39 @@ const Whychooseus = () => {
                   Products.
                 </p>
                 <br />
+                <p>Long experience and extensive knowledge of industry.</p>
+                <br />
+                <p>Timely delivery of commitments.</p>
+                <br />
                 <p>
-                Long experience and extensive knowledge of industry.
-
+                  Customer focused approach with more than satisfaction level.
                 </p>
                 <br />
                 <p>
-                Timely delivery of commitments.
-
+                  Proven ability in successful execution ot small as well as
+                  bulk orders.
                 </p>
                 <br />
-                <p>
-                Customer focused approach with more than satisfaction level.
-
-                </p>
+                <p>State-of-the-art infrastructure base</p>
                 <br />
-                <p>
-                Proven ability in successful execution ot small as well as bulk orders.
-
-                </p>
-                <br />
-                <p>
-                State-of-the-art infrastructure base
-
-                </p>
-                <br />
-                <p>
-                Advanced production unit
-                </p>
+                <p>Advanced production unit</p>
                 <br />
                 <p>Cost-effective prices</p>
                 <br />
-                <p>
-                Experienced manpower
-                </p>
+                <p>Experienced manpower</p>
                 <br />
                 <p>Ethical business policies</p>
               </p>
             </div>
-            <img
-              src={misson}
-              alt="mission"
-              className="px-2 md:px-0  object-cover w-[450px] h-[100%] animate__animated animate__heartBeat"
-            />
+            <section className={`${styles["cart-info"]} `}>
+              <div className={`${styles["cart-info-inner"]}  `}>
+                <img
+                  src={misson}
+                  alt="mission"
+                  className="px-2 md:px-0  object-cover w-[450px] h-[100%] animate__animated animate__heartBeat"
+                />
+              </div>
+            </section>
           </div>
         </div>
         <Footer />

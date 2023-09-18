@@ -19,7 +19,7 @@ import OpthlamicProduct from "./components/product/OpthlamicProduct";
 import Services from "./pages/Services";
 import InternationalPresence from "./pages/InternationalPresence";
 import PageNotFound from "./pages/PageNotFound";
-
+import Career from "./pages/Career";
 function App() {
   return (
     <div className="scroll-smooth	">
@@ -45,8 +45,10 @@ function App() {
           <Route path="topical-formulations" element={<TopicFormulation/>}/>
           <Route path="opthlamic-formulations" element={<OpthlamicProduct/>}/>
         </Route>
-        <Route path="/services" element={<Services />} />
-        <Route path="/international-presence" element={<InternationalPresence />} />
+        <Route path="services" element={<Services />} />
+        <Route path="international-presence" element={<InternationalPresence />} />
+        <Route path="careers" element={<Career />} />
+
         <Route path="*" element={<PageNotFound />} />
 
         {/* <Route path="about-pelikas-healthcare" element={<Aboutpelikas  />}>

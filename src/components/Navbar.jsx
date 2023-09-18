@@ -11,7 +11,6 @@ import { IoMdArrowDropdown } from "react-icons/io";
 // import Button from './Button'
 import { MdOutlineFormatListBulleted } from "react-icons/md";
 
-
 const Navbar = () => {
   const [click, setClick] = useState(false);
   const [dropdown, setDropdown] = useState(false);
@@ -467,12 +466,34 @@ const Navbar = () => {
                 </li>
               </Link>
 
+              <Link to="/international-presence">
+                <li className="text-white relative font-inherit py-7 hover:text-lightBlue hover:text-2xl cursor-pointer transition-all duration-200 text-xl group">
+                  <a href="/products" className="text-xl">
+                    Global Presence
+                  </a>
+                  <div className="absolute w-full h-1 bg-white	 bottom-0 opacity-0 group-hover:opacity-100"></div>
+                </li>
+              </Link>
+              <Link to="/careers">
+                <li className="text-white relative font-inherit py-7 hover:text-lightBlue hover:text-2xl cursor-pointer transition-all duration-200 text-xl group">
+                  <a href="/products" className="text-xl">
+                    Career
+                  </a>
+                  <div className="absolute w-full h-1 bg-white	 bottom-0 opacity-0 group-hover:opacity-100"></div>
+                </li>
+              </Link>
+              <Link to="/services">
+                <li className="text-white relative font-inherit py-7 hover:text-lightBlue hover:text-2xl cursor-pointer transition-all duration-200 text-xl group">
+                  <a href="/products" className="text-xl">
+                    Services
+                  </a>
+                  <div className="absolute w-full h-1 bg-white	 bottom-0 opacity-0 group-hover:opacity-100"></div>
+                </li>
+              </Link>
               <Link to="/contact-us">
                 <li className="text-white relative font-inherit py-7 hover:text-lightBlue hover:text-2xl cursor-pointer transition-all duration-200 text-xl group">
-                  {" "}
-                  <a href="/contact-us" className="text-xl">
-                    {" "}
-                    Contact Us
+                  <a href="/products" className="text-xl">
+                    Contact-us
                   </a>
                   <div className="absolute w-full h-1 bg-white	 bottom-0 opacity-0 group-hover:opacity-100"></div>
                 </li>

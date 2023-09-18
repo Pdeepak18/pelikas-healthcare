@@ -13,6 +13,7 @@
   margin:0;
   padding: 0;
   box-sizing: border-box;
+  font-family: 'Saira', sans-serif;
 }
 
 .sidebar{
@@ -218,9 +219,7 @@ cursor: pointer;
   background-size: cover;
 }
 
-.bg-vid{
- 
-}
+
 
 #background-video {
   width: 1000px;
@@ -232,4 +231,13 @@ cursor: pointer;
   top: 0;
   bottom: 0;
   z-index: -1;
+}
+
+
+.flagbg{
+  background-size: cover;
+background-position: 100%;
+background-repeat: no-repeat;
+height: 100px;
+width: 300px;
 }

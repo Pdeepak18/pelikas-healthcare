@@ -3,6 +3,7 @@ import Navbar from "../../components/Navbar";
 import misson from "../../assests/about-us-assets/mission.jpg";
 import Footer from "../../components/Footer";
 import 'animate.css';
+import styles from "../../components/product/product.module.css";
 
 const Social = () => {
   useEffect(() => {
@@ -20,7 +21,7 @@ const Social = () => {
                 {" "}
                 Social Responsibilty{" "}
               </h1>
-              <p className="text-md md:text-2xl pt-5 md:pt-10 ff-saira px-2 md:px-5 leading-6 text-justify">
+              <p className="text-md md:text-lg pt-5 md:pt-10 ff-saira px-2 md:px-5 leading-6 text-justify">
                 <p>
                   We understand our customers’ and stakeholders’ expectations
                   and trust and strive to deliver superior service while
@@ -75,11 +76,15 @@ const Social = () => {
                 </p>
               </p>
             </div>
+            <section className={`${styles["cart-info"]} `}>
+              <div className={`${styles["cart-info-inner"]}  `}>
             <img
               src={misson}
               alt="mission"
               className="px-2 md:px-0 md:rounded-[100%] object-cover w-[450px] h-[300px] animate__animated animate__heartBeat"
             />
+             </div>
+            </section>
           </div>
         </div>
         <Footer />

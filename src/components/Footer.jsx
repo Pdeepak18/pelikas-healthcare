@@ -58,7 +58,7 @@ const currentYear = new Date().getFullYear();
 
 export default function Footer() {
   return (
-    <footer className="relative w-full p-10 bg">
+    <footer className="relative w-full p-10 bg-[#1B1A1A] text-white">
       <div className="mx-auto w-full max-w-7xl px-8">
         <div className="grid grid-cols-1 justify-between gap-10 md:gap-76 md:grid-cols-2">
           <Typography variant="h3" className="mb-6 ">
@@ -96,7 +96,7 @@ export default function Footer() {
             className="mb-4 text-center font-poppins font-normal text-blue-gray-900 md:mb-0"
           >
             &copy; {currentYear}{" "}
-            <a href="">Pelikas Healthcare</a>. All Rights
+            <a href="https://github.com/Pdeepak18/pelikas-healthcare">Pelikas Healthcare</a>. All Rights
             Reserved.
           </Typography>
 
@@ -126,7 +126,7 @@ export default function Footer() {
               </svg>
             </Typography>
             <Typography as="a" href="#" className="opacity-80 transition-opacity hover:opacity-100">
-            <a href="">
+            <a href="https://github.com/Pdeepak18/pelikas-healthcare">
               <svg className="h-7 w-7 footgithub" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
                 <path
                   fill-rule="evenodd"
@@ -136,9 +136,7 @@ export default function Footer() {
               </svg>
               </a>
             </Typography>
-            <Typography as="a" href="#" className="opacity-80 transition-opacity hover:opacity-100">
-            <img width="30" height="30" className="footdiscord" src="https://img.icons8.com/ios/50/discord-logo--v1.png" alt="discord-logo--v1"/>
-            </Typography>
+            
           </div>
         </div>
       </div>

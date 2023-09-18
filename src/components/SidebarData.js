@@ -41,31 +41,31 @@ export const SidebarData= [
     
     {
         title: 'Products',
-        path:'/product',
+        path:'/products',
         icon:<FaIcons.FaCartPlus />,
         cName:"nav-text",
     }, 
+    {
+        title: 'Global Presence',
+        path:'/international-presence',
+        icon:<IoIcons.IoIosPaper />,
+        cName:"nav-text",
+    },
+       {
+        title: 'Career',
+        path:'/careers',
+        icon:<IoIcons.IoMdPeople />,
+        cName:"nav-text",
+    },
     {
         title: 'Services',
         path:'/services',
         icon:<IoIcons.IoIosPaper />,
         cName:"nav-text",
     },
-       {
-        title: 'Career',
-        path:'/careers,',
-        icon:<IoIcons.IoMdPeople />,
-        cName:"nav-text",
-    },
     {
-        title: 'Messages',
-        path:'/messages',
-        icon:<FaIcons.FaEnvelopeOpenText />,
-        cName:"nav-text",
-    },
-    {
-        title: 'Support',
-        path:'/support',
+        title: 'Contact-Us',
+        path:'/contact-us',
         icon:<IoIcons.IoMdHelpCircle />,
         cName:"nav-text",
     },
