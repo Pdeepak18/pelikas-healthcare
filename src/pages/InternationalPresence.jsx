@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState,useEffect } from "react";
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 import { FaGreaterThan } from "react-icons/fa";
@@ -8,6 +8,9 @@ import { hasFlag } from "country-flag-icons";
 import AddressDetails from "../components/AddressDetails";
 
 const InternationalPresence = () => {
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
   const states = [
     {
       name: "Africa",

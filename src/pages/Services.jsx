@@ -1,15 +1,18 @@
-import React, { useState } from "react";
+import React, { useState,useEffect } from "react";
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 import map from "../assests/services/Map Background.jpg";
 import services from "../assests/services/38(best-international).webp";
 
 const Services = () => {
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
   return (
     <>
       <Navbar />
-      <div className="relative min-h-[100vh]  lg:top-[18px] p-6 py-20 bg-[#EEF6FF] flex flex-col">
-      <div className="flex flex-col ">
+      <div className="relative min-h-[100vh]  lg:top-[18px] p-6 py-20 bg-[#EEF6FF] flex flex-col mx-auto">
+      <div className="flex flex-col mx-auto">
       <h3 className="text-center text-red-600 text-2xl mb-6 font-semibold">
           Top 10 International Courier Services
         </h3>
@@ -20,7 +23,7 @@ const Services = () => {
       </div>
        {/* details
         */}
-        <div className="flex flex-row gap-10 flex-wrap mt-6">
+        <div className="flex flex-row gap-10 flex-wrap mt-6 mx-auto">
         <div >
           <p className="text-lg font-semibold underline">INTERNATIONAL AIR CARGO</p>
           <div className="mt-4">
