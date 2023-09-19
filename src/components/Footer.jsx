@@ -70,7 +70,7 @@ export default function Footer() {
                 <Typography
                   variant="small"
                   color="#5A5A5A"
-                  className="text-dark mb-1 text-xl font-bold font-poppins"
+                  className="text-white mb-1 text-xl font-bold font-poppins"
                 >
                   {title}
                 </Typography>
@@ -80,7 +80,7 @@ export default function Footer() {
                       as="a"
                       href="#"
                       color="gray"
-                      className="py-1.5  font-poppins font-normal transition-colors hover:text-blue-gray-900"
+                      className="py-1.5  font-poppins text-white   font-normal transition-colors hover:text-blue-gray-900"
                     >
                       {link}
                     </Typography>
