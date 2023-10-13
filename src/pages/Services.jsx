@@ -11,7 +11,7 @@ const Services = () => {
   return (
     <>
       <Navbar />
-      <div className="relative min-h-[100vh]  lg:top-[18px] p-6 py-20 bg-[#EEF6FF] flex flex-col mx-auto">
+      <div className="relative min-h-[100vh]   p-6 py-20 bg-[#EEF6FF] flex flex-col mx-auto">
       <div className="flex flex-col mx-auto">
       <h3 className="text-center text-red-600 text-2xl mb-6 font-semibold">
           Top 10 International Courier Services

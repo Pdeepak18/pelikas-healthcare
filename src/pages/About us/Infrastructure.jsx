@@ -16,7 +16,7 @@ const Infrastructure = () => {
     <div classname="  ">
       <Navbar />
       <div
-        className="md:rounded-xl relative lg:top-[72px] h-[200px] md:h-[250px]"
+        className="md:rounded-xl relative  h-[200px] md:h-[250px]"
         id="/"
       >
         <div className="relative h-full w-full">

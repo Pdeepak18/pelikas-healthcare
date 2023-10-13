@@ -7,7 +7,7 @@ const Career = () => {
   return (
     <>
       <Navbar />
-      <div className="min-h-[100vh]  flex flex-col lg:flex-row overflow-x-hidden	 relative lg:top-20 py-5 px-4 lg:px-4 gap-4">
+      <div className="min-h-[100vh]  flex flex-col lg:flex-row overflow-x-hidden	 relative rounded-md py-5 px-4 lg:px-4 gap-4">
         <div className="bg-gray-100 w-[100%]">
           <div className="container mx-auto py-8">
             <h1 className="text-4xl font-bold text-center mb-6">

@@ -14,7 +14,7 @@ const Missionandvalue = () => {
   return (
     <div className="w-full h-full ">
       <Navbar />
-      <div className="relative lg:top-[72px] lg:h-[100vh]   ">
+      <div className="relative  lg:h-[100vh]   ">
         <div className=" ">
           {/* mission */}
           <div

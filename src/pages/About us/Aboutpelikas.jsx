@@ -16,7 +16,7 @@ const Aboutpelikas = () => {
   return (
     <div className="w-full h-full ">
       <Navbar />
-      <div className="ff-saira  lg:min-h-[100vh]  flex overflow-x-hidden	 relative top-20 ">
+      <div className="ff-saira  lg:min-h-[100vh]  flex overflow-x-hidden	 relative  ">
         <div className=" md:max-w-6xl  mx-auto  justify-center  items-center md:space-x-16  flex flex-col md:flex-row">
           <img
             src={BGimage}
