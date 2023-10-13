@@ -1,5 +1,6 @@
 .navbar {
-  background: linear-gradient(90deg, rgb(28, 27, 27) 0%, rgb(26, 23, 23) 100%);
+  /* background: linear-gradient(90deg, rgb(28, 27, 27) 0%, rgb(26, 23, 23) 100%); */
+  /* color: hsla(214, 37%, 46%, 1); */
   height: 80px;
   display: flex;
   justify-content:space-around;
@@ -11,14 +12,17 @@
   top: 0;
   right: 0;
   z-index: 100;
- 
+ color: black;
 
 }
+
+
 
 @media screen and (max-width: 766px)  {
  
 .navbar{
-  position: fixed;
+  /* position: fixed; */
+  position: relative;
 }
   .menu-bars{
     position: relative;
@@ -44,7 +48,7 @@
 .nav-menu {
   display: grid;
   grid-template-columns: repeat(5, auto);
-  grid-gap: 10px;
+  grid-gap: 5px;
   list-style: none;
   text-align: center;
   width: 70vw;
@@ -59,13 +63,15 @@
 }
 
 .nav-links {
-  color: white;
+  color: black;
   text-decoration: none;
   padding: 0.5rem 1rem;
+  font-weight:600;
 }
 
 .nav-links:hover {
-  background-color: #1888ff;
+  background-color: #3C5080;
+  color: white;
   border-radius: 4px;
   transition: all 0.2s ease-out;
 }

@@ -45,7 +45,7 @@ function Sliderimage() {
   };
 
   return (
-    <div style={styles.targetDiv} className='w-full p-3  m-auto mt-10 md:mt-20 px-auto relative group '>
+    <div style={styles.targetDiv} className='w-full p-3   m-auto   px-auto relative group '>
       <div
         style={{ backgroundImage: `url(${slides[currentIndex].url})` }}
         className=' w-full h-[250px] lg:h-full rounded-xl  bg-center bg-cover  lg:bg-cover bg-no-repeat	 duration-500'

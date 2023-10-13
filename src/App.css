@@ -2,18 +2,31 @@
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 } */
 
-  @import url('https://fonts.googleapis.com/css2?family=Lato:wght@100&family=Pacifico&family=Poppins:wght@500&family=Saira:wght@300&display=swap');
+
+  @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;400;900&family=Poppins:wght@300&family=Roboto:wght@300&family=Rubik&display=swap');
+
+
 
 .ff-saira{
-  font-family: 'Saira', sans-serif;
+  font-family:  'Roboto', sans-serif;
 }
 
+.dd{
+  background: hsla(214, 37%, 46%, 1);
 
+background: linear-gradient(180deg, hsla(214, 37%, 46%, 1) 14%, hsla(102, 45%, 36%, 1) 70%);
+
+background: -moz-linear-gradient(180deg, hsla(214, 37%, 46%, 1) 14%, hsla(102, 45%, 36%, 1) 70%);
+
+background: -webkit-linear-gradient(180deg, hsla(214, 37%, 46%, 1) 14%, hsla(102, 45%, 36%, 1) 70%);
+
+filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#496EA0", endColorstr="#4B8432", GradientType=1 );
+}
 *{
   margin:0;
   padding: 0;
   box-sizing: border-box;
-  font-family: 'Saira', sans-serif;
+  font-family:  'Roboto', sans-serif;
 }
 
 .sidebar{
@@ -80,6 +93,36 @@ cursor: pointer;
   animation-iteration-count: 1; /* Adjust the iteration count as needed */
   animation-fill-mode: forwards; /* Keeps the final state after animation */
 }
+.dashed-circle-border {
+  position: relative;
+  width: 200px; /* Set the width of the border */
+  height: 200px; /* Set the height of the border */
+  border: 2px dashed #000; /* Set border color and style */
+  border-radius: 50%; /* Make the border circular */
+}
+
+.dashed-circle-border::before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 20px; /* Set the width of the circle */
+  height: 20px; /* Set the height of the circle */
+  background-color: #000; /* Set circle color */
+  border-radius: 50%; /* Make the circle shape */
+}
+
+.dashed-circle-border::after {
+  content: "";
+  position: absolute;
+  width: 100%; /* Set the width of the circle between dashes */
+  height: 2px; /* Set the height of the circle between dashes */
+  background-color: #000; /* Set color of the dashes */
+  top: 50%; /* Position the dashes in the middle vertically */
+  transform: translateY(-50%);
+}
+
 
 /* .sidebar {
   max-width: 14rem !important;

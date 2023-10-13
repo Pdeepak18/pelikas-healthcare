@@ -20,6 +20,7 @@ import Services from "./pages/Services";
 import InternationalPresence from "./pages/InternationalPresence";
 import PageNotFound from "./pages/PageNotFound";
 import Career from "./pages/Career";
+import GlobalPresence from "./pages/GlobalPresence";
 function App() {
   return (
     <div className="scroll-smooth	">
@@ -47,6 +48,8 @@ function App() {
         </Route>
         <Route path="services" element={<Services />} />
         <Route path="international-presence" element={<InternationalPresence />} />
+        <Route path="global-presence" element={<GlobalPresence />} />
+
         <Route path="careers" element={<Career />} />
 
         <Route path="*" element={<PageNotFound />} />

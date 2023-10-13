@@ -109,308 +109,317 @@ const Navbar = () => {
     setIsActive(!isActive);
   };
   return (
-    <div className="border-2 border-black">
-      <nav className="navbar invisible md:visible ">
-        <div className="mr-3 md:mr-5">
-          {/* logo */}
-          <Link to="/">
-            <img
-              src={sidelogo}
-              alt=""
-              className="w-33 h-16   lg:h-[50px] lg:w-[200px]"
-            />
-          </Link>
-        </div>
+    <div className="">
+      <nav className=" hidden md:block  ">
+        <div className="py-12 h-[80px] flex flex-row justify-around items-center text-[1.2rem] z-[100]">
+          <div className="mr-3 md:mr-5">
+            {/* logo */}
+            <Link to="/">
+              <img
+                src={sidelogo}
+                alt=""
+                className="w-33 h-16   lg:h-[50px] lg:w-[200px]"
+              />
+            </Link>
+          </div>
 
-        <div className="menu-icon " onClick={handleClick}>
-          <i className={click ? "fas fa-times" : "fa fa-bars"} />
-        </div>
-        <ul className={click ? "nav-menu active" : "nav-menu"}>
-          <li className="nav-item">
-            <Link to="/" className="nav-links" onClick={closeMobileMenu}>
-              Home
-            </Link>
-          </li>
-          <li
-            className="nav-item"
-            onMouseEnter={onMouseEnter}
-            onMouseLeave={onMouseLeave}
-          >
-            <Link
-              to="/"
-              className="nav-links flex flex-row"
-              onClick={closeMobileMenu}
+          <ul className={click ? "nav-menu active " : "nav-menu"}>
+            <li className="nav-item">
+              <Link to="/" className="nav-links " onClick={closeMobileMenu}>
+                Home
+              </Link>
+            </li>
+            <li
+              className="nav-item"
+              onMouseEnter={onMouseEnter}
+              onMouseLeave={onMouseLeave}
             >
-              About Us <IoMdArrowDropdown className=" relative top-2 ml-1" />
-            </Link>
-            {dropdown && <Dropdown />}
-          </li>
+              <Link
+                to="/about-pelikas-healthcare/"
+                className="nav-links flex flex-row "
+                onClick={closeMobileMenu}
+              >
+                About Us
+              </Link>
+              {/* {dropdown && <Dropdown />} */}
+            </li>
 
-          {/* Products */}
-          <li
-            className="nav-item relative"
-            onMouseEnter={handleMouseOver}
-            onMouseLeave={handleMouseOut}
-          >
-            <Link
-              to="/products"
-              className="nav-links flex flex-row"
-              onClick={closeMobileMenu}
-            >
-              Products
-              <IoMdArrowDropdown className=" relative top-2 ml-1" />
-            </Link>
-          </li>
-          {isHovering && (
-            <div
+            {/* Products */}
+            <li
+              className="nav-item relative"
               onMouseEnter={handleMouseOver}
               onMouseLeave={handleMouseOut}
-              className="absolute top-20 left-0 bg-[#1B1919] w-[900px]  md:w-[100vw] h-min-[100px] opacity-90"
             >
-              <div className=" grid  grid-cols-3 gap-10 mb-5 text-left p-10 text-white">
-                <div>
-                  <div onClick={handleSubProduct1}>
-                    <h1 className="flex flex-row cursor-pointer">
-                      ENTERAL FORMULATIONS
-                      <IoMdArrowDropdown className=" relative top-2 ml-1" />
-                    </h1>
-                  </div>
-                  {active1 && (
-                    <div className="ml-5 leading-8 cursor-pointer">
-                      <ul className="list-[circle] ">
-                        <li>
-                          <a href="/products/enteral-formulation">TABLETS</a>
-                        </li>
-                        <li>
-                          <a href="/products/enteral-formulation">CAPSULES</a>
-                        </li>
-                        <li>
-                          <a href="/products/enteral-formulation">LOZENGES</a>
-                        </li>
-                        <li>
-                          <a href="/products/enteral-formulation">GRANULES</a>
-                        </li>
-                        <li>
-                          <a href="/products/enteral-formulation">
-                            SUPPOSITORIES/PESSARY
-                          </a>
-                        </li>
-                      </ul>
+              <Link
+                to="/products"
+                className="nav-links flex flex-row"
+                onClick={closeMobileMenu}
+              >
+                Product-Portfolio
+                <IoMdArrowDropdown className=" relative top-2 ml-1" />
+              </Link>
+            </li>
+            {isHovering && (
+              <div
+                onMouseEnter={handleMouseOver}
+                onMouseLeave={handleMouseOut}
+                className="absolute top-20 left-0 bg-[#1B1919] w-[900px]  md:w-[100vw] h-min-[100px] opacity-90 z-[9999]"
+              >
+                <div className=" grid  grid-cols-3 gap-10 mb-5 text-left p-10 text-white">
+                  <div>
+                    <div onClick={handleSubProduct1}>
+                      <h1 className="flex flex-row cursor-pointer">
+                        ENTERAL FORMULATIONS
+                        <IoMdArrowDropdown className=" relative top-2 ml-1" />
+                      </h1>
                     </div>
-                  )}
-                </div>
+                    {active1 && (
+                      <div className="ml-5 leading-8 cursor-pointer">
+                        <ul className="list-[circle] ">
+                          <li>
+                            <a href="/products/enteral-formulation">TABLETS</a>
+                          </li>
+                          <li>
+                            <a href="/products/enteral-formulation">CAPSULES</a>
+                          </li>
+                          <li>
+                            <a href="/products/enteral-formulation">LOZENGES</a>
+                          </li>
+                          <li>
+                            <a href="/products/enteral-formulation">GRANULES</a>
+                          </li>
+                          <li>
+                            <a href="/products/enteral-formulation">
+                              SUPPOSITORIES/PESSARY
+                            </a>
+                          </li>
+                        </ul>
+                      </div>
+                    )}
+                  </div>
 
-                <div>
-                  <div onClick={handleSubProduct2}>
-                    <h1 className="flex flex-row cursor-pointer">
-                      PARENTAL FORMULATIONS
-                      <IoMdArrowDropdown className=" relative top-2 ml-1" />
-                    </h1>
-                  </div>
-                  {active2 && (
-                    <div className="ml-5 leading-8 cursor-pointer">
-                      <ul className="list-[circle] ">
-                        <li>
-                          <a href="/products/parenteral-formulations">
-                            DRY POWDER INJECTABLES (VIALS/AMPS)
-                          </a>
-                        </li>
-                        <li>
-                          <a href="/products/parenteral-formulations">
-                            LIQUID INJECTABLES (VIALS/AMPS)
-                          </a>
-                        </li>
-                        <li>
-                          <a href="/products/parenteral-formulations">
-                            PREFILLED SYRINGES (PFS)
-                          </a>
-                        </li>
-                        <li>
-                          <a href="/products/parenteral-formulations">
-                            INFUSIONS
-                          </a>
-                        </li>
-                        <li>
-                          <a href="/products/parenteral-formulations">
-                            CONTRAST MEDIA
-                          </a>
-                        </li>
-                      </ul>
+                  <div>
+                    <div onClick={handleSubProduct2}>
+                      <h1 className="flex flex-row cursor-pointer">
+                        PARENTAL FORMULATIONS
+                        <IoMdArrowDropdown className=" relative top-2 ml-1" />
+                      </h1>
                     </div>
-                  )}
-                </div>
+                    {active2 && (
+                      <div className="ml-5 leading-8 cursor-pointer">
+                        <ul className="list-[circle] ">
+                          <li>
+                            <a href="/products/parenteral-formulations">
+                              DRY POWDER INJECTABLES (VIALS/AMPS)
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/products/parenteral-formulations">
+                              LIQUID INJECTABLES (VIALS/AMPS)
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/products/parenteral-formulations">
+                              PREFILLED SYRINGES (PFS)
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/products/parenteral-formulations">
+                              INFUSIONS
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/products/parenteral-formulations">
+                              CONTRAST MEDIA
+                            </a>
+                          </li>
+                        </ul>
+                      </div>
+                    )}
+                  </div>
 
-                <div>
-                  <div onClick={handleSubProduct3}>
-                    <h1 className="flex flex-row cursor-pointer">
-                      INHALATIONAL FORMULATIONS
-                      <IoMdArrowDropdown className=" relative top-2 ml-1" />
-                    </h1>
-                  </div>
-                  {active3 && (
-                    <div className="ml-5 leading-8 cursor-pointer">
-                      <ul className="list-[circle] ">
-                        <li>
-                          <a href="/products/inhalational-formulations">
-                            REPSULES
-                          </a>
-                        </li>
-                        <li>
-                          <a href="/products/inhalational-formulations">
-                            ROTACAPS
-                          </a>
-                        </li>
-                        <li>
-                          <a href="/products/inhalational-formulations">
-                            INHALERS
-                          </a>
-                        </li>
-                        <li>
-                          <a href="/products/inhalational-formulations">
-                            NASAL SPRAYS
-                          </a>
-                        </li>
-                      </ul>
+                  <div>
+                    <div onClick={handleSubProduct3}>
+                      <h1 className="flex flex-row cursor-pointer">
+                        INHALATIONAL FORMULATIONS
+                        <IoMdArrowDropdown className=" relative top-2 ml-1" />
+                      </h1>
                     </div>
-                  )}
-                </div>
+                    {active3 && (
+                      <div className="ml-5 leading-8 cursor-pointer">
+                        <ul className="list-[circle] ">
+                          <li>
+                            <a href="/products/inhalational-formulations">
+                              REPSULES
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/products/inhalational-formulations">
+                              ROTACAPS
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/products/inhalational-formulations">
+                              INHALERS
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/products/inhalational-formulations">
+                              NASAL SPRAYS
+                            </a>
+                          </li>
+                        </ul>
+                      </div>
+                    )}
+                  </div>
 
-                <div>
-                  <div onClick={handleSubProduct4}>
-                    <h1 className="flex flex-row cursor-pointer">
-                      TOPICAL (SKIN/HAIR) FORMULATIONS
-                      <IoMdArrowDropdown className=" relative top-2 ml-1" />
-                    </h1>
-                  </div>
-                  {active4 && (
-                    <div className="ml-5 leading-8 cursor-pointer">
-                      <ul className="list-[circle] ">
-                        <li>
-                          <a href="/products/topical-formulations">
-                            CREAM/OINTMENTS/GELS
-                          </a>
-                        </li>
-                        <li>
-                          <a href="/products/topical-formulations">
-                            LOTIONS/POWDER
-                          </a>
-                        </li>
-                        <li>
-                          <a href="/products/topical-formulations">
-                            LOZENGESSERUM/DROPS/SPRAYS
-                          </a>
-                        </li>
-                      </ul>
+                  <div>
+                    <div onClick={handleSubProduct4}>
+                      <h1 className="flex flex-row cursor-pointer">
+                        TOPICAL (SKIN/HAIR) FORMULATIONS
+                        <IoMdArrowDropdown className=" relative top-2 ml-1" />
+                      </h1>
                     </div>
-                  )}
-                </div>
+                    {active4 && (
+                      <div className="ml-5 leading-8 cursor-pointer">
+                        <ul className="list-[circle] ">
+                          <li>
+                            <a href="/products/topical-formulations">
+                              CREAM/OINTMENTS/GELS
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/products/topical-formulations">
+                              LOTIONS/POWDER
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/products/topical-formulations">
+                              LOZENGESSERUM/DROPS/SPRAYS
+                            </a>
+                          </li>
+                        </ul>
+                      </div>
+                    )}
+                  </div>
 
-                <div>
-                  <div onClick={handleSubProduct5}>
-                    <h1 className="flex flex-row cursor-pointer">
-                      OPTHALMIC & ENT PRODUCTS
-                      <IoMdArrowDropdown className=" relative top-2 ml-1" />
-                    </h1>
-                  </div>
-                  {active5 && (
-                    <div className="ml-5 leading-8 cursor-pointer">
-                      <ul className="list-[circle] ">
-                        <li>
-                          <a href="/products/opthlamic-formulations">
-                            TABLETSEYE/EAR DROPS
-                          </a>
-                        </li>
-                        <li>
-                          <a href="/products/opthlamic-formulations">
-                            IMPLANTS / LENSES
-                          </a>
-                        </li>
-                        <li>
-                          <a href="/products/opthlamic-formulations">
-                            INTRAOCULAR SOLUTIONS
-                          </a>
-                        </li>
-                        <li>
-                          <a href="/products/opthlamic-formulations">
-                            OPTHALMIC CONSUMABLES & INSTRUMENTS
-                          </a>
-                        </li>
-                      </ul>
+                  <div>
+                    <div onClick={handleSubProduct5}>
+                      <h1 className="flex flex-row cursor-pointer">
+                        OPTHALMIC & ENT PRODUCTS
+                        <IoMdArrowDropdown className=" relative top-2 ml-1" />
+                      </h1>
                     </div>
-                  )}
-                </div>
+                    {active5 && (
+                      <div className="ml-5 leading-8 cursor-pointer">
+                        <ul className="list-[circle] ">
+                          <li>
+                            <a href="/products/opthlamic-formulations">
+                              TABLETSEYE/EAR DROPS
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/products/opthlamic-formulations">
+                              IMPLANTS / LENSES
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/products/opthlamic-formulations">
+                              INTRAOCULAR SOLUTIONS
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/products/opthlamic-formulations">
+                              OPTHALMIC CONSUMABLES & INSTRUMENTS
+                            </a>
+                          </li>
+                        </ul>
+                      </div>
+                    )}
+                  </div>
 
-                <div>
-                  <div onClick={handleSubProduct6}>
-                    <h1 className="flex flex-row cursor-pointer">
-                      OTHERS
-                      <IoMdArrowDropdown className=" relative top-2 ml-1" />
-                    </h1>
-                  </div>
-                  {active6 && (
-                    <div className="ml-5 leading-8 cursor-pointer">
-                      <ul className="list-[circle] ">
-                        <li>
-                          <a href="/products/others">SURGICAL DISPOSABLES</a>
-                        </li>
-                        <li>
-                          <a href="/products/others">SURGICAL INSTRUMENTS</a>
-                        </li>
-                        <li>
-                          <a href="/products/others">HOSPITAL TECHNOLOGY</a>
-                        </li>
-                        <li>
-                          <a href="/products/others">HOSPITAL FURNITURE</a>
-                        </li>
-                      </ul>
+                  <div>
+                    <div onClick={handleSubProduct6}>
+                      <h1 className="flex flex-row cursor-pointer">
+                        OTHERS
+                        <IoMdArrowDropdown className=" relative top-2 ml-1" />
+                      </h1>
                     </div>
-                  )}
+                    {active6 && (
+                      <div className="ml-5 leading-8 cursor-pointer">
+                        <ul className="list-[circle] ">
+                          <li>
+                            <a href="/products/others">SURGICAL DISPOSABLES</a>
+                          </li>
+                          <li>
+                            <a href="/products/others">SURGICAL INSTRUMENTS</a>
+                          </li>
+                          <li>
+                            <a href="/products/others">HOSPITAL TECHNOLOGY</a>
+                          </li>
+                          <li>
+                            <a href="/products/others">HOSPITAL FURNITURE</a>
+                          </li>
+                        </ul>
+                      </div>
+                    )}
+                  </div>
                 </div>
               </div>
-            </div>
-          )}
+            )}
 
-          <li className="nav-item">
-            <Link
-              to="/contact-us"
-              className="nav-links"
-              onClick={closeMobileMenu}
-            >
-              Contact Us
-            </Link>
-          </li>
-        </ul>
-        {/* <Button/> */}
-        <Link to="#" className="menu-bars text-[2rem] bg-none text-[#fff]">
-          <FaIcons.FaBars onClick={showSidebar} />
-        </Link>
-        <IconContext.Provider value={{ color: "#fff" }}>
-          <nav className={sidebar ? "nav-menu2 active z-20" : "nav-menu2"}>
-            <ul className="nav-menu-items" onClick={showSidebar}>
-              <li className="navbar-toogle">
-                <Link
-                  to="#"
-                  className="menu-bars text-3xl flex justify-end mr-9 absolute right-10 top-8"
-                >
-                  <AiIcons.AiOutlineClose className="relative bottom-14 right-20 lg:bottom-0 lg:right-10" />
-                </Link>
-              </li>
-              {SidebarData.map((item, index) => {
-                return (
-                  <li key={index} className={item.cName}>
-                    <Link to={item.path} className="">
-                      {item.icon}
-                      <span className="">{item.title}</span>
-                    </Link>
-                  </li>
-                );
-              })}
-            </ul>
-          </nav>
-        </IconContext.Provider>
+            <li className="nav-item">
+              <Link
+                to="/services"
+                className="nav-links"
+                onClick={closeMobileMenu}
+              >
+                Services
+              </Link>
+            </li>
+
+            <li className="nav-item">
+              <Link
+                to="/contact-us"
+                className="nav-links"
+                onClick={closeMobileMenu}
+              >
+                Contact Us
+              </Link>
+            </li>
+          </ul>
+          {/* <Button/> */}
+          <Link to="#" className="menu-bars text-[2rem] bg-none text-black">
+            <FaIcons.FaBars onClick={showSidebar} />
+          </Link>
+          <IconContext.Provider value={{ color: "#fff" }}>
+            <nav className={sidebar ? "nav-menu2 active z-20" : "nav-menu2"}>
+              <ul className="nav-menu-items" onClick={showSidebar}>
+                <li className="navbar-toogle">
+                  <Link
+                    to="#"
+                    className="menu-bars text-3xl flex justify-end mr-9 absolute right-10 top-8"
+                  >
+                    <AiIcons.AiOutlineClose className="relative bottom-14 right-20 lg:bottom-0 lg:right-10" />
+                  </Link>
+                </li>
+                {SidebarData.map((item, index) => {
+                  return (
+                    <li key={index} className={item.cName}>
+                      <Link to={item.path} className="">
+                        {item.icon}
+                        <span className="">{item.title}</span>
+                      </Link>
+                    </li>
+                  );
+                })}
+              </ul>
+            </nav>
+          </IconContext.Provider>
+        </div>
       </nav>
 
-      <div className="visible md:invisible z-1000 md:-mb-28">
+      <div className="block md:hidden z-1000 md:-mb-28">
         <nav className="bg-[#1B1919] ">
           <div className="relative w-10/12 md:w-11/12 max-w-[1080px] mx-auto flex items-center justify-between ">
             <Link to="/">
