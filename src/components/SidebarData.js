@@ -47,7 +47,7 @@ export const SidebarData= [
     }, 
     {
         title: 'Global Presence',
-        path:'/international-presence',
+        path:'/global-presence',
         icon:<IoIcons.IoIosPaper />,
         cName:"nav-text",
     },

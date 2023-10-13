@@ -7,7 +7,7 @@ const GlobalPresence = () => {
   return (
     <div>
       <Navbar />
-      <div className="relative lg:top-20">
+      <div className="relative">
         <h2 className="uppercase text-2xl lg:text-4xl font-semibold text-center text-[#A0C6A1]">
           Travel <span className="text-[#F2C43A]">Infographics</span>{" "}
         </h2>
