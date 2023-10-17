@@ -16,7 +16,7 @@ const Aboutpelikas = () => {
   return (
     <div className="w-full h-full ">
       <Navbar />
-      <div className="ff-saira  lg:min-h-[100vh]  flex overflow-x-hidden	 relative  ">
+      <div className=" ff-saira  lg:min-h-[100vh]  flex overflow-x-hidden	 relative  ">
         <div className=" md:max-w-6xl  mx-auto  justify-center  items-center md:space-x-16  flex flex-col md:flex-row">
           <img
             src={BGimage}
@@ -76,10 +76,12 @@ const Aboutpelikas = () => {
               only natural ingredients.
             </p>
 
+
             <Link
-              to="/contact-us"
+              to="/about-pelikas-healthcare/mission-and-value/"
               className="text-[#65BC51] text-xl font-medium text-center md:mt-5 block   group-hover:text-white"
             >
+            <div className="mt-8 lg:hidden">Know More</div>
               <button>Know More</button>
             </Link>
           </div>
@@ -95,9 +97,11 @@ const Aboutpelikas = () => {
             </p>
 
             <Link
-              to="/contact-us"
+              to="/about-pelikas-healthcare/mission-and-value/"
               className="text-[#65BC51] text-xl font-medium text-center mt-5   group-hover:text-white"
             >
+                        <div className="mt-8 lg:hidden">Know More</div>
+
               <button>Know More</button>
             </Link>
           </div>
@@ -113,9 +117,11 @@ const Aboutpelikas = () => {
             </p>
 
             <Link
-              to="/contact-us"
+              to="/about-pelikas-healthcare/mission-and-value/"
               className="text-[#65BC51] text-xl font-medium text-center mt-5   group-hover:text-white"
             >
+                        <div className="mt-8 lg:hidden">Know More</div>
+
               <button>Know More</button>
             </Link>
           </div>

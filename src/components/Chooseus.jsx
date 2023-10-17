@@ -17,25 +17,25 @@ const Chooseus = () => {
       </div>
 
       {/* data */}
-      <div className="bg-[#04A3BB] w-full px-[30px] lg:px-[70px] py-4 lg:py-2 flex flex-col gap-8">
+      <div className="bg-[#F3F3F3]  w-full px-[30px] lg:px-[70px] py-4 lg:py-2 flex flex-col gap-8">
       
-        <h1 className="text-2xl lg:text-3xl text-white font-semibold">WHY CHOOSE US</h1>
-        <p className="text-white text-md lg:text-xl">
+        <h1 className="text-2xl lg:text-3xl text-black font-semibold">WHY CHOOSE US</h1>
+        <p className="text-black text-md lg:text-xl">
           We Are The Leader Amongst Fastest Growing Pharma Companies In India.
           Maya Biotech Is Known As One Of The Best Third Party Pharmaceutical
           Manufacturing Company. Maya Biotech Is A Trusted Pharma Third Party
           Manufacturing Company.
         </p>
-        <div  className=" flex flex-col md:flex-row px-3 lg:px-6 py-2 text-white gap-[50px] lg:gap-[10px]">
+        <div  className=" flex flex-col md:flex-row px-3 lg:px-6 py-2 text-black gap-[50px] lg:gap-[10px]">
           <div className="flex flex-row gap-5 ">
-            <FaSuitcase color="white" size="30" />
+            <FaSuitcase color="black" size="30" />
             <div>
               <h2 className="text-xl lg:text-3xl">500+ products range.</h2>
               <p className="text-xl tracking-wide">Pharma franchise products under <br /> different divisions</p>
             </div>
           </div>
           <div className="flex flex-row gap-5 pl-10">
-            <FaTruckMoving color="white" size="30" />
+            <FaTruckMoving color="black" size="30" />
             <div>
               <h2 className="text-xl lg:text-3xl">Easy Goods Tracking</h2>
               <p className="text-xl tracking-wide">We are pleased to welcome <br /> new distributors</p>
@@ -44,16 +44,16 @@ const Chooseus = () => {
           
         </div>
 
-        <div  className=" flex  flex-col md:flex-row px-3 lg:px-8 py-4 text-white gap-[50px] lg:gap-0">
+        <div  className=" flex  flex-col md:flex-row px-3 lg:px-8 py-4 text-black gap-[50px] lg:gap-0">
           <div className="flex flex-row gap-5 ">
-            <FiClock color="white" size="30" />
+            <FiClock color="black" size="30" />
             <div>
               <h2 className="text-xl lg:text-3xl">Timely delivery of Goods.</h2>
               <p className="text-xl tracking-wide">Timely supply of medicine is essential in franchise business</p>
             </div>
           </div>
           <div className="flex flex-row gap-5 ">
-            <FaCertificate color="white" size="30" />
+            <FaCertificate color="black" size="30" />
             <div>
               <h2 className="text-xl lg:text-3xl">WHO-GMP Products.</h2>
               <p className="text-xl tracking-wide">We provide complete formulation of products</p>

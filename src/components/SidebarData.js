@@ -2,6 +2,7 @@ import React from 'react'
 import * as FaIcons from "react-icons/fa"
 import * as AiIcons from "react-icons/ai"
 import * as IoIcons from "react-icons/io"
+import {RxAccessibility} from "react-icons/rx"
 
 export const SidebarData= [
     {
@@ -38,6 +39,12 @@ export const SidebarData= [
             },
         ]
     },
+    {
+        title: 'Mission And Values',
+        path:'/about-pelikas-healthcare/mission-and-value/',
+        icon:<RxAccessibility size={22} />,
+        cName:"nav-text",
+    }, 
     
     {
         title: 'Products',
@@ -62,6 +69,18 @@ export const SidebarData= [
         path:'/services',
         icon:<IoIcons.IoIosPaper />,
         cName:"nav-text",
+    },
+    {
+        title: 'Blogs & Media Corner',
+        path:'/contact-us',
+        icon:<IoIcons.IoMdHelpCircle />,
+        cName:"nav-text disable",
+    },
+    {
+        title: 'Investors',
+        path:'/contact-us',
+        icon:<IoIcons.IoMdHelpCircle />,
+        cName:"nav-text disable",
     },
     {
         title: 'Contact-Us',

@@ -207,15 +207,15 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 8px 0px 8px 16px;
+  padding: 8px 0px 8px 10px;
   list-style: none;
-  height: 60px
+  height: 55px
 }
 
 .nav-text a{
   text-decoration: none;
   color:#fff ;
-  font-size: 18px;
+  font-size: 17px;
   width: 95%;
   height: 100%;
   display: flex;
@@ -229,7 +229,10 @@
   background-color:#1888ff;
  
 }
-
+.disable {
+  pointer-events: none;
+  cursor: not-allowed;
+}
 .nav-menu-items{
   width: 100%;
 }
