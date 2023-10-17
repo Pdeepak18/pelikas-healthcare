@@ -25,9 +25,9 @@ const Ourexpertise = () => {
           <p className="mb-4 text-sm md:text-base text-black dark:text-black">
             {expert.description}.
           </p>
-          <Link to="/aboutus">
+          <Link to={expert.link}>
             <button className="bg-blue-400 w-2/4 mt-6 md:w-fit flex items-center justify-center md:justify-start text-white py-[8px] px-[7px] rounded-md font-inherit font-bold hover:bg-red-400 transition-all duration-200">
-              <a href="/aboutus" className="text-base">
+              <a href={expert.link} className="text-base">
                 Know More
               </a>
               <svg

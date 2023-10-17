@@ -74,9 +74,9 @@ const Aboutussection = () => {
       </div>
 
       <div className="mt-14  flex items-center justify-center">
-        <Link to="/aboutus">
+        <Link to="/international-presence">
           <button className="bg-blue-400 w-full mt-6 md:w-fit flex items-center justify-center md:justify-start text-white py-[8px] px-[7px] rounded-md font-inherit font-bold hover:bg-red-400 transition-all duration-200">
-            <a href="/aboutus" className="text-base">
+            <a href="/international-presence" className="text-base">
               Know More
             </a>
             <svg
