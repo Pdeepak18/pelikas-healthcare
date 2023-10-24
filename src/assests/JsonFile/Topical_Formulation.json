@@ -1,0 +1,278 @@
+{
+    "CREAMOINTMENTSGELS":[
+     {
+      "SR. NO.": "1",
+      "GENERIC_NAME": "MUPIROSIN OINTMENT",
+      "STRENGTH": "2% W\/W",
+      "TYPE": "OINTMENT"
+     },
+     {
+      "SR. NO.": "2",
+      "GENERIC_NAME": "POVIDONE- IODINE OINTMENT",
+      "STRENGTH": "5%\/10% W\/W",
+      "TYPE": "OINTMENT"
+     },
+     {
+      "SR. NO.": "3",
+      "GENERIC_NAME": "TACROLIMUS OINTMENT",
+      "STRENGTH": "0.1% \/ 0.03% W\/W",
+      "TYPE": "OINTMENT"
+     },
+     {
+      "SR. NO.": "4",
+      "GENERIC_NAME": "ADAPALENE & CLINDAMYCIN PHOSPHATE GEL",
+      "STRENGTH": "1 MG + 10 MG",
+      "TYPE": "GELS"
+     },
+     {
+      "SR. NO.": "5",
+      "GENERIC_NAME": "ADAPALENE GEL",
+      "STRENGTH": "0.1% W\/W",
+      "TYPE": "GELS"
+     },
+     {
+      "SR. NO.": "6",
+      "GENERIC_NAME": "AZITHROMYCIN GEL",
+      "STRENGTH": "2%W\/W",
+      "TYPE": "GELS"
+     },
+     {
+      "SR. NO.": "7",
+      "GENERIC_NAME": "CLOTRIMAZOLE GEL",
+      "STRENGTH": "2% W\/W",
+      "TYPE": "GELS"
+     },
+     {
+      "SR. NO.": "8",
+      "GENERIC_NAME": "DICLOFENAC SODIUM, METHYL SALICYLATE, MENTHOL, LINSEED OIL & BENZYL ALCOHOL GEL",
+      "STRENGTH": "1.16% W\/W + 10.0% W\/W + 5.0% W\/W + 3.0% W\/W + 1.0% W\/W",
+      "TYPE": "GELS"
+     },
+     {
+      "SR. NO.": "9",
+      "GENERIC_NAME": "ITRACONAZOLE GEL",
+      "STRENGTH": "1% W\/W",
+      "TYPE": "GELS"
+     },
+     {
+      "SR. NO.": "10",
+      "GENERIC_NAME": "KETOPROFEN GEL",
+      "STRENGTH": "2.5% W\/W",
+      "TYPE": "GELS"
+     },
+     {
+      "SR. NO.": "11",
+      "GENERIC_NAME": "SILVER NITRATE GEL",
+      "STRENGTH": "0.2%W\/W",
+      "TYPE": "GELS"
+     },
+     {
+      "SR. NO.": "12",
+      "GENERIC_NAME": "AMOROLFINE HYDROCHLORIDE CREAM",
+      "STRENGTH": "0.25% W\/W",
+      "TYPE": "CREAM"
+     },
+     {
+      "SR. NO.": "13",
+      "GENERIC_NAME": "BIFONAZOLE & BENZYL ALCOHOL CREAM",
+      "STRENGTH": "1% W\/W + 2% W\/W",
+      "TYPE": "CREAM"
+     },
+     {
+      "SR. NO.": "14",
+      "GENERIC_NAME": "CLOBETASOL & SALICYLIC CREAM",
+      "STRENGTH": "0.05% W\/W + 3.0% W\/W",
+      "TYPE": "CREAM"
+     },
+     {
+      "SR. NO.": "15",
+      "GENERIC_NAME": "CLOBETASOL PROPIONATE & MICONAZOLE NITRATE CREAM",
+      "STRENGTH": "0.05% W\/W + 2.0% W\/W",
+      "TYPE": "CREAM"
+     },
+     {
+      "SR. NO.": "16",
+      "GENERIC_NAME": "CLOBETASOL PROPIONATE CREAM",
+      "STRENGTH": "0.05 % W\/W",
+      "TYPE": "CREAM"
+     },
+     {
+      "SR. NO.": "17",
+      "GENERIC_NAME": "CLOTRIMAZOLE & BECLOMETHASONE CREAM",
+      "STRENGTH": "1% W\/W +0.025% W\/W",
+      "TYPE": "CREAM"
+     },
+     {
+      "SR. NO.": "18",
+      "GENERIC_NAME": "CLOTRIMAZOLE BECLOMETHASOLNE & GENTAMICIN CREAM",
+      "STRENGTH": "1% W\/W + 0.025% W\/W + 0.1% W\/W",
+      "TYPE": "CREAM"
+     },
+     {
+      "SR. NO.": "19",
+      "GENERIC_NAME": "CLOTRIMAZOLE CREAM",
+      "STRENGTH": "1% W\/W CREAM",
+      "TYPE": "CREAM"
+     },
+     {
+      "SR. NO.": "20",
+      "GENERIC_NAME": "CLOTRIMAZOLE, BECLOMETHASONE DIPROPIONATE & NEOMYCIN SULPHATE CREAM",
+      "STRENGTH": "1.0% W\/W + 0.025% W\/W + 0.5% W\/W",
+      "TYPE": "CREAM"
+     },
+     {
+      "SR. NO.": "21",
+      "GENERIC_NAME": "CLOTRIMAZOLE, CLOBETASOL & GENTAMICIN CREAM",
+      "STRENGTH": "1%W\/W +0.05% W\/W +0.1% W\/W",
+      "TYPE": "CREAM"
+     },
+     {
+      "SR. NO.": "22",
+      "GENERIC_NAME": "LULICONAZOLE CREAM",
+      "STRENGTH": "1% W\/W",
+      "TYPE": "CREAM"
+     },
+     {
+      "SR. NO.": "23",
+      "GENERIC_NAME": "MICONAZOLE NITRATE, NEOMYCIN SULPHATE AND CLOBETASOL PROPIONATE CREAM",
+      "STRENGTH": "2.0%W\/W + 0.5% W\/W + 0.05% W\/W",
+      "TYPE": "CREAM"
+     },
+     {
+      "SR. NO.": "24",
+      "GENERIC_NAME": "SERTOCONAZOLE & NITRATE CREAM",
+      "STRENGTH": "2% W\/W",
+      "TYPE": "CREAM"
+     },
+     {
+      "SR. NO.": "25",
+      "GENERIC_NAME": "SILVER SULFADIAZINE CREAM",
+      "STRENGTH": "1% W\/W",
+      "TYPE": "CREAM"
+     },
+     {
+      "SR. NO.": "26",
+      "GENERIC_NAME": "TERBINAFINE HYDROCHLORIDE CREAM",
+      "STRENGTH": "1.0% W\/W",
+      "TYPE": "CREAM"
+     }
+    ],
+    "LOTIONSPOWDER":[
+     {
+      "SR. NO.": "1",
+      "GENERIC_NAME": "AMOROLFINE DUSTING POWDER",
+      "STRENGTH": "0.25% W\/W",
+      "TYPE": "DRY POWDER"
+     },
+     {
+      "SR. NO.": "2",
+      "GENERIC_NAME": "CLOTRIMAZOLE DUSTING POWDER",
+      "STRENGTH": "1% \/ 2% W\/W",
+      "TYPE": "DRY POWDER"
+     },
+     {
+      "SR. NO.": "3",
+      "GENERIC_NAME": "ITRACONAZOLE DUSTING POWDER",
+      "STRENGTH": "1% W\/W",
+      "TYPE": "DRY POWDER"
+     },
+     {
+      "SR. NO.": "4",
+      "GENERIC_NAME": "KETOCONAZOLE DUSTING POWDER",
+      "STRENGTH": "2% W\/W",
+      "TYPE": "DRY POWDER"
+     },
+     {
+      "SR. NO.": "5",
+      "GENERIC_NAME": "LULICONAZOLE DUSTING POWDER",
+      "STRENGTH": "1% W\/W",
+      "TYPE": "DRY POWDER"
+     },
+     {
+      "SR. NO.": "6",
+      "GENERIC_NAME": "MICONAZOLE NITRATE TOPICAL POWDER",
+      "STRENGTH": "2% W\/W",
+      "TYPE": "DRY POWDER"
+     },
+     {
+      "SR. NO.": "7",
+      "GENERIC_NAME": "SERTACONAZOLE NITRATE POWDER",
+      "STRENGTH": "2% W\/W",
+      "TYPE": "DRY POWDER"
+     },
+     {
+      "SR. NO.": "8",
+      "GENERIC_NAME": "TERBINAFINE DUSTING POWDER",
+      "STRENGTH": "1% W\/W",
+      "TYPE": "DRY POWDER"
+     },
+     {
+      "SR. NO.": "9",
+      "GENERIC_NAME": "DECAPEPTIDE (BASIC FIBROBLAST GROWTH FACTOR) LOTION",
+      "STRENGTH": "2MG\/2ML",
+      "TYPE": "LOTION"
+     },
+     {
+      "SR. NO.": "10",
+      "GENERIC_NAME": "GAMMA BENZENE HEXACHLORIDE LOTION",
+      "STRENGTH": "1% W\/W",
+      "TYPE": "LOTION"
+     },
+     {
+      "SR. NO.": "11",
+      "GENERIC_NAME": "KETOCONAZOLE, ZINC PYRITHIONE AND ALOE VERA LOTION",
+      "STRENGTH": "2% W\/V + 1% W\/V + 10% W\/V",
+      "TYPE": "LOTION"
+     },
+     {
+      "SR. NO.": "12",
+      "GENERIC_NAME": "LULICONAZOLE LOTION",
+      "STRENGTH": "1% W\/W",
+      "TYPE": "LOTION"
+     }
+    ],
+    "SERUMDROPSSPRAYS":[
+     {
+      "SR. NO.": "1",
+      "GENERIC_NAME": "ACECLOFENAC & MENTHOL SPRAY",
+      "STRENGTH": "1% W\/W+ 5% W\/W",
+      "TYPE": "TOPICAL SPRAY"
+     },
+     {
+      "SR. NO.": "2",
+      "GENERIC_NAME": "DICLOFENAC TOPICAL SPRAY",
+      "STRENGTH": "2.32%\/4.64%W\/V",
+      "TYPE": "TOPICAL SPRAY"
+     },
+     {
+      "SR. NO.": "3",
+      "GENERIC_NAME": "LIODOCAINE + ETHANOL SPRAY",
+      "STRENGTH": "10%W\/V",
+      "TYPE": "TOPICAL SPRAY"
+     },
+     {
+      "SR. NO.": "4",
+      "GENERIC_NAME": "LIODOCAINE SPRAY",
+      "STRENGTH": "10%W\/V",
+      "TYPE": "TOPICAL SPRAY"
+     },
+     {
+      "SR. NO.": "5",
+      "GENERIC_NAME": "TERBINAFINE HYDROCHLORIDE TOPICAL SPRAY",
+      "STRENGTH": "1.0% W\/W",
+      "TYPE": "TOPICAL SPRAY"
+     },
+     {
+      "SR. NO.": "6",
+      "GENERIC_NAME": "MINOXIDIL + FINASTEROID TOPICAL SOLUTION",
+      "STRENGTH": "5% W\/V + 0.1%W\/V \/ 10%W\/V + 0.1% W\/V",
+      "TYPE": "TOPICAL SOLUTION"
+     },
+     {
+      "SR. NO.": "7",
+      "GENERIC_NAME": "MINOXIDIL TOPICAL SOLUTION",
+      "STRENGTH": "2% \/5%\/ 10%W\/V",
+      "TYPE": "TOPICAL SOLUTION"
+     }
+    ]
+    }

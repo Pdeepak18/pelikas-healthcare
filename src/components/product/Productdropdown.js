@@ -45,7 +45,7 @@ export default function Productdropdown(title, submenu, path) {
                           <button
                             className="block w-full text-center border-hidden	 sm:border-0	md:border-2 text-base "
                             onClick={() => {
-                              navigate("/products/tablet", {
+                              navigate(`${item.PATH}`, {
                                 state: {
                                   desc: item.description,
                                   imgURL: item.imgURL,

@@ -1,0 +1,1066 @@
+{
+    "SURGICAL CONSUMABLES":[
+     {
+      "SR. NO.": "1",
+      "GENERIC_NAME": "ADULT DIAPER SIZE: MEDIUM",
+      "STRENGTH": "PKT OF 10 PCS"
+     },
+     {
+      "SR. NO.": "2",
+      "GENERIC_NAME": "ADULT DIAPER SIZE: LARGE",
+      "STRENGTH": "PKT OF 10 PCS"
+     },
+     {
+      "SR. NO.": "3",
+      "GENERIC_NAME": "ADULT DIAPER SIZE: EXTRA LARGE",
+      "STRENGTH": "PKT OF 10 PCS"
+     },
+     {
+      "SR. NO.": "4",
+      "GENERIC_NAME": "PANT TYPE ADULT DIAPER : MEDIUM",
+      "STRENGTH": "PKT OF 10 PCS"
+     },
+     {
+      "SR. NO.": "5",
+      "GENERIC_NAME": "PANT TYPE ADULT DIAPER : LARGE",
+      "STRENGTH": "PKT OF 10 PCS"
+     },
+     {
+      "SR. NO.": "6",
+      "GENERIC_NAME": "PANT TYPE ADULT DIAPER : EXTRA LARGE",
+      "STRENGTH": "PKT OF 10 PCS"
+     },
+     {
+      "SR. NO.": "7",
+      "GENERIC_NAME": "UNDER PAD 60 X 90 CM",
+      "STRENGTH": "PKT OF 10 PCS"
+     },
+     {
+      "SR. NO.": "8",
+      "GENERIC_NAME": "FACE MASK: 3PLY (LACE\/LOOP): BULK PACK (WITH BACTERIA FILTER)",
+      "STRENGTH": "PACK OF 100 PCS"
+     },
+     {
+      "SR. NO.": "9",
+      "GENERIC_NAME": "FACE MASK: 3PLY (LACE\/LOOP): BULK PACK (WITHOUT BACTERIA FILTER)",
+      "STRENGTH": "PACK OF 100 PCS"
+     },
+     {
+      "SR. NO.": "10",
+      "GENERIC_NAME": "FACE MASK: 3PLY (LACE\/LOOP): IND BOX (WITH BACTERIA FILTER)",
+      "STRENGTH": "BOX OF 100 PCS"
+     },
+     {
+      "SR. NO.": "11",
+      "GENERIC_NAME": "FACE MASK: 3PLY (LACE\/LOOP): IND BOX (WITHOUT BACTERIA FILTER)",
+      "STRENGTH": "BOX OF 100 PCS"
+     },
+     {
+      "SR. NO.": "12",
+      "GENERIC_NAME": "N-95 FACE MASK EAR LOOP\/HEAD LOOP",
+      "STRENGTH": "BOX OF 25 PCS"
+     },
+     {
+      "SR. NO.": "13",
+      "GENERIC_NAME": "SURGEON CAP: BULK PACK",
+      "STRENGTH": "PACK OF 100 PCS"
+     },
+     {
+      "SR. NO.": "14",
+      "GENERIC_NAME": "SURGEON CAP : IND BOX",
+      "STRENGTH": "BOX OF 100 PCS"
+     },
+     {
+      "SR. NO.": "15",
+      "GENERIC_NAME": "BOUFFANT CAP: BULK PACK",
+      "STRENGTH": "PACK OF 100 PCS"
+     },
+     {
+      "SR. NO.": "16",
+      "GENERIC_NAME": "BOUFFANT CAP : IND BOX",
+      "STRENGTH": "BOX OF 100 PCS"
+     },
+     {
+      "SR. NO.": "17",
+      "GENERIC_NAME": "H.I.V. KIT STERILE",
+      "STRENGTH": "-"
+     },
+     {
+      "SR. NO.": "18",
+      "GENERIC_NAME": "KNEE LENGTH SHOE COVER BULK PACK",
+      "STRENGTH": "PKT OF 25 PAIR"
+     },
+     {
+      "SR. NO.": "19",
+      "GENERIC_NAME": "DISPOSABLE STERILE PLASTIC APRON",
+      "STRENGTH": "-"
+     },
+     {
+      "SR. NO.": "20",
+      "GENERIC_NAME": "NON-WOVEN APRON",
+      "STRENGTH": "-"
+     },
+     {
+      "SR. NO.": "21",
+      "GENERIC_NAME": "DISPOSABLE GOWN : 40 GSM",
+      "STRENGTH": "-"
+     },
+     {
+      "SR. NO.": "22",
+      "GENERIC_NAME": "BED SHEET (PP) SIZE: 100CM X 150CM",
+      "STRENGTH": "-"
+     },
+     {
+      "SR. NO.": "23",
+      "GENERIC_NAME": "BED SHEET (PP) SIZE: 120CM X 200CM",
+      "STRENGTH": "-"
+     },
+     {
+      "SR. NO.": "24",
+      "GENERIC_NAME": "BED SHEET (PP) SIZE: 140CM X 150CM",
+      "STRENGTH": "-"
+     },
+     {
+      "SR. NO.": "25",
+      "GENERIC_NAME": "NON-WOVEN BED SHEET: 120CM X 200CM",
+      "STRENGTH": "-"
+     },
+     {
+      "SR. NO.": "26",
+      "GENERIC_NAME": "STERILE RUBBER GLOVE SIZE:6\", 6 ½\", 7\", 7 ½\" & 8",
+      "STRENGTH": "BOX OF 25 PAIR"
+     },
+     {
+      "SR. NO.": "27",
+      "GENERIC_NAME": "NONSTERILE RUBBER GLOVE SIZE:6\", 6 ½\",  7\", 7 ½\" 8",
+      "STRENGTH": "BOX OF 25 PAIR"
+     },
+     {
+      "SR. NO.": "28",
+      "GENERIC_NAME": "LATEX EXAMINATION GLOVES (S\/ M\/ L)",
+      "STRENGTH": "BOX OF 100 PCS"
+     },
+     {
+      "SR. NO.": "29",
+      "GENERIC_NAME": "NITRILE GLOVES – (S\/ M\/ L)",
+      "STRENGTH": "BOX OF 100 PCS"
+     },
+     {
+      "SR. NO.": "30",
+      "GENERIC_NAME": "PLASTIC GLOVES SIZE: 11\"X12\" BULK BOX",
+      "STRENGTH": "BOX OF 100 PCS"
+     },
+     {
+      "SR. NO.": "31",
+      "GENERIC_NAME": "PLASTIC GLOVES ELBOW LENGTH",
+      "STRENGTH": "PKT OF 100 PCS"
+     },
+     {
+      "SR. NO.": "32",
+      "GENERIC_NAME": "STERILE PLASTIC GLOVES IND. PACK- 1 PAIR",
+      "STRENGTH": "BOX OF 100 PCS"
+     },
+     {
+      "SR. NO.": "33",
+      "GENERIC_NAME": "ALCOHOL SWABS",
+      "STRENGTH": "BOX OF 100 PCS"
+     },
+     {
+      "SR. NO.": "34",
+      "GENERIC_NAME": "BED BATH TOWEL",
+      "STRENGTH": "PKT OF 10 PCS"
+     },
+     {
+      "SR. NO.": "35",
+      "GENERIC_NAME": "LANCET STEEL",
+      "STRENGTH": "BOX OF 200 PCS"
+     },
+     {
+      "SR. NO.": "36",
+      "GENERIC_NAME": "NEEDLE LANCET - PLASTICS",
+      "STRENGTH": "BOX OF 100 PCS"
+     },
+     {
+      "SR. NO.": "37",
+      "GENERIC_NAME": "AUTO LANCET PLASTIC (23 & 30 GAUGE)",
+      "STRENGTH": "BOX OF 100 PCS"
+     },
+     {
+      "SR. NO.": "38",
+      "GENERIC_NAME": "LANCING DEVICE \/ PEN",
+      "STRENGTH": "-"
+     },
+     {
+      "SR. NO.": "39",
+      "GENERIC_NAME": "WASTE CARRY BAGS SIZE: 21” X 24” (QTY PER KG 30-31 PCS)",
+      "STRENGTH": "-"
+     },
+     {
+      "SR. NO.": "40",
+      "GENERIC_NAME": "WASTE CARRY BAGS SIZE: 27” X 30” (QTY PER KG 24-25 PCS)",
+      "STRENGTH": "-"
+     },
+     {
+      "SR. NO.": "41",
+      "GENERIC_NAME": "WASTE CARRY BAGS SIZE: 33” X 36” (QTY PER KG 13-14 PCS)",
+      "STRENGTH": "-"
+     },
+     {
+      "SR. NO.": "42",
+      "GENERIC_NAME": "SURGICAL\/BP BLADE-10,11,12,15,20,21,22,23,24",
+      "STRENGTH": "BOX OF 100 PCS"
+     },
+     {
+      "SR. NO.": "43",
+      "GENERIC_NAME": "PREP RAZOR \/ SKIN BLADE (10+1)",
+      "STRENGTH": "BOX OF 10 + 1 PCS"
+     },
+     {
+      "SR. NO.": "44",
+      "GENERIC_NAME": "TOURNIQUET BELT \/ SALINE STRIPE",
+      "STRENGTH": "-"
+     },
+     {
+      "SR. NO.": "45",
+      "GENERIC_NAME": "CORD CLAMP",
+      "STRENGTH": "BOX OF 50 PC S"
+     },
+     {
+      "SR. NO.": "46",
+      "GENERIC_NAME": "AMBU BAG : CHILD",
+      "STRENGTH": "BAG OF 40 PCS"
+     },
+     {
+      "SR. NO.": "47",
+      "GENERIC_NAME": "AMBU BAG : ADULT",
+      "STRENGTH": "BAG OF 20 PCS"
+     },
+     {
+      "SR. NO.": "48",
+      "GENERIC_NAME": "AMBU BAG : NEONATAL",
+      "STRENGTH": "BAG OF 20 PCS"
+     },
+     {
+      "SR. NO.": "49",
+      "GENERIC_NAME": "INFUSION SET ECONOMIC",
+      "STRENGTH": "1X25"
+     },
+     {
+      "SR. NO.": "50",
+      "GENERIC_NAME": "INFUSION SET STANDARD",
+      "STRENGTH": "1X25"
+     },
+     {
+      "SR. NO.": "51",
+      "GENERIC_NAME": "INFUSION SET PREMIUM",
+      "STRENGTH": "1X25"
+     },
+     {
+      "SR. NO.": "52",
+      "GENERIC_NAME": "INFUSION SET ULTRA PREMIUM [PAPER POUCH]",
+      "STRENGTH": "1X25"
+     },
+     {
+      "SR. NO.": "53",
+      "GENERIC_NAME": "INFUSION SET [Y] CONNECTOR ULTRA PREMIUM",
+      "STRENGTH": "1X25"
+     },
+     {
+      "SR. NO.": "54",
+      "GENERIC_NAME": "INFUSION SET [Y] CONNECTOR PREMIUM WITH LUER LOCK",
+      "STRENGTH": "1X25"
+     },
+     {
+      "SR. NO.": "55",
+      "GENERIC_NAME": "MICRO INFUSION SET STANDARD",
+      "STRENGTH": "1X25"
+     },
+     {
+      "SR. NO.": "56",
+      "GENERIC_NAME": "MICRO INFUSION SET PREMIUM",
+      "STRENGTH": "1X25"
+     },
+     {
+      "SR. NO.": "57",
+      "GENERIC_NAME": "VENTED INFUSION SET STANDARD",
+      "STRENGTH": "1X25"
+     },
+     {
+      "SR. NO.": "58",
+      "GENERIC_NAME": "VENTED INFUSION SET PREMIUM",
+      "STRENGTH": "1X25"
+     },
+     {
+      "SR. NO.": "59",
+      "GENERIC_NAME": "MEASURED VOLUME SET [110ML]",
+      "STRENGTH": "1X10"
+     },
+     {
+      "SR. NO.": "60",
+      "GENERIC_NAME": "MEASURED VOLUME SET [150ML]",
+      "STRENGTH": "1X10"
+     },
+     {
+      "SR. NO.": "61",
+      "GENERIC_NAME": "BURRETA BLOOD SET [110ML]",
+      "STRENGTH": "1X10"
+     },
+     {
+      "SR. NO.": "62",
+      "GENERIC_NAME": "BLOOD TRANSFUSION SET [ SINGLE CHAMBER]",
+      "STRENGTH": "1X25"
+     },
+     {
+      "SR. NO.": "63",
+      "GENERIC_NAME": "BLOOD TRANSFUSION SET [SINGLE PREMIUM ]",
+      "STRENGTH": "1X25"
+     },
+     {
+      "SR. NO.": "64",
+      "GENERIC_NAME": "BLOOD TRANSFUSION SET [ DOUBLE CHAMBER]",
+      "STRENGTH": "1X25"
+     },
+     {
+      "SR. NO.": "65",
+      "GENERIC_NAME": "BLOOD TRANSFUSION SET [ DOUBLE PREMIUM]",
+      "STRENGTH": "1X25"
+     },
+     {
+      "SR. NO.": "66",
+      "GENERIC_NAME": "IV FLOW REGULATOR",
+      "STRENGTH": "1X10"
+     },
+     {
+      "SR. NO.": "67",
+      "GENERIC_NAME": "SCALP VEIN SET [20G,21G,22G,23G,24G]",
+      "STRENGTH": "1X100"
+     },
+     {
+      "SR. NO.": "68",
+      "GENERIC_NAME": "IV CANNULA [18 G TO 22 G ]",
+      "STRENGTH": "1X100"
+     },
+     {
+      "SR. NO.": "69",
+      "GENERIC_NAME": "IV CANNULA [ 24 G ]",
+      "STRENGTH": "1X100"
+     },
+     {
+      "SR. NO.": "70",
+      "GENERIC_NAME": "IV CANNULA [ 26 G ]",
+      "STRENGTH": "1X100"
+     },
+     {
+      "SR. NO.": "71",
+      "GENERIC_NAME": "3 WAY STOP COCK",
+      "STRENGTH": "1X50"
+     },
+     {
+      "SR. NO.": "72",
+      "GENERIC_NAME": "3 WAY STOP COCK EXTENSION LINE",
+      "STRENGTH": "1X25"
+     },
+     {
+      "SR. NO.": "73",
+      "GENERIC_NAME": "SYRINGES 1ML",
+      "STRENGTH": "1X100"
+     },
+     {
+      "SR. NO.": "74",
+      "GENERIC_NAME": "SYRINGES 2ML",
+      "STRENGTH": "1X100"
+     },
+     {
+      "SR. NO.": "75",
+      "GENERIC_NAME": "SYRINGES 3ML",
+      "STRENGTH": "1X100"
+     },
+     {
+      "SR. NO.": "76",
+      "GENERIC_NAME": "SYRINGES 5ML",
+      "STRENGTH": "1X100"
+     },
+     {
+      "SR. NO.": "77",
+      "GENERIC_NAME": "SYRINGES 10ML",
+      "STRENGTH": "1X50"
+     },
+     {
+      "SR. NO.": "78",
+      "GENERIC_NAME": "SYRINGES 20ML",
+      "STRENGTH": "1X25"
+     },
+     {
+      "SR. NO.": "79",
+      "GENERIC_NAME": "SYRINGES 50ML",
+      "STRENGTH": "1X25"
+     },
+     {
+      "SR. NO.": "80",
+      "GENERIC_NAME": "URINE BAG ECO. [2000 ML]",
+      "STRENGTH": "1X30"
+     },
+     {
+      "SR. NO.": "81",
+      "GENERIC_NAME": "URINE BAG STD [2000 ML]",
+      "STRENGTH": "1X30"
+     },
+     {
+      "SR. NO.": "82",
+      "GENERIC_NAME": "URINE BAG WITH HANGER [2000 ML]",
+      "STRENGTH": "1X30"
+     },
+     {
+      "SR. NO.": "83",
+      "GENERIC_NAME": "URINE BEG PEDIA [100ML]",
+      "STRENGTH": "1X50"
+     },
+     {
+      "SR. NO.": "84",
+      "GENERIC_NAME": "URINE POT",
+      "STRENGTH": "1X1"
+     },
+     {
+      "SR. NO.": "85",
+      "GENERIC_NAME": "URO METER",
+      "STRENGTH": "1X10"
+     },
+     {
+      "SR. NO.": "86",
+      "GENERIC_NAME": "FOLEY BALLOON CATHETER 6 FR TO 10 FR",
+      "STRENGTH": "1X50"
+     },
+     {
+      "SR. NO.": "87",
+      "GENERIC_NAME": "FOLEY BALLOON CATHETER, 12 FR 18 FR",
+      "STRENGTH": "1X50"
+     },
+     {
+      "SR. NO.": "88",
+      "GENERIC_NAME": "FOLEY BALLOON CATHETER, 20FR TO 24 FR",
+      "STRENGTH": "1X50"
+     },
+     {
+      "SR. NO.": "89",
+      "GENERIC_NAME": "NELTON CATHETER [8 TO 20]",
+      "STRENGTH": "1X50"
+     },
+     {
+      "SR. NO.": "90",
+      "GENERIC_NAME": "MALE EXTERNAL CATHETER",
+      "STRENGTH": "1X25"
+     },
+     {
+      "SR. NO.": "91",
+      "GENERIC_NAME": "BED PAN",
+      "STRENGTH": "1X1"
+     },
+     {
+      "SR. NO.": "92",
+      "GENERIC_NAME": "CREPE BANDAGE (15CMX4MTR)",
+      "STRENGTH": "1X1"
+     },
+     {
+      "SR. NO.": "93",
+      "GENERIC_NAME": "CREPE BANDAGE (10CMX4MTR)",
+      "STRENGTH": "1X1"
+     },
+     {
+      "SR. NO.": "94",
+      "GENERIC_NAME": "CREPE BANDAGE (8CMX4MTR)",
+      "STRENGTH": "1X1"
+     },
+     {
+      "SR. NO.": "95",
+      "GENERIC_NAME": "CREPE BANDAGE (6CMX4MTR)",
+      "STRENGTH": "1X1"
+     },
+     {
+      "SR. NO.": "96",
+      "GENERIC_NAME": "CREPE BANDAGE (15CMX4MTR) DLX",
+      "STRENGTH": "1X1"
+     },
+     {
+      "SR. NO.": "97",
+      "GENERIC_NAME": "CREPE BANDAGE (10CMX4MTR) DLX",
+      "STRENGTH": "1X1"
+     },
+     {
+      "SR. NO.": "98",
+      "GENERIC_NAME": "CREPE BANDAGE (8CMX4MTR) DLX",
+      "STRENGTH": "1X1"
+     },
+     {
+      "SR. NO.": "99",
+      "GENERIC_NAME": "CREPE BANDAGE (6CMX4MTR) DLX",
+      "STRENGTH": "1X1"
+     },
+     {
+      "SR. NO.": "100",
+      "GENERIC_NAME": "CANULA FIXATOR [ BOX PACKING ]",
+      "STRENGTH": "1X100"
+     },
+     {
+      "SR. NO.": "101",
+      "GENERIC_NAME": "ELASTIC ADHESIV BANDAGE 10CM X4\/6 MTR",
+      "STRENGTH": "1X1"
+     },
+     {
+      "SR. NO.": "102",
+      "GENERIC_NAME": "ROLLER GAUZE BANDAGE SIZE –5CM X 3MTR",
+      "STRENGTH": "1X10"
+     },
+     {
+      "SR. NO.": "103",
+      "GENERIC_NAME": "ROLLER GAUZE BANDAGE SIZE –7.5CM X 3MTR",
+      "STRENGTH": "1X10"
+     },
+     {
+      "SR. NO.": "104",
+      "GENERIC_NAME": "ROLLER GAUZE BANDAGE SIZE –10CM X 3MTR",
+      "STRENGTH": "1X10"
+     },
+     {
+      "SR. NO.": "105",
+      "GENERIC_NAME": "ROLLER GAUZE BANDAGE SIZE –15CM X 3MTR",
+      "STRENGTH": "1X10"
+     },
+     {
+      "SR. NO.": "106",
+      "GENERIC_NAME": "ROLLER GAUZE BANDAGE SIZE –5CM X 5MTR",
+      "STRENGTH": "1X10"
+     },
+     {
+      "SR. NO.": "107",
+      "GENERIC_NAME": "ROLLER GAUZE BANDAGE SIZE –7.5CM X 5MTR",
+      "STRENGTH": "1X10"
+     },
+     {
+      "SR. NO.": "108",
+      "GENERIC_NAME": "ROLLER GAUZE BANDAGE SIZE –10CM X 5MTR",
+      "STRENGTH": "1X10"
+     },
+     {
+      "SR. NO.": "109",
+      "GENERIC_NAME": "ROLLER GAUZE BANDAGE SIZE –15CM X 5MTR",
+      "STRENGTH": "1X10"
+     },
+     {
+      "SR. NO.": "110",
+      "GENERIC_NAME": "ROLLER GAUZE BANDAGE SIZE –5CM X 8MTR",
+      "STRENGTH": "1X10"
+     },
+     {
+      "SR. NO.": "111",
+      "GENERIC_NAME": "ROLLER GAUZE BANDAGE SIZE –7.5CM X 8MTR",
+      "STRENGTH": "1X10"
+     },
+     {
+      "SR. NO.": "112",
+      "GENERIC_NAME": "ROLLER GAUZE BANDAGE SIZE –10CM X 8MTR",
+      "STRENGTH": "1X10"
+     },
+     {
+      "SR. NO.": "113",
+      "GENERIC_NAME": "ROLLER GAUZE BANDAGE SIZE –15CM X 8MTR",
+      "STRENGTH": "1X10"
+     },
+     {
+      "SR. NO.": "114",
+      "GENERIC_NAME": "PLASTER OF PARIS BANDAGE (POP) SIZE – 7.5CM*2.7 METERS",
+      "STRENGTH": "1X12"
+     },
+     {
+      "SR. NO.": "115",
+      "GENERIC_NAME": "PLASTER OF PARIS BANDAGE (POP) SIZE – 10CM*2.7 METERS",
+      "STRENGTH": "1X12"
+     },
+     {
+      "SR. NO.": "116",
+      "GENERIC_NAME": "PLASTER OF PARIS BANDAGE (POP) SIZE – 15CM*2.7 METERS",
+      "STRENGTH": "1X12"
+     },
+     {
+      "SR. NO.": "117",
+      "GENERIC_NAME": "GAUZE BANDAGE CLOTH 90CM X 16 MTR (DELUXE)",
+      "STRENGTH": "1X1"
+     },
+     {
+      "SR. NO.": "118",
+      "GENERIC_NAME": "GAUZE BANDAGE CLOTH 90CM X 18 MTR (DELUXE)",
+      "STRENGTH": "1X1"
+     },
+     {
+      "SR. NO.": "119",
+      "GENERIC_NAME": "ORTHOPEDIC BANDAGE SOFT ROLL SIZE – 10CM*3 METERS",
+      "STRENGTH": "1X20"
+     },
+     {
+      "SR. NO.": "120",
+      "GENERIC_NAME": "ORTHOPEDIC BANDAGE SOFT ROLL SIZE – 15CM*3 METERS",
+      "STRENGTH": "1X20"
+     },
+     {
+      "SR. NO.": "121",
+      "GENERIC_NAME": "RYLES TUBE [6,8,10,12,14]",
+      "STRENGTH": "1X25"
+     },
+     {
+      "SR. NO.": "122",
+      "GENERIC_NAME": "RYLES TUBE [16,18,20]",
+      "STRENGTH": "1X25"
+     },
+     {
+      "SR. NO.": "123",
+      "GENERIC_NAME": "RYLES TUBE [22,24]",
+      "STRENGTH": "1X25"
+     },
+     {
+      "SR. NO.": "124",
+      "GENERIC_NAME": "INFENT FEEDING TUBE [5,6,7,8,9,10]",
+      "STRENGTH": "1X100"
+     },
+     {
+      "SR. NO.": "125",
+      "GENERIC_NAME": "SUCTION CATHETER LONG POUCH [6,8,10,12,14,16]",
+      "STRENGTH": "1X50"
+     },
+     {
+      "SR. NO.": "126",
+      "GENERIC_NAME": "SUCTION CATHETER LONG POUCH [18,20,22]",
+      "STRENGTH": "1X50"
+     },
+     {
+      "SR. NO.": "127",
+      "GENERIC_NAME": "SUCTION CATHETER SHORT POUCH [6,8,10,12,14,16]",
+      "STRENGTH": "1X50"
+     },
+     {
+      "SR. NO.": "128",
+      "GENERIC_NAME": "SUCTION CATHETER SHORT POUCH [18,20,22]",
+      "STRENGTH": "1X50"
+     },
+     {
+      "SR. NO.": "129",
+      "GENERIC_NAME": "SUCTION CATHETER LONG POUCH [6,8,10,12,14,16]",
+      "STRENGTH": "1X50"
+     },
+     {
+      "SR. NO.": "130",
+      "GENERIC_NAME": "SUCTION CATHETER LONG POUCH [18,20,22]",
+      "STRENGTH": "1X50"
+     },
+     {
+      "SR. NO.": "131",
+      "GENERIC_NAME": "CLOSED WOUND SUCTION CATHETER [10,12,14]800ML",
+      "STRENGTH": "1X1"
+     },
+     {
+      "SR. NO.": "132",
+      "GENERIC_NAME": "CLOSED WOUND SUCTION CATHETER[16,18,20]800ML",
+      "STRENGTH": "1X1"
+     },
+     {
+      "SR. NO.": "133",
+      "GENERIC_NAME": "ET TUBE 4.5 TO 9",
+      "STRENGTH": "1X25"
+     },
+     {
+      "SR. NO.": "134",
+      "GENERIC_NAME": "ET TUBE (2.5 -4)",
+      "STRENGTH": "1X25"
+     },
+     {
+      "SR. NO.": "135",
+      "GENERIC_NAME": "ET TUBE CUFFED (2.5 TO 4)",
+      "STRENGTH": "1X25"
+     },
+     {
+      "SR. NO.": "136",
+      "GENERIC_NAME": "ET TUBE CUFFED (4.5 TO 9)",
+      "STRENGTH": "1X25"
+     },
+     {
+      "SR. NO.": "137",
+      "GENERIC_NAME": "HME FILTER [ PLAIN ]",
+      "STRENGTH": "1X1"
+     },
+     {
+      "SR. NO.": "138",
+      "GENERIC_NAME": "HME FILTER [ BVF ]",
+      "STRENGTH": "1X1"
+     },
+     {
+      "SR. NO.": "139",
+      "GENERIC_NAME": "BAIN CIRCUIT ADULT",
+      "STRENGTH": "1X1"
+     },
+     {
+      "SR. NO.": "140",
+      "GENERIC_NAME": "BAIN CIRCUIT CHILD",
+      "STRENGTH": "1X1"
+     },
+     {
+      "SR. NO.": "141",
+      "GENERIC_NAME": "NEBULIZER KIT ADULT\/PED.",
+      "STRENGTH": "1X25"
+     },
+     {
+      "SR. NO.": "142",
+      "GENERIC_NAME": "OXYGEN NASAL CANULA A\/CH\/NEONATE",
+      "STRENGTH": "1X30"
+     },
+     {
+      "SR. NO.": "143",
+      "GENERIC_NAME": "OXYGEN MASK AUDLT\/PED",
+      "STRENGTH": "1X10"
+     },
+     {
+      "SR. NO.": "144",
+      "GENERIC_NAME": "PULS OXY MITER",
+      "STRENGTH": "1X1"
+     },
+     {
+      "SR. NO.": "145",
+      "GENERIC_NAME": "HIGH CONCENTRATION MASK",
+      "STRENGTH": "1X25"
+     },
+     {
+      "SR. NO.": "146",
+      "GENERIC_NAME": "3 BALL SPIROMETER",
+      "STRENGTH": "1X1"
+     },
+     {
+      "SR. NO.": "147",
+      "GENERIC_NAME": "VENTILATOR CIRCUIT PLAIN [ADULT]",
+      "STRENGTH": "1X1"
+     },
+     {
+      "SR. NO.": "148",
+      "GENERIC_NAME": "VENTILATOR CIRCUIT PLAIN [CHILD]",
+      "STRENGTH": "1X1"
+     },
+     {
+      "SR. NO.": "149",
+      "GENERIC_NAME": "VENTILATOR CIRCUIT WITH SWT [ADULT]",
+      "STRENGTH": "1X1"
+     },
+     {
+      "SR. NO.": "150",
+      "GENERIC_NAME": "VENTILATOR CIRCUIT WITH SWT [CHILD]",
+      "STRENGTH": "1X1"
+     },
+     {
+      "SR. NO.": "151",
+      "GENERIC_NAME": "VENTILATOR CIRCUIT WITH DWT [ADULT]",
+      "STRENGTH": "1X1"
+     },
+     {
+      "SR. NO.": "152",
+      "GENERIC_NAME": "VENTILATOR CIRCUIT WITH DWT [CHILD]",
+      "STRENGTH": "1X1"
+     },
+     {
+      "SR. NO.": "153",
+      "GENERIC_NAME": "GUEDAL AIRWAY 0 TO 5 SIZE",
+      "STRENGTH": "1X1"
+     },
+     {
+      "SR. NO.": "154",
+      "GENERIC_NAME": "BLOOD COLLECTION TUBE DOUBLE CAP",
+      "STRENGTH": "1X100"
+     },
+     {
+      "SR. NO.": "155",
+      "GENERIC_NAME": "BLOOD COLLECTION TUBE SINGLE CAP",
+      "STRENGTH": "1X100"
+     },
+     {
+      "SR. NO.": "156",
+      "GENERIC_NAME": "HOT WATER BAG [ RUBBER ]",
+      "STRENGTH": "1X1"
+     },
+     {
+      "SR. NO.": "157",
+      "GENERIC_NAME": "HOT WATER BAG GEL [ ELECTRIC ]",
+      "STRENGTH": "1X1"
+     },
+     {
+      "SR. NO.": "158",
+      "GENERIC_NAME": "CORD CLAMP",
+      "STRENGTH": "1X200"
+     },
+     {
+      "SR. NO.": "159",
+      "GENERIC_NAME": "MUCUS EXTRACTOR",
+      "STRENGTH": "1X25"
+     },
+     {
+      "SR. NO.": "160",
+      "GENERIC_NAME": "FACE SHILED",
+      "STRENGTH": "1X1"
+     },
+     {
+      "SR. NO.": "161",
+      "GENERIC_NAME": "MICROPOROUS TAPE SIZE –1.25 CM X 9.1 MTR (24 ROLLS)",
+      "STRENGTH": "1 BOX"
+     },
+     {
+      "SR. NO.": "162",
+      "GENERIC_NAME": "MICROPOROUS TAPE SIZE – 2.50 CM X 9.1 MTR (12 ROLLS)",
+      "STRENGTH": "1 BOX"
+     },
+     {
+      "SR. NO.": "163",
+      "GENERIC_NAME": "MICROPOROUS TAPE SIZE – 5.00 CM X 9.1 MTR (6 ROLLS)",
+      "STRENGTH": "1 BOX"
+     },
+     {
+      "SR. NO.": "164",
+      "GENERIC_NAME": "MICROPOROUS TAPE SIZE – 7.50 CM X 9.1 MTR (4 ROLLS)",
+      "STRENGTH": "1 BOX"
+     },
+     {
+      "SR. NO.": "165",
+      "GENERIC_NAME": "HAND SANITISER 5 LITR.",
+      "STRENGTH": "1X1"
+     },
+     {
+      "SR. NO.": "166",
+      "GENERIC_NAME": "SANITISER TANK 16 LITRE\/BATTERY OPERATED",
+      "STRENGTH": "1X1"
+     },
+     {
+      "SR. NO.": "167",
+      "GENERIC_NAME": "PPE KIT 60 GSM",
+      "STRENGTH": "1X1"
+     },
+     {
+      "SR. NO.": "168",
+      "GENERIC_NAME": "PPE KIT 90 GSM",
+      "STRENGTH": "1X1"
+     },
+     {
+      "SR. NO.": "169",
+      "GENERIC_NAME": "PPE KIT 100 GSM",
+      "STRENGTH": "1X1"
+     },
+     {
+      "SR. NO.": "170",
+      "GENERIC_NAME": "DELHIVERY KIT : PVC DRAPES , PVC APRON , DISPO DELIVERY SHEET WITH HOLE (100CM X 100CM), CORD CLAMP, HOLE TOWEL FOR EPISIOTOMY SUTURING, WRAPPER 60X60CM FOR A NEWBORN BABY, MASK, CAP, SHOE COVER, GLOVES",
+      "STRENGTH": "1X1"
+     },
+     {
+      "SR. NO.": "171",
+      "GENERIC_NAME": "SHOE COVER [ PVC ]",
+      "STRENGTH": "1 PAIR"
+     },
+     {
+      "SR. NO.": "172",
+      "GENERIC_NAME": "SHOE COVER [ NON WOVEN 22GSM ]",
+      "STRENGTH": "1X50 PAIR"
+     },
+     {
+      "SR. NO.": "173",
+      "GENERIC_NAME": "SHOE COVER [ NON WOVEN 25GSM ]",
+      "STRENGTH": "1X50 PAIR"
+     },
+     {
+      "SR. NO.": "174",
+      "GENERIC_NAME": "SURGICAL GOWN (NONWOVEN) 25GSM",
+      "STRENGTH": "1X1"
+     },
+     {
+      "SR. NO.": "175",
+      "GENERIC_NAME": "SURGICAL GOWN (NONWOVEN) 35GSM",
+      "STRENGTH": "1X1"
+     },
+     {
+      "SR. NO.": "176",
+      "GENERIC_NAME": "SURGICAL GOWN (NONWOVEN) 40GSM",
+      "STRENGTH": "1X1"
+     },
+     {
+      "SR. NO.": "177",
+      "GENERIC_NAME": "SURGICAL GOWN (NONWOVEN) 60GSM",
+      "STRENGTH": "1X1"
+     },
+     {
+      "SR. NO.": "178",
+      "GENERIC_NAME": "ABSORBENT COTTON ROLL [50 GM]",
+      "STRENGTH": "1X1"
+     },
+     {
+      "SR. NO.": "179",
+      "GENERIC_NAME": "ABSORBENT COTTON ROLL [100 GM]",
+      "STRENGTH": "1X1"
+     },
+     {
+      "SR. NO.": "180",
+      "GENERIC_NAME": "ABSORBENT COTTON ROLL [200 GM]",
+      "STRENGTH": "1X1"
+     },
+     {
+      "SR. NO.": "181",
+      "GENERIC_NAME": "ABSORBENT COTTON ROLL [400 GM]",
+      "STRENGTH": "1X1"
+     },
+     {
+      "SR. NO.": "182",
+      "GENERIC_NAME": "ABSORBENT COTTON ROLL [500 GM]",
+      "STRENGTH": "1X1"
+     },
+     {
+      "SR. NO.": "183",
+      "GENERIC_NAME": "BIPAP MASK",
+      "STRENGTH": "1X1"
+     }
+    ],
+    "HOSPITAL TECHNOLOGY":[
+     {
+      "SR. NO.": "1",
+      "GENERIC_NAME": "NEBULIZER MACHINE",
+      "PACKING": "1 PCS"
+     },
+     {
+      "SR. NO.": "2",
+      "GENERIC_NAME": "MESH NEBULIZER",
+      "PACKING": "1 PCS"
+     },
+     {
+      "SR. NO.": "3",
+      "GENERIC_NAME": "PULSE OXIMETER",
+      "PACKING": "BOX OF 10 PCS"
+     },
+     {
+      "SR. NO.": "4",
+      "GENERIC_NAME": "DIGITAL THERMOMETER",
+      "PACKING": "BOX OF 10 PCS"
+     },
+     {
+      "SR. NO.": "5",
+      "GENERIC_NAME": "AIR BED",
+      "PACKING": "1 PCS"
+     },
+     {
+      "SR. NO.": "6",
+      "GENERIC_NAME": "BP MONITOR",
+      "PACKING": "1 PCS"
+     },
+     {
+      "SR. NO.": "7",
+      "GENERIC_NAME": "VAPORIZER",
+      "PACKING": "1 PCS"
+     },
+     {
+      "SR. NO.": "8",
+      "GENERIC_NAME": "FETAL DOPPLER",
+      "PACKING": "1 PCS"
+     },
+     {
+      "SR. NO.": "9",
+      "GENERIC_NAME": "SUCTION MACHINE",
+      "PACKING": "BOX OF 1 PC S"
+     },
+     {
+      "SR. NO.": "10",
+      "GENERIC_NAME": "BODY MASSAGER",
+      "PACKING": "BOX OF 1 PCS"
+     },
+     {
+      "SR. NO.": "11",
+      "GENERIC_NAME": "BREAST PUMP : MANUAL",
+      "PACKING": "BOX OF 1 PCS"
+     },
+     {
+      "SR. NO.": "12",
+      "GENERIC_NAME": "NEEDLE SYRINGE DESTROYER – PLASTIC",
+      "PACKING": "1 PCS"
+     },
+     {
+      "SR. NO.": "13",
+      "GENERIC_NAME": "NEEDLE SYRINGE DESTROYER – MANUAL",
+      "PACKING": "1 PCS"
+     },
+     {
+      "SR. NO.": "14",
+      "GENERIC_NAME": "NEEDLE SYRINGE DESTROYER – METAL",
+      "PACKING": "1 PCS"
+     },
+     {
+      "SR. NO.": "15",
+      "GENERIC_NAME": "STATURE METER",
+      "PACKING": "-"
+     },
+     {
+      "SR. NO.": "16",
+      "GENERIC_NAME": "SPIROMETER",
+      "PACKING": "-"
+     },
+     {
+      "SR. NO.": "17",
+      "GENERIC_NAME": "CONTROL PENCIL",
+      "PACKING": "PKT OF 10 PCS"
+     },
+     {
+      "SR. NO.": "18",
+      "GENERIC_NAME": "INFUSION PUMP BYS-820",
+      "PACKING": "1PC"
+     },
+     {
+      "SR. NO.": "19",
+      "GENERIC_NAME": "CHANNEL SYRINGE PUMP BYZ-810D",
+      "PACKING": "1PC"
+     },
+     {
+      "SR. NO.": "20",
+      "GENERIC_NAME": "OXYPLUS 240ST TABLE TOP PULSE OXIMETER",
+      "PACKING": "1PC"
+     },
+     {
+      "SR. NO.": "21",
+      "GENERIC_NAME": "SPO2 SENSOR",
+      "PACKING": "1PC"
+     },
+     {
+      "SR. NO.": "22",
+      "GENERIC_NAME": "DIGITAL 3 CHANNEL ECG MACHINE",
+      "PACKING": "1PC"
+     },
+     {
+      "SR. NO.": "23",
+      "GENERIC_NAME": "CONTACT INFRARED FOREHEAD THERMOMETER FOR HOSPITAL ",
+      "PACKING": "1PC"
+     },
+     {
+      "SR. NO.": "24",
+      "GENERIC_NAME": "12 CHANNEL ECG MACHINE WITH GLASGOW ALGORITHM",
+      "PACKING": "1PC"
+     },
+     {
+      "SR. NO.": "25",
+      "GENERIC_NAME": "PORTABLE LIGHT-WEIGHT FETAL MONITOR WITH COLOR DISPLAY",
+      "PACKING": "1PC"
+     },
+     {
+      "SR. NO.": "26",
+      "GENERIC_NAME": "SINGLE HOSE CUFF ADULT  25CM TO 35 CM GREY",
+      "PACKING": "1PC"
+     },
+     {
+      "SR. NO.": "27",
+      "GENERIC_NAME": "LUMIS 150 VPAP ST",
+      "PACKING": "1PC"
+     },
+     {
+      "SR. NO.": "28",
+      "GENERIC_NAME": "BMC RESMART GII AUTO BIPAP WITH HUMIDIFIER BREATHING RESPIRATORY EXERCISER",
+      "PACKING": "1PC"
+     },
+     {
+      "SR. NO.": "29",
+      "GENERIC_NAME": "BPC METALLIC FLOW METER WITH HUMIDIFIER BOTTLE ",
+      "PACKING": "1PC"
+     }
+    ]
+    }

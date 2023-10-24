@@ -23,7 +23,7 @@ const LINKS = [
         {" "}
         Topical  (SKIN/HAIR) Formutaions{" "}
       </Link>,
-      <Link smooth to="/products/opthlamic-formulations">
+      <Link smooth to="/products/opthalmic-formulations">
         {" "}
         Opthalmic & ENT Products{" "}
       </Link>,
@@ -58,7 +58,7 @@ const currentYear = new Date().getFullYear();
 
 export default function Footer() {
   return (
-    <footer className="relative w-full p-10 bg-[#1B1A1A] text-white">
+    <footer className="relative w-full p-10 bg-[#CE5A67] text-black">
       <div className="mx-auto w-full max-w-7xl px-8">
         <div className="grid grid-cols-1 justify-between gap-10 md:gap-76 md:grid-cols-2">
           <Typography variant="h3" className="mb-6 ">
@@ -70,7 +70,7 @@ export default function Footer() {
                 <Typography
                   variant="small"
                   color="#5A5A5A"
-                  className="text-white mb-1 text-xl font-bold font-poppins"
+                  className="text-black mb-1 text-xl font-bold font-poppins"
                 >
                   {title}
                 </Typography>
@@ -80,7 +80,7 @@ export default function Footer() {
                       as="a"
                       href="#"
                       color="gray"
-                      className="py-1.5  font-poppins text-white   font-normal transition-colors hover:text-blue-gray-900"
+                      className="py-1.5  font-poppins text-black   font-normal transition-colors hover:text-blue-gray-900"
                     >
                       {link}
                     </Typography>

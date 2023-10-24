@@ -1,0 +1,2480 @@
+{
+    "DRY POWDER INJECTABLES (VIALSAM":[
+     {
+      "SR. NO.": 1,
+      "GENERIC_NAME": "AMOXYCILLIN & CLAVUNATE POTASSIUM FOR INJ.",
+      "STRENGTH": "150MG \/ 300MG\/ 600MG\/ 1.2GM",
+      "TYPE": "BETA LACTAM"
+     },
+     {
+      "SR. NO.": 2,
+      "GENERIC_NAME": "AMOXYCILLIN & SALBACTUM INJ.",
+      "STRENGTH": "300MG \/ 3GM \/ 4.5GM",
+      "TYPE": "BETA LACTAM"
+     },
+     {
+      "SR. NO.": 3,
+      "GENERIC_NAME": "AMOXYCILLIN SODIUM INJ.",
+      "STRENGTH": "250MG\/ 500MG \/ 1.0GM",
+      "TYPE": "BETA LACTAM"
+     },
+     {
+      "SR. NO.": 4,
+      "GENERIC_NAME": "AMPICILLIN & CLOXACILLIN FOR INJ.",
+      "STRENGTH": "250MG\/ 500MG \/ 1.0GM",
+      "TYPE": "BETA LACTAM"
+     },
+     {
+      "SR. NO.": 5,
+      "GENERIC_NAME": "AMPICILLIN & SALBACTUM FOR INJ.",
+      "STRENGTH": "0.75GM \/ 1.5GM",
+      "TYPE": "BETA LACTAM"
+     },
+     {
+      "SR. NO.": 6,
+      "GENERIC_NAME": "AMPICILLIN SODIUM INJ.",
+      "STRENGTH": "250MG\/ 500MG \/ 1.0GM",
+      "TYPE": "BETA LACTAM"
+     },
+     {
+      "SR. NO.": 7,
+      "GENERIC_NAME": "CLOXACILLIN SODIUM INJ.",
+      "STRENGTH": "250MG\/ 500MG \/ 1.0GM",
+      "TYPE": "BETA LACTAM"
+     },
+     {
+      "SR. NO.": 8,
+      "GENERIC_NAME": "IMEPENEM AND CILASTATIN FOR INJ.",
+      "STRENGTH": "1GM",
+      "TYPE": "BETA LACTAM"
+     },
+     {
+      "SR. NO.": 9,
+      "GENERIC_NAME": "MEROPENEM & SULBACTAM INJ.",
+      "STRENGTH": "1.5GM",
+      "TYPE": "BETA LACTAM"
+     },
+     {
+      "SR. NO.": 10,
+      "GENERIC_NAME": "MEROPENEM FOR INJ.",
+      "STRENGTH": "125 MG \/ 500MG \/ 1GM",
+      "TYPE": "BETA LACTAM"
+     },
+     {
+      "SR. NO.": 11,
+      "GENERIC_NAME": "PIPERACILLIN & TAZOBACTUM FOR INJ.",
+      "STRENGTH": "1.125GM \/ 2.25GM \/ 4.5GM",
+      "TYPE": "BETA LACTAM"
+     },
+     {
+      "SR. NO.": 12,
+      "GENERIC_NAME": "TAZOBACTAM SODIUM INJ",
+      "STRENGTH": "2.0GM \/ 1.0GM \/ 500MG",
+      "TYPE": "BETA LACTAM"
+     },
+     {
+      "SR. NO.": 13,
+      "GENERIC_NAME": "CEFAZOLIN SODIUM INJ.",
+      "STRENGTH": "1.0GM",
+      "TYPE": "CEPHALOSPORINS"
+     },
+     {
+      "SR. NO.": 14,
+      "GENERIC_NAME": "CEFEPIME & SULBACTAM FOR INJ.",
+      "STRENGTH": "1125 MG",
+      "TYPE": "CEPHALOSPORINS"
+     },
+     {
+      "SR. NO.": 15,
+      "GENERIC_NAME": "CEFEPIME & TAZOBACTAM INJ",
+      "STRENGTH": "1125MG \/ 562.5MG \/ 281.25MG",
+      "TYPE": "CEPHALOSPORINS"
+     },
+     {
+      "SR. NO.": 16,
+      "GENERIC_NAME": "CEFEPIME FOR INJ.",
+      "STRENGTH": "1.0GM",
+      "TYPE": "CEPHALOSPORINS"
+     },
+     {
+      "SR. NO.": 17,
+      "GENERIC_NAME": "CEFOPERAZONE & SULBACTAM FOR INJ.(1:1)",
+      "STRENGTH": "1.0GM\/ 2.0GM",
+      "TYPE": "CEPHALOSPORINS"
+     },
+     {
+      "SR. NO.": 18,
+      "GENERIC_NAME": "CEFOPERAZONE & SULBACTAM FOR INJ.(2:1)",
+      "STRENGTH": "1.5GM\/ 3.0G",
+      "TYPE": "CEPHALOSPORINS"
+     },
+     {
+      "SR. NO.": 19,
+      "GENERIC_NAME": "CEFOPERAZONE & TAZOBACTAM FOR INJ.",
+      "STRENGTH": "281.25MG\/562.5MG\/1125MG",
+      "TYPE": "CEPHALOSPORINS"
+     },
+     {
+      "SR. NO.": 20,
+      "GENERIC_NAME": "CEFOPERAZONE FOR INJ",
+      "STRENGTH": "250MG\/ 1.0GM",
+      "TYPE": "CEPHALOSPORINS"
+     },
+     {
+      "SR. NO.": 21,
+      "GENERIC_NAME": "CEFOTAXIME & SULBACTAM FOR INJ.",
+      "STRENGTH": "375MG\/750MG\/ 1.5GM",
+      "TYPE": "CEPHALOSPORINS"
+     },
+     {
+      "SR. NO.": 22,
+      "GENERIC_NAME": "CEFOTAXIME SODIUM INJ.",
+      "STRENGTH": "125MG\/250MG\/500MG\/ 1.0GM",
+      "TYPE": "CEPHALOSPORINS"
+     },
+     {
+      "SR. NO.": 23,
+      "GENERIC_NAME": "CEFPIROME SULPHATE FOR INJ.",
+      "STRENGTH": "1.0GM",
+      "TYPE": "CEPHALOSPORINS"
+     },
+     {
+      "SR. NO.": 24,
+      "GENERIC_NAME": "CEFTAZIDIME & SULBACTAM INJ.",
+      "STRENGTH": "1500MG \/ 750MG \/ 375MG",
+      "TYPE": "CEPHALOSPORINS"
+     },
+     {
+      "SR. NO.": 25,
+      "GENERIC_NAME": "CEFTAZIDIME & TAZOBACTAM INJ.",
+      "STRENGTH": "1125MG \/ 562.5MG \/ 281.25MG",
+      "TYPE": "CEPHALOSPORINS"
+     },
+     {
+      "SR. NO.": 26,
+      "GENERIC_NAME": "CEFTAZIDIME FOR INJ",
+      "STRENGTH": "250MG\/ 1.0GM",
+      "TYPE": "CEPHALOSPORINS"
+     },
+     {
+      "SR. NO.": 27,
+      "GENERIC_NAME": "CEFTRIAXONE & SULBACTAM FOR INJ.",
+      "STRENGTH": "187.5MG\/ 375MG\/ 750MG\/ 1.5GM",
+      "TYPE": "CEPHALOSPORINS"
+     },
+     {
+      "SR. NO.": 28,
+      "GENERIC_NAME": "CEFTRIAXONE & TAZOBACTAM FOR INJ.",
+      "STRENGTH": "281.25MG\/562.5MG\/1125MG",
+      "TYPE": "CEPHALOSPORINS"
+     },
+     {
+      "SR. NO.": 29,
+      "GENERIC_NAME": "CEFTRIAXONE FOR INJ",
+      "STRENGTH": "125MG\/250MG\/500MG\/1.GM",
+      "TYPE": "CEPHALOSPORINS"
+     },
+     {
+      "SR. NO.": 30,
+      "GENERIC_NAME": "CEFTRIAXONE WITH LIGNOCAINE 2% & FFS",
+      "STRENGTH": "1 GM",
+      "TYPE": "CEPHALOSPORINS"
+     },
+     {
+      "SR. NO.": 31,
+      "GENERIC_NAME": "CEFUROXIME SODIUM INJ.",
+      "STRENGTH": "750MG\/ 1.5GM",
+      "TYPE": "CEPHALOSPORINS"
+     },
+     {
+      "SR. NO.": 32,
+      "GENERIC_NAME": "ARTESUNATE",
+      "STRENGTH": "120MG",
+      "TYPE": "GENERAL DRY POWDER"
+     },
+     {
+      "SR. NO.": 33,
+      "GENERIC_NAME": "ARTESUNATE",
+      "STRENGTH": "60MG",
+      "TYPE": "GENERAL DRY POWDER"
+     },
+     {
+      "SR. NO.": 34,
+      "GENERIC_NAME": "AZTREONAM ",
+      "STRENGTH": "1GM",
+      "TYPE": "GENERAL DRY POWDER"
+     },
+     {
+      "SR. NO.": 35,
+      "GENERIC_NAME": "AZTREONAM ",
+      "STRENGTH": "2GM",
+      "TYPE": "GENERAL DRY POWDER"
+     },
+     {
+      "SR. NO.": 36,
+      "GENERIC_NAME": "CLOXACILLIN",
+      "STRENGTH": "500MG",
+      "TYPE": "GENERAL DRY POWDER"
+     },
+     {
+      "SR. NO.": 37,
+      "GENERIC_NAME": "IMIPENEM + CILASTATIN ",
+      "STRENGTH": "1000MG + 1000MG",
+      "TYPE": "GENERAL DRY POWDER"
+     },
+     {
+      "SR. NO.": 38,
+      "GENERIC_NAME": "IMIPENEM + CILASTATIN",
+      "STRENGTH": "250MG + 250MG",
+      "TYPE": "GENERAL DRY POWDER"
+     },
+     {
+      "SR. NO.": 39,
+      "GENERIC_NAME": "IMIPENEM + CILASTATIN",
+      "STRENGTH": "500MG +500MG",
+      "TYPE": "GENERAL DRY POWDER"
+     },
+     {
+      "SR. NO.": 40,
+      "GENERIC_NAME": "MEROPENEM +TAZOBACTAM ",
+      "STRENGTH": "1000MG +125MG",
+      "TYPE": "GENERAL DRY POWDER"
+     },
+     {
+      "SR. NO.": 41,
+      "GENERIC_NAME": "MEROPENEM  + EDTA",
+      "STRENGTH": "1MG",
+      "TYPE": "GENERAL DRY POWDER"
+     },
+     {
+      "SR. NO.": 42,
+      "GENERIC_NAME": "MEROPENEM + TAZOBACTAM ",
+      "STRENGTH": "500MG +62.5 MG",
+      "TYPE": "GENERAL DRY POWDER"
+     },
+     {
+      "SR. NO.": 43,
+      "GENERIC_NAME": "METHYLPREDNISOLONE SODIUM SUCCINATE ",
+      "STRENGTH": "125 MG",
+      "TYPE": "GENERAL DRY POWDER"
+     },
+     {
+      "SR. NO.": 44,
+      "GENERIC_NAME": "METHYLPREDNISOLONE SODIUM SUCCINATE ",
+      "STRENGTH": "1 GM",
+      "TYPE": "GENERAL DRY POWDER"
+     },
+     {
+      "SR. NO.": 45,
+      "GENERIC_NAME": "METHYLPREDNISOLONE SODIUM SUCCINATE ",
+      "STRENGTH": "40 MG",
+      "TYPE": "GENERAL DRY POWDER"
+     },
+     {
+      "SR. NO.": 46,
+      "GENERIC_NAME": "METHYLPREDNISOLONE SODIUM SUCCINATE ",
+      "STRENGTH": "500 MG",
+      "TYPE": "GENERAL DRY POWDER"
+     },
+     {
+      "SR. NO.": 47,
+      "GENERIC_NAME": "OMEPRAZOLE ",
+      "STRENGTH": "40 MG",
+      "TYPE": "GENERAL DRY POWDER"
+     },
+     {
+      "SR. NO.": 48,
+      "GENERIC_NAME": "THIOPENTONE ",
+      "STRENGTH": "1 GM",
+      "TYPE": "GENERAL DRY POWDER"
+     },
+     {
+      "SR. NO.": 49,
+      "GENERIC_NAME": "THIOPENTONE ",
+      "STRENGTH": "500 MG",
+      "TYPE": "GENERAL DRY POWDER"
+     },
+     {
+      "SR. NO.": 50,
+      "GENERIC_NAME": "ACECLOFENAC INJECTION",
+      "STRENGTH": "150MG",
+      "TYPE": "GENERAL LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 51,
+      "GENERIC_NAME": "ACYCLOVIR ",
+      "STRENGTH": "250 MG",
+      "TYPE": "GENERAL LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 52,
+      "GENERIC_NAME": "ACYCLOVIR ",
+      "STRENGTH": "500 MG",
+      "TYPE": "GENERAL LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 53,
+      "GENERIC_NAME": "ACYCLOVIR FOR INJECTION USP",
+      "STRENGTH": "250MG\/VIAL & 500MG\/VIAL",
+      "TYPE": "GENERAL LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 54,
+      "GENERIC_NAME": "AMPHOTERICIN B FOR INJECTION USP",
+      "STRENGTH": "50MG\/VIAL & 100MG\/VIAL",
+      "TYPE": "GENERAL LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 55,
+      "GENERIC_NAME": "AZITHROMYCIN ",
+      "STRENGTH": "1 GM",
+      "TYPE": "GENERAL LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 56,
+      "GENERIC_NAME": "AZITHROMYCIN ",
+      "STRENGTH": "500 MG",
+      "TYPE": "GENERAL LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 57,
+      "GENERIC_NAME": "AZITHROMYCIN FOR INJECTION",
+      "STRENGTH": "500MG\/VIAL",
+      "TYPE": "GENERAL LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 58,
+      "GENERIC_NAME": "CLARITHROMYCIN ",
+      "STRENGTH": "500 MG",
+      "TYPE": "GENERAL LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 59,
+      "GENERIC_NAME": "COLISTIMETHATE ",
+      "STRENGTH": "1MIU \/ 2MIU \/ 3MIU \/ 4.5MIU",
+      "TYPE": "GENERAL LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 63,
+      "GENERIC_NAME": "DOBUTAMINE FOR INJECTION USP",
+      "STRENGTH": "250MG\/VIAL",
+      "TYPE": "GENERAL LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 64,
+      "GENERIC_NAME": "DOXYCYCLINE ",
+      "STRENGTH": "100 MG",
+      "TYPE": "GENERAL LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 65,
+      "GENERIC_NAME": "ERTAPENEM ",
+      "STRENGTH": "1 GM",
+      "TYPE": "GENERAL LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 66,
+      "GENERIC_NAME": "ERTAPENEM ",
+      "STRENGTH": "500 MG",
+      "TYPE": "GENERAL LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 67,
+      "GENERIC_NAME": "ESOMEPRAZOLE ",
+      "STRENGTH": "40 MG",
+      "TYPE": "GENERAL LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 68,
+      "GENERIC_NAME": "ESOMEPRAZOLE SODIUM FOR INJECTION",
+      "STRENGTH": "40MG\/VIAL",
+      "TYPE": "GENERAL LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 69,
+      "GENERIC_NAME": "FAMOTIDINE INJECTION",
+      "STRENGTH": "20MG\/VIAL & 40MG\/VIAL",
+      "TYPE": "GENERAL LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 70,
+      "GENERIC_NAME": "INDOMETHACIN ",
+      "STRENGTH": "1 MG\/ML",
+      "TYPE": "GENERAL LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 71,
+      "GENERIC_NAME": "L-GLUTATHIONE ",
+      "STRENGTH": "600 MG",
+      "TYPE": "GENERAL LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 72,
+      "GENERIC_NAME": "LANSOPRAZOLE FOR INJECTION",
+      "STRENGTH": "30MG\/VIAL",
+      "TYPE": "GENERAL LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 73,
+      "GENERIC_NAME": "METHYLPREDNISOLONE SODIUM SUCCINATE FOR INJECTION USP",
+      "STRENGTH": "40MG\/VIAL, 80MG\/VIAL, 125MG\/VIAL, 500MG\/VIAL, 1GM\/VIAL",
+      "TYPE": "GENERAL LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 74,
+      "GENERIC_NAME": "NICORANDIL FOR INJECTION",
+      "STRENGTH": "2MG\/VIAL & 48MG\/VIAL",
+      "TYPE": "GENERAL LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 75,
+      "GENERIC_NAME": "OMEPRAZOLE ",
+      "STRENGTH": "40 MG",
+      "TYPE": "GENERAL LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 76,
+      "GENERIC_NAME": "OMEPRAZOLE FOR INJECTION",
+      "STRENGTH": "40MG\/VIAL",
+      "TYPE": "GENERAL LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 77,
+      "GENERIC_NAME": "PANTOPRAZOLE FOR INJECTION",
+      "STRENGTH": "40MG\/VIAL",
+      "TYPE": "GENERAL LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 78,
+      "GENERIC_NAME": "PRALIDOXIME CHLORIDE FOR INJECTION USP",
+      "STRENGTH": "1MG\/VIAL",
+      "TYPE": "GENERAL LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 79,
+      "GENERIC_NAME": "PREDNISOLONE SODIUM PHOSPHATE INJECTION USP",
+      "STRENGTH": "30MG\/ML",
+      "TYPE": "GENERAL LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 80,
+      "GENERIC_NAME": "R-ONDANSETRON INJECTION",
+      "STRENGTH": "2MG\/ML",
+      "TYPE": "GENERAL LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 81,
+      "GENERIC_NAME": "RABEPRAZOLE SODIUM FOR INJECTION",
+      "STRENGTH": "20MG\/VIAL",
+      "TYPE": "GENERAL LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 82,
+      "GENERIC_NAME": "RIFAMPICIN FOR INJECTION",
+      "STRENGTH": "600MG\/VIAL",
+      "TYPE": "GENERAL LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 83,
+      "GENERIC_NAME": "ROPIVACAINE INJECTION",
+      "STRENGTH": "2MG\/ML, 5MG\/ML, 7.5MG\/ML & 10MG\/ML",
+      "TYPE": "GENERAL LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 84,
+      "GENERIC_NAME": "S-BUPIVACAINE INJECTION",
+      "TYPE": "GENERAL LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 85,
+      "GENERIC_NAME": "S-KETAMINE INJECTION",
+      "STRENGTH": "5MG\/ML & 25MG\/ML",
+      "TYPE": "GENERAL LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 86,
+      "GENERIC_NAME": "SUCCINYLCHOLINE CHLORIDE FOR INJECTION USP",
+      "STRENGTH": "100MG\/VIAL, 500MG\/VIAL",
+      "TYPE": "GENERAL LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 87,
+      "GENERIC_NAME": "VANCOMYCIN HYDROCHLORIDE FOR INJECTION USP",
+      "STRENGTH": "250 MG\/VIAL, 500MG\/VIAL, 1GM\/VIAL",
+      "TYPE": "GENERAL LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 88,
+      "GENERIC_NAME": "VECURONIUM BROMIDE FOR INJECTION",
+      "STRENGTH": "4MG\/VIAL & 10MG\/VIAL",
+      "TYPE": "GENERAL LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 89,
+      "GENERIC_NAME": "VORICONAZOLE FOR INJECTION",
+      "STRENGTH": "20MG\/VIAL",
+      "TYPE": "GENERAL LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 90,
+      "GENERIC_NAME": "AMPHOTERICIN -B 50 MG LYOPHILIZED",
+      "STRENGTH": "VIAL",
+      "TYPE": "SPECIALITY DRY POWDER "
+     },
+     {
+      "SR. NO.": 91,
+      "GENERIC_NAME": "APROTININ ",
+      "STRENGTH": "10000 KIU",
+      "TYPE": "SPECIALITY DRY POWDER "
+     },
+     {
+      "SR. NO.": 92,
+      "GENERIC_NAME": "DACTINOMYCIN ",
+      "STRENGTH": "500 MCG",
+      "TYPE": "SPECIALITY DRY POWDER "
+     },
+     {
+      "SR. NO.": 93,
+      "GENERIC_NAME": "DAUNORUBICIN ",
+      "STRENGTH": "20 MG",
+      "TYPE": "SPECIALITY DRY POWDER "
+     },
+     {
+      "SR. NO.": 94,
+      "GENERIC_NAME": "DOCETAXEL ",
+      "STRENGTH": "120 MG",
+      "TYPE": "SPECIALITY DRY POWDER "
+     },
+     {
+      "SR. NO.": 95,
+      "GENERIC_NAME": "DOCETAXEL ",
+      "STRENGTH": "20 MG",
+      "TYPE": "SPECIALITY DRY POWDER "
+     },
+     {
+      "SR. NO.": 96,
+      "GENERIC_NAME": "DOCETAXEL ",
+      "STRENGTH": "80 MG",
+      "TYPE": "SPECIALITY DRY POWDER "
+     },
+     {
+      "SR. NO.": 97,
+      "GENERIC_NAME": "HYDROCORTISONE ",
+      "STRENGTH": "100 MG",
+      "TYPE": "SPECIALITY DRY POWDER "
+     },
+     {
+      "SR. NO.": 98,
+      "GENERIC_NAME": "POLYMIXIN B SULPHATE ",
+      "STRENGTH": "5 LAC IU",
+      "TYPE": "SPECIALITY DRY POWDER "
+     },
+     {
+      "SR. NO.": 99,
+      "GENERIC_NAME": "AMPHOTERICIN -B INJ (LIPOSOMAL)",
+      "STRENGTH": "50 MG",
+      "TYPE": "SPECIALITY LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 100,
+      "GENERIC_NAME": "ANIDULAFUNGIN",
+      "STRENGTH": "100 MG",
+      "TYPE": "SPECIALITY LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 101,
+      "GENERIC_NAME": "ANIDULAFUNGIN ",
+      "STRENGTH": "50 MG",
+      "TYPE": "SPECIALITY LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 102,
+      "GENERIC_NAME": "BLEOMYCIN ",
+      "STRENGTH": "15 UNITS",
+      "TYPE": "SPECIALITY LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 103,
+      "GENERIC_NAME": "CASPOFUNGIN ACETATE ",
+      "STRENGTH": "50 MG",
+      "TYPE": "SPECIALITY LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 104,
+      "GENERIC_NAME": "CASPOFUNGIN ACETATE ",
+      "STRENGTH": "70 MG",
+      "TYPE": "SPECIALITY LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 105,
+      "GENERIC_NAME": "CEREBROPROTEIN HYDROLYSATE ",
+      "STRENGTH": "60 MG",
+      "TYPE": "SPECIALITY LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 106,
+      "GENERIC_NAME": "CYCLOPHOSPHAMIDE ",
+      "STRENGTH": "1000 MG",
+      "TYPE": "SPECIALITY LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 107,
+      "GENERIC_NAME": "CYCLOPHOSPHAMIDE ",
+      "STRENGTH": "200 MG",
+      "TYPE": "SPECIALITY LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 108,
+      "GENERIC_NAME": "CYCLOPHOSPHAMIDE ",
+      "STRENGTH": "500 MG",
+      "TYPE": "SPECIALITY LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 109,
+      "GENERIC_NAME": "CYTARABINE ",
+      "STRENGTH": "100 MG",
+      "TYPE": "SPECIALITY LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 110,
+      "GENERIC_NAME": "CYTARABINE ",
+      "STRENGTH": "1000 MG",
+      "TYPE": "SPECIALITY LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 111,
+      "GENERIC_NAME": "CYTARABINE ",
+      "STRENGTH": "500 MG",
+      "TYPE": "SPECIALITY LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 112,
+      "GENERIC_NAME": "DACARBAZINE ",
+      "STRENGTH": "100 MG \/ 200MG \/ 500MG \/ 1000MG",
+      "TYPE": "SPECIALITY LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 116,
+      "GENERIC_NAME": "DAPTOMYCIN ",
+      "STRENGTH": "350 MG",
+      "TYPE": "SPECIALITY LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 117,
+      "GENERIC_NAME": "DAPTOMYCIN ",
+      "STRENGTH": "500 MG",
+      "TYPE": "SPECIALITY LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 118,
+      "GENERIC_NAME": "DORIPENEM ",
+      "STRENGTH": "250 MG",
+      "TYPE": "SPECIALITY LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 119,
+      "GENERIC_NAME": "DORIPENEM ",
+      "STRENGTH": "500 MG",
+      "TYPE": "SPECIALITY LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 120,
+      "GENERIC_NAME": "EPIRUBICIN ",
+      "STRENGTH": "10 MG",
+      "TYPE": "SPECIALITY LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 121,
+      "GENERIC_NAME": "EPIRUBICIN ",
+      "STRENGTH": "100 MG",
+      "TYPE": "SPECIALITY LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 122,
+      "GENERIC_NAME": "EPIRUBICIN ",
+      "STRENGTH": "50 MG",
+      "TYPE": "SPECIALITY LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 123,
+      "GENERIC_NAME": "FOSFOMYCIN SODIUM FOR INJECTION ",
+      "STRENGTH": "4 GM",
+      "TYPE": "SPECIALITY LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 124,
+      "GENERIC_NAME": "FSH (FOLICILE STIMULATING HORMONE )",
+      "STRENGTH": "150 IU",
+      "TYPE": "SPECIALITY LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 125,
+      "GENERIC_NAME": "FSH  (FOLICILE STIMULATING HORMONE )",
+      "STRENGTH": "75 IU",
+      "TYPE": "SPECIALITY LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 126,
+      "GENERIC_NAME": "GANCICLOVIR ",
+      "STRENGTH": "500 MG",
+      "TYPE": "SPECIALITY LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 127,
+      "GENERIC_NAME": "GEMCITABINE ",
+      "STRENGTH": "1 GM",
+      "TYPE": "SPECIALITY LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 128,
+      "GENERIC_NAME": "GEMCITABINE ",
+      "STRENGTH": "1.4 GM",
+      "TYPE": "SPECIALITY LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 129,
+      "GENERIC_NAME": "GEMCITABINE ",
+      "STRENGTH": "200 MG",
+      "TYPE": "SPECIALITY LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 130,
+      "GENERIC_NAME": "HMG  ( HUMAN MENOPAUSAL GONADOTROPIN )",
+      "STRENGTH": "150 IU",
+      "TYPE": "SPECIALITY LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 131,
+      "GENERIC_NAME": "HMG  ( HUMAN MENOPAUSAL GONADOTROPIN )",
+      "STRENGTH": "75 IU",
+      "TYPE": "SPECIALITY LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 132,
+      "GENERIC_NAME": "HUMAN CHORIONIC GONADOTROPIN ",
+      "STRENGTH": "1000 IU",
+      "TYPE": "SPECIALITY LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 133,
+      "GENERIC_NAME": "HUMAN CHORIONIC GONADOTROPIN 10000 IU",
+      "STRENGTH": "10000 IU",
+      "TYPE": "SPECIALITY LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 134,
+      "GENERIC_NAME": "HUMAN CHORIONIC GONADOTROPIN 1500 IU",
+      "STRENGTH": "1500 IU",
+      "TYPE": "SPECIALITY LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 135,
+      "GENERIC_NAME": "HUMAN CHORIONIC GONADOTROPIN 2000 IU",
+      "STRENGTH": "2000 IU",
+      "TYPE": "SPECIALITY LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 136,
+      "GENERIC_NAME": "HUMAN CHORIONIC GONADOTROPIN 500 IU",
+      "STRENGTH": "500 IU",
+      "TYPE": "SPECIALITY LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 137,
+      "GENERIC_NAME": "HUMAN CHORIONIC GONADOTROPIN 5000 IU",
+      "STRENGTH": "5000 IU",
+      "TYPE": "SPECIALITY LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 138,
+      "GENERIC_NAME": "IFOSFAMIDE  + MESNA ",
+      "STRENGTH": "1000 MG+ 200 MG",
+      "TYPE": "SPECIALITY LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 139,
+      "GENERIC_NAME": "IFOSFAMIDE  +MESNA",
+      "STRENGTH": "2000 MG + 400 MG",
+      "TYPE": "SPECIALITY LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 140,
+      "GENERIC_NAME": "LEUPROLIDE ACETATE USP ",
+      "STRENGTH": "11.25 MG",
+      "TYPE": "SPECIALITY LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 141,
+      "GENERIC_NAME": "LEUPROLIDE ACETATE USP ",
+      "STRENGTH": "22.5 MG",
+      "TYPE": "SPECIALITY LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 142,
+      "GENERIC_NAME": "LEUPROLIDE ACETATE USP ",
+      "STRENGTH": "3.75 MG",
+      "TYPE": "SPECIALITY LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 143,
+      "GENERIC_NAME": "METHYLENE BLUE ",
+      "STRENGTH": "10 MG",
+      "TYPE": "SPECIALITY LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 144,
+      "GENERIC_NAME": "MICAFUNGIN ",
+      "STRENGTH": "100 MG",
+      "TYPE": "SPECIALITY LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 145,
+      "GENERIC_NAME": "LEUPROLIDE ACETATE USP ",
+      "STRENGTH": "50 MG",
+      "TYPE": "SPECIALITY LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 146,
+      "GENERIC_NAME": "MINOCYCLINE ",
+      "STRENGTH": "100MG\/5ML",
+      "TYPE": "SPECIALITY LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 147,
+      "GENERIC_NAME": "MICAFUNGIN",
+      "STRENGTH": "500 MG",
+      "TYPE": "SPECIALITY LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 148,
+      "GENERIC_NAME": "PAMIDRONATE ",
+      "STRENGTH": "30 MG",
+      "TYPE": "SPECIALITY LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 149,
+      "GENERIC_NAME": "PAMIDRONATE ",
+      "STRENGTH": "60 MG",
+      "TYPE": "SPECIALITY LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 150,
+      "GENERIC_NAME": "PAMIDRONATE ",
+      "STRENGTH": "90 MG",
+      "TYPE": "SPECIALITY LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 151,
+      "GENERIC_NAME": "PEGASPARGASE ",
+      "STRENGTH": "3750 IU",
+      "TYPE": "SPECIALITY LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 152,
+      "GENERIC_NAME": "PEMETREXED ",
+      "STRENGTH": "100 MG",
+      "TYPE": "SPECIALITY LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 153,
+      "GENERIC_NAME": "PEMETREXED ",
+      "STRENGTH": "500 MG",
+      "TYPE": "SPECIALITY LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 154,
+      "GENERIC_NAME": "SOMATROPIN ",
+      "STRENGTH": "10 IU",
+      "TYPE": "SPECIALITY LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 155,
+      "GENERIC_NAME": "STREPTOKINASE ",
+      "STRENGTH": "15 LAC",
+      "TYPE": "SPECIALITY LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 156,
+      "GENERIC_NAME": "STREPTOKINASE",
+      "STRENGTH": "7.5 LAC",
+      "TYPE": "SPECIALITY LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 157,
+      "GENERIC_NAME": "TEICOPLANIN ",
+      "STRENGTH": "200 MG",
+      "TYPE": "SPECIALITY LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 158,
+      "GENERIC_NAME": "TEICOPLANIN ",
+      "STRENGTH": "400 MG",
+      "TYPE": "SPECIALITY LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 159,
+      "GENERIC_NAME": "TENOXICAM ",
+      "STRENGTH": "20 MG",
+      "TYPE": "SPECIALITY LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 160,
+      "GENERIC_NAME": "TICARCILLIN+CLAV",
+      "STRENGTH": "3 GM + 100 MG 3.1 GM",
+      "TYPE": "SPECIALITY LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 161,
+      "GENERIC_NAME": "TIGECYCLINE ",
+      "STRENGTH": "100 MG",
+      "TYPE": "SPECIALITY LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 162,
+      "GENERIC_NAME": "TIGECYCLINE ",
+      "STRENGTH": "50 MG",
+      "TYPE": "SPECIALITY LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 163,
+      "GENERIC_NAME": "TOPOTECAN ",
+      "STRENGTH": "2.5 MG\/2.5 ML",
+      "TYPE": "SPECIALITY LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 164,
+      "GENERIC_NAME": "TOPOTECAN ",
+      "STRENGTH": "4 MG\/4ML",
+      "TYPE": "SPECIALITY LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 165,
+      "GENERIC_NAME": "ULINASTATIN ",
+      "STRENGTH": "1 LAC IU",
+      "TYPE": "SPECIALITY LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 166,
+      "GENERIC_NAME": "UROKINASE",
+      "STRENGTH": "500000IU",
+      "TYPE": "SPECIALITY LYOPHILIZED"
+     },
+     {
+      "SR. NO.": 167,
+      "GENERIC_NAME": "ZOLEDRONIC ACID ",
+      "STRENGTH": "4 MG",
+      "TYPE": "SPECIALITY LYOPHILIZED"
+     }
+    ],
+    "LIQUID INJECTABLES (VIALSAMPS)":[
+     {
+      "SR. NO.": 1,
+      "GENERIC_NAME": "ADRENALINE INJ.",
+      "STRENGTH": "1MG\/ML",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 2,
+      "GENERIC_NAME": "ALPHA BETA ARTEETHER INJ.",
+      "STRENGTH": "150MG\/2ML",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 3,
+      "GENERIC_NAME": "AMIKACIN SULPHATE INJ.",
+      "STRENGTH": "100MG \/ 2ML",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 4,
+      "GENERIC_NAME": "AMIKACIN SULPHATE INJ.",
+      "STRENGTH": "250MG \/ 2ML",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 5,
+      "GENERIC_NAME": "AMIKACIN SULPHATE INJ.",
+      "STRENGTH": "500MG \/ 2ML",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 6,
+      "GENERIC_NAME": "ARTEMETHER INJ",
+      "STRENGTH": "80MG\/ML",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 7,
+      "GENERIC_NAME": "ATACURIUM BESYLATE",
+      "STRENGTH": "25 MG\/2.5 ML",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 8,
+      "GENERIC_NAME": "ATRACURIUM BESYLATE ",
+      "STRENGTH": "50 MG\/5 ML",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 9,
+      "GENERIC_NAME": "ATROPINE SULPHATE INJ.",
+      "STRENGTH": "0.6MG\/ML",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 10,
+      "GENERIC_NAME": "BETAMETHASONE SODIUM PHOSPHATE INJ.",
+      "STRENGTH": "4MG\/ML",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 11,
+      "GENERIC_NAME": "BUPIVACAINE DEXTROSE INJ. 4 ML",
+      "STRENGTH": "5MG\/ML AND 80MG\/ML",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 12,
+      "GENERIC_NAME": "BUPIVACAINE INJ. 20 ML",
+      "STRENGTH": "5MG\/ML",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 13,
+      "GENERIC_NAME": "CHLORAMPHENICOL SODIUM SUCCINATE ",
+      "STRENGTH": "1 GM",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 14,
+      "GENERIC_NAME": "CHLOROQUINE PHOSPHATE INJ. 30ML",
+      "STRENGTH": "40MG\/ML",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 15,
+      "GENERIC_NAME": "CHLOROQUINE PHOSPHATE INJ. 5ML",
+      "STRENGTH": "40MG\/ML",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 16,
+      "GENERIC_NAME": "CHLORPHENIRAMINE MALEATE INJ.",
+      "STRENGTH": "10MG\/ML",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 17,
+      "GENERIC_NAME": "CHLORPROMAZINE INJ",
+      "STRENGTH": "25MG\/ML",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 18,
+      "GENERIC_NAME": "CITICHOLINE ",
+      "STRENGTH": "250MG\/ML- 2ML",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 19,
+      "GENERIC_NAME": "CITICHOLINE ",
+      "STRENGTH": "250MG\/ML- 4ML",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 20,
+      "GENERIC_NAME": "CLINDAMYCIN",
+      "STRENGTH": "300 MG",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 21,
+      "GENERIC_NAME": "CLINDAMYCIN ",
+      "STRENGTH": "600 MG",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 22,
+      "GENERIC_NAME": "DEXAMETHASONE SODIUM ",
+      "STRENGTH": "4MG\/2 ML",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 23,
+      "GENERIC_NAME": "DEXAMETHASONE SODIUM PHOSPHATE INJ. 10ML",
+      "STRENGTH": "4MG\/ML",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 24,
+      "GENERIC_NAME": "DEXAMETHASONE SODIUM PHOSPHATE INJ. 20ML",
+      "STRENGTH": "4MG\/ML",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 25,
+      "GENERIC_NAME": "DEXAMETHASONE SODIUM PHOSPHATE INJ. 2ML",
+      "STRENGTH": "4MG\/ML",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 26,
+      "GENERIC_NAME": "DEXAMETHASONE SODIUM PHOSPHATE INJ. 30ML",
+      "STRENGTH": "4MG\/ML",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 27,
+      "GENERIC_NAME": "DICLOFENAC SODIUM INJ. 30ML",
+      "STRENGTH": "25MG\/ML",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 28,
+      "GENERIC_NAME": "DICLOFENAC SODIUM INJ. 3ML",
+      "STRENGTH": "25MG\/ML",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 29,
+      "GENERIC_NAME": "DICLOFENAC SODIUM, PITOFENONE HCL & FENPIVERINIUM BROMIDE INJ.",
+      "STRENGTH": "75MG\/3ML + 3.99MG\/3ML + 0.04MG\/3ML",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 30,
+      "GENERIC_NAME": "DICYCLOMINE HCL INJ.",
+      "STRENGTH": "10MG\/ML",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 31,
+      "GENERIC_NAME": "EDARAVONE INJ. 20ML",
+      "STRENGTH": "1.5MG\/ML",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 32,
+      "GENERIC_NAME": "ETAMYSLATE INJ.",
+      "STRENGTH": "125MG\/ML",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 33,
+      "GENERIC_NAME": "ETOFYLLINE & THEOPHYLLINE INJ.",
+      "STRENGTH": "84.7MG\/ML + 25.3 MG\/ML",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 34,
+      "GENERIC_NAME": "GENTAMYCIN SULPHATE INJ. 10ML",
+      "STRENGTH": "40MG\/ML",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 35,
+      "GENERIC_NAME": "GENTAMYCIN SULPHATE INJ. 20ML",
+      "STRENGTH": "10MG\/\/ML",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 36,
+      "GENERIC_NAME": "GENTAMYCIN SULPHATE INJ. 20ML",
+      "STRENGTH": "40MG\/ML",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 37,
+      "GENERIC_NAME": "GENTAMYCIN SULPHATE INJ. 2ML",
+      "STRENGTH": "40MG\/ML",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 38,
+      "GENERIC_NAME": "GENTAMYCIN SULPHATE INJ. 30ML",
+      "STRENGTH": "10MG\/\/ML",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 39,
+      "GENERIC_NAME": "GENTAMYCIN SULPHATE INJ.10ML",
+      "STRENGTH": "10MG\/\/ML",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 40,
+      "GENERIC_NAME": "GENTAMYCIN SULPHATE INJ.30ML",
+      "STRENGTH": "40MG\/ML",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 41,
+      "GENERIC_NAME": "GRANISETRON INJ.",
+      "STRENGTH": "1MG\/ML",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 42,
+      "GENERIC_NAME": "HEPARIN",
+      "STRENGTH": "25000 IU",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 43,
+      "GENERIC_NAME": "HEPARIN ",
+      "STRENGTH": "5000 IU",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 44,
+      "GENERIC_NAME": "HYDROXYPROGESTERONE ",
+      "STRENGTH": "250 MG(COMBIPACK)",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 45,
+      "GENERIC_NAME": "HYDROXYPROGESTERONE ",
+      "STRENGTH": "500 MG (COMBIPACK)",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 46,
+      "GENERIC_NAME": "HYOSCINE BUTYLBROMIDE",
+      "STRENGTH": "20 MG\/ML--1 ML",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 47,
+      "GENERIC_NAME": "HYOSCINE BUTYLBROMIDE INJ.",
+      "STRENGTH": "20MG\/ML",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 48,
+      "GENERIC_NAME": "IRON DEXTRAN INJ. 2.5MG\/5ML",
+      "STRENGTH": "100MG",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 49,
+      "GENERIC_NAME": "IRON SORBITOL ",
+      "STRENGTH": "1.5 ML",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 50,
+      "GENERIC_NAME": "IRON SUCROSE INJ ",
+      "STRENGTH": "100 MG\/5 ML",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 51,
+      "GENERIC_NAME": "IRON SUCROSE INJ ",
+      "STRENGTH": "50 MG\/2.5 ML",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 52,
+      "GENERIC_NAME": "L-ORNITHINE L-ASPARTATE",
+      "STRENGTH": "5 MG\/10 ML",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 53,
+      "GENERIC_NAME": "LABETALOL ",
+      "STRENGTH": "100 MG \/20ML",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 54,
+      "GENERIC_NAME": "LABETALOL ",
+      "STRENGTH": "20 ML\/4ML",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 55,
+      "GENERIC_NAME": "LEVRTIRACETAM",
+      "STRENGTH": "100 MG\/ML-5 ML",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 56,
+      "GENERIC_NAME": "LIGNCAINE WITH ADRENALINE INJ. 30ML",
+      "STRENGTH": "21.3 MG + 0.005MG\/ML",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 57,
+      "GENERIC_NAME": "LIGNOCAINE HCL INJ. 30ML",
+      "STRENGTH": "1%, 2%",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 58,
+      "GENERIC_NAME": "MEDROXYPROGESTERONE ",
+      "STRENGTH": "150 MG\/1 ML",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 59,
+      "GENERIC_NAME": "METHYL COBALAMIN 1000MCG\/2ML+ VITAMIN B1 100MG\/2ML, +VIT.B6 100MG\/2ML+ NIACINAMIDE 100MG\/2ML + D-PANTHENOL 50MG\/2ML",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 60,
+      "GENERIC_NAME": "METHYL COBALAMIN 1000MCG\/2ML+VIT.B6 100MG\/2ML+ NIACINAMIDE 100MG\/2ML + D-PANTHENOL 50MG\/2ML",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 61,
+      "GENERIC_NAME": "METHYL COBALAMIN 1500MCG\/2ML+ VITAMIN B1 100MG\/2ML, +VIT.B6 100MG\/2ML+ NIACINAMIDE 100MG\/2ML + D-PANTHENOL 50MG\/2ML",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 62,
+      "GENERIC_NAME": "METHYL COBALAMIN INJ.",
+      "STRENGTH": "500MCG\/ML",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 63,
+      "GENERIC_NAME": "METHYL COBALAMIN INJ.",
+      "STRENGTH": "1000MCG\/ML",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 64,
+      "GENERIC_NAME": "METHYLERGOMETRIN INJ.",
+      "STRENGTH": "0.2MG\/ML",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 65,
+      "GENERIC_NAME": "METHYLPREDNISOLONE ACETATE ",
+      "STRENGTH": "40 MG\/1 ML",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 66,
+      "GENERIC_NAME": "METHYLPREDNISOLONE ACETATE ",
+      "STRENGTH": "80 MG\/2ML",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 67,
+      "GENERIC_NAME": "METOCLOPRAMIDE INJ.",
+      "STRENGTH": "5MG\/ML",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 68,
+      "GENERIC_NAME": "NANROLONE DECANOATE INJ.",
+      "STRENGTH": "25MG\/ML",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 69,
+      "GENERIC_NAME": "NANROLONE DECANOATE INJ.",
+      "STRENGTH": "50 MG\/ML",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 70,
+      "GENERIC_NAME": "NATURAL PROGESTERONE",
+      "STRENGTH": "100MG (BLISTER) DISPO PACK",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 71,
+      "GENERIC_NAME": "NATURAL PROGESTERONE ",
+      "STRENGTH": "200MG (BLISTER) DISPO PACK",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 72,
+      "GENERIC_NAME": "NIMODIPINE ",
+      "STRENGTH": "10 MG\/50 ML",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 73,
+      "GENERIC_NAME": "NORADRENALINE ",
+      "STRENGTH": "4MG\/2ML",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 74,
+      "GENERIC_NAME": "NORADRENALINE BITARTARATE INJ.",
+      "STRENGTH": "0.2%W\/V",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 75,
+      "GENERIC_NAME": "ONDANSETRON INJ.",
+      "STRENGTH": "2MG\/ML",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 76,
+      "GENERIC_NAME": "OXYTETRACYCLINE INJ.",
+      "STRENGTH": "50MG\/ML",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 77,
+      "GENERIC_NAME": "OXYTOCIN INJ.",
+      "STRENGTH": "5.I.U.\/ML",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 78,
+      "GENERIC_NAME": "PARACETAMOL INJ.",
+      "STRENGTH": "150MG\/ML",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 79,
+      "GENERIC_NAME": "PENTAZOCIN LACTATE INJ.",
+      "STRENGTH": "30MG\/ML",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 80,
+      "GENERIC_NAME": "PIROXICAM INJ.",
+      "STRENGTH": "20MG\/ML",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 81,
+      "GENERIC_NAME": "PROMETHAZINE INJ.",
+      "STRENGTH": "25MG\/ML",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 82,
+      "GENERIC_NAME": "PROPOFOL ",
+      "STRENGTH": "1 % 20 ml",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 83,
+      "GENERIC_NAME": "PROPOFOL",
+      "STRENGTH": "2 % 20 ml",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 84,
+      "GENERIC_NAME": "QUININE DI-HYDROCHLORIDE INJ.",
+      "STRENGTH": "300MG\/ML",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 85,
+      "GENERIC_NAME": "RANITIDINE HYDROCHLORIDE INJ.",
+      "STRENGTH": "25MG\/ML",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 86,
+      "GENERIC_NAME": "TOBRAMYCIN ",
+      "STRENGTH": "80 MG",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 87,
+      "GENERIC_NAME": "TRAMADOL HCL INJ. 1ML \/ 2ML",
+      "STRENGTH": "50MG\/ML",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 88,
+      "GENERIC_NAME": "TRANEXAMIC ACID ",
+      "STRENGTH": "100 MG\/ML",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 89,
+      "GENERIC_NAME": "TRIAMCINOLONE ACETONIDE ",
+      "STRENGTH": "40MG\/1 ML",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 90,
+      "GENERIC_NAME": "TRIAMCINOLONE ACETONIDE INJ",
+      "STRENGTH": "25MG\/ML",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 91,
+      "GENERIC_NAME": "VITAMIN B1- 100MG\/2ML + B6- 100MG\/2ML + NIACINAMIDE 100MG\/2ML + B12- 1000MCG\/2ML + D-PANTHENOL 50MG\/2ML",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 92,
+      "GENERIC_NAME": "VITAMIN B1- 100MG\/3ML + B2- 5MG\/3ML + B6- 100MG\/3ML + NIACINAMIDE 100MG\/3ML + B12- 1000MCG\/2ML + D-PANTHENOL 50MG\/3ML",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 93,
+      "GENERIC_NAME": "VITAMIN B1- 10MG\/ML + B2- 0.5MG\/ML + B6- 1MG\/ML + NIACINAMIDE 10MG\/ML + D-PANTHENOL 1MG\/ML",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 94,
+      "GENERIC_NAME": "VITAMIN B1- 10MG\/ML + B2- 2MG\/ML + B6- 2MG\/ML + NIACINAMIDE 100MG\/ML + D-PANTHENOL 5MG\/ML",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 95,
+      "GENERIC_NAME": "VITAMIN C & VITAMIN B.COMPLEX COMBINATION FOR INJ.",
+      "STRENGTH": "5 ML",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 96,
+      "GENERIC_NAME": "VITAMIN K PHYTOMENADIONE ",
+      "STRENGTH": "10MG\/1ML",
+      "TYPE": "GENERAL"
+     },
+     {
+      "SR. NO.": 97,
+      "GENERIC_NAME": "5-FLUOROURACIL ",
+      "STRENGTH": "250MG\/5 ML",
+      "TYPE": "SPECIALITY"
+     },
+     {
+      "SR. NO.": 98,
+      "GENERIC_NAME": "5-FLUOROURACIL ",
+      "STRENGTH": "500 MG\/10 ML",
+      "TYPE": "SPECIALITY"
+     },
+     {
+      "SR. NO.": 99,
+      "GENERIC_NAME": "AMPHOTERICIN -B ",
+      "STRENGTH": "50MG INJ (EMULSION)",
+      "TYPE": "SPECIALITY"
+     },
+     {
+      "SR. NO.": 100,
+      "GENERIC_NAME": "CARBOPLATIN ",
+      "STRENGTH": "150 MG",
+      "TYPE": "SPECIALITY"
+     },
+     {
+      "SR. NO.": 101,
+      "GENERIC_NAME": "CARBOPLATIN ",
+      "STRENGTH": "450 MG",
+      "TYPE": "SPECIALITY"
+     },
+     {
+      "SR. NO.": 102,
+      "GENERIC_NAME": "CARBOPLATIN ",
+      "STRENGTH": "600 MG",
+      "TYPE": "SPECIALITY"
+     },
+     {
+      "SR. NO.": 103,
+      "GENERIC_NAME": "CISATRACURIUM ",
+      "STRENGTH": "10 MG\/20ML 200 MG",
+      "TYPE": "SPECIALITY"
+     },
+     {
+      "SR. NO.": 104,
+      "GENERIC_NAME": "CISATRACURIUM ",
+      "STRENGTH": "2MG\/10 ML",
+      "TYPE": "SPECIALITY"
+     },
+     {
+      "SR. NO.": 105,
+      "GENERIC_NAME": "CISATRACURIUM",
+      "STRENGTH": "2MG\/5 ML",
+      "TYPE": "SPECIALITY"
+     },
+     {
+      "SR. NO.": 106,
+      "GENERIC_NAME": "CISPLATIN ",
+      "STRENGTH": "10 MG",
+      "TYPE": "SPECIALITY"
+     },
+     {
+      "SR. NO.": 107,
+      "GENERIC_NAME": "CISPLATIN ",
+      "STRENGTH": "50 MG",
+      "TYPE": "SPECIALITY"
+     },
+     {
+      "SR. NO.": 108,
+      "GENERIC_NAME": "DOBUTAMINE HYDROCHLORIDE ",
+      "STRENGTH": "250 MG\/5 ML",
+      "TYPE": "SPECIALITY"
+     },
+     {
+      "SR. NO.": 109,
+      "GENERIC_NAME": "DOPAMINE INJ ",
+      "STRENGTH": "200 MG\/5 ML",
+      "TYPE": "SPECIALITY"
+     },
+     {
+      "SR. NO.": 110,
+      "GENERIC_NAME": "DOXORUBICIN ",
+      "STRENGTH": "10 MG",
+      "TYPE": "SPECIALITY"
+     },
+     {
+      "SR. NO.": 111,
+      "GENERIC_NAME": "DOXORUBICIN ",
+      "STRENGTH": "50 MG",
+      "TYPE": "SPECIALITY"
+     },
+     {
+      "SR. NO.": 112,
+      "GENERIC_NAME": "ETOPOSIDE ",
+      "STRENGTH": "100 MG\/ 5 ML",
+      "TYPE": "SPECIALITY"
+     },
+     {
+      "SR. NO.": 113,
+      "GENERIC_NAME": "GRANISETRON",
+      "STRENGTH": "1 ML",
+      "TYPE": "SPECIALITY"
+     },
+     {
+      "SR. NO.": 114,
+      "GENERIC_NAME": "GRANISETRON ",
+      "STRENGTH": "3 ML",
+      "TYPE": "SPECIALITY"
+     },
+     {
+      "SR. NO.": 115,
+      "GENERIC_NAME": "MESNA ",
+      "STRENGTH": "200 MG",
+      "TYPE": "SPECIALITY"
+     },
+     {
+      "SR. NO.": 116,
+      "GENERIC_NAME": "MESNA ",
+      "STRENGTH": "400 MG",
+      "TYPE": "SPECIALITY"
+     },
+     {
+      "SR. NO.": 117,
+      "GENERIC_NAME": "METHOTREXATE ",
+      "STRENGTH": "100 MG",
+      "TYPE": "SPECIALITY"
+     },
+     {
+      "SR. NO.": 118,
+      "GENERIC_NAME": "METHOTREXATE ",
+      "STRENGTH": "1000 MG",
+      "TYPE": "SPECIALITY"
+     },
+     {
+      "SR. NO.": 119,
+      "GENERIC_NAME": "METHOTREXATE ",
+      "STRENGTH": "15 MG\/3 ML",
+      "TYPE": "SPECIALITY"
+     },
+     {
+      "SR. NO.": 120,
+      "GENERIC_NAME": "METHOTREXATE ",
+      "STRENGTH": "250 MG",
+      "TYPE": "SPECIALITY"
+     },
+     {
+      "SR. NO.": 121,
+      "GENERIC_NAME": "METHOTREXATE ",
+      "STRENGTH": "50 MG",
+      "TYPE": "SPECIALITY"
+     },
+     {
+      "SR. NO.": 122,
+      "GENERIC_NAME": "METHOTREXATE ",
+      "STRENGTH": "500 MG",
+      "TYPE": "SPECIALITY"
+     },
+     {
+      "SR. NO.": 123,
+      "GENERIC_NAME": "MILRINONE LACETATE ",
+      "STRENGTH": "10 MG\/10 ML",
+      "TYPE": "SPECIALITY"
+     },
+     {
+      "SR. NO.": 124,
+      "GENERIC_NAME": "MITOMYCIN ",
+      "STRENGTH": "10 MG",
+      "TYPE": "SPECIALITY"
+     },
+     {
+      "SR. NO.": 125,
+      "GENERIC_NAME": "MITOMYCIN ",
+      "STRENGTH": "2 MG",
+      "TYPE": "SPECIALITY"
+     },
+     {
+      "SR. NO.": 126,
+      "GENERIC_NAME": "MITOMYCIN ",
+      "STRENGTH": "40 MG",
+      "TYPE": "SPECIALITY"
+     },
+     {
+      "SR. NO.": 127,
+      "GENERIC_NAME": "NETILMICIN",
+      "STRENGTH": "300 MG",
+      "TYPE": "SPECIALITY"
+     },
+     {
+      "SR. NO.": 128,
+      "GENERIC_NAME": "OCTREOTIDE ",
+      "STRENGTH": "100 MG",
+      "TYPE": "SPECIALITY"
+     },
+     {
+      "SR. NO.": 129,
+      "GENERIC_NAME": "OCTREOTIDE",
+      "STRENGTH": " 50 MG",
+      "TYPE": "SPECIALITY"
+     },
+     {
+      "SR. NO.": 130,
+      "GENERIC_NAME": "OXALIPLATIN ",
+      "STRENGTH": "100 MG",
+      "TYPE": "SPECIALITY"
+     },
+     {
+      "SR. NO.": 131,
+      "GENERIC_NAME": "OXALIPLATIN",
+      "STRENGTH": "50 MG",
+      "TYPE": "SPECIALITY"
+     },
+     {
+      "SR. NO.": 132,
+      "GENERIC_NAME": "OXYTOCIN ",
+      "STRENGTH": "10 IU",
+      "TYPE": "SPECIALITY"
+     },
+     {
+      "SR. NO.": 133,
+      "GENERIC_NAME": "OXYTOCIN",
+      "STRENGTH": "5 IU",
+      "TYPE": "SPECIALITY"
+     },
+     {
+      "SR. NO.": 134,
+      "GENERIC_NAME": "PACLITAXEL ",
+      "STRENGTH": "100 MG",
+      "TYPE": "SPECIALITY"
+     },
+     {
+      "SR. NO.": 135,
+      "GENERIC_NAME": "PACLITAXEL",
+      "STRENGTH": "260 MG",
+      "TYPE": "SPECIALITY"
+     },
+     {
+      "SR. NO.": 136,
+      "GENERIC_NAME": "PACLITAXEL ",
+      "STRENGTH": "30 MG",
+      "TYPE": "SPECIALITY"
+     },
+     {
+      "SR. NO.": 137,
+      "GENERIC_NAME": "PACLITAXEL ",
+      "STRENGTH": "300 MG",
+      "TYPE": "SPECIALITY"
+     },
+     {
+      "SR. NO.": 138,
+      "GENERIC_NAME": "PANCURONIUM BROMIDE",
+      "STRENGTH": "2 MG\/ML",
+      "TYPE": "SPECIALITY"
+     },
+     {
+      "SR. NO.": 139,
+      "GENERIC_NAME": "PIRACETAM",
+      "STRENGTH": "15 ML",
+      "TYPE": "SPECIALITY"
+     },
+     {
+      "SR. NO.": 140,
+      "GENERIC_NAME": "PIRACETAM ",
+      "STRENGTH": "60 ML",
+      "TYPE": "SPECIALITY"
+     },
+     {
+      "SR. NO.": 141,
+      "GENERIC_NAME": "ROCURONIUM ",
+      "STRENGTH": "50 MG\/ 5 ML",
+      "TYPE": "SPECIALITY"
+     },
+     {
+      "SR. NO.": 142,
+      "GENERIC_NAME": "TERLIPRESSIN ",
+      "STRENGTH": "1 MG\/10ML",
+      "TYPE": "SPECIALITY"
+     },
+     {
+      "SR. NO.": 143,
+      "GENERIC_NAME": "VINBLASTINE ",
+      "STRENGTH": "10 MG\/10ML",
+      "TYPE": "SPECIALITY"
+     },
+     {
+      "SR. NO.": 144,
+      "GENERIC_NAME": "VINCRISTINE ",
+      "STRENGTH": "1 MG",
+      "TYPE": "SPECIALITY"
+     },
+     {
+      "SR. NO.": 145,
+      "GENERIC_NAME": "VINCRISTINE ",
+      "STRENGTH": "2 MG",
+      "TYPE": "SPECIALITY"
+     },
+     {
+      "SR. NO.": 146,
+      "GENERIC_NAME": "VINORELBINE ",
+      "STRENGTH": "10 MG\/1ML",
+      "TYPE": "SPECIALITY"
+     },
+     {
+      "SR. NO.": 147,
+      "GENERIC_NAME": "VINORELBINE ",
+      "STRENGTH": "20 MG",
+      "TYPE": "SPECIALITY"
+     },
+     {
+      "SR. NO.": 148,
+      "GENERIC_NAME": "VINORELBINE",
+      "STRENGTH": "50 MG\/5ML",
+      "TYPE": "SPECIALITY"
+     }
+    ],
+    "PREFILLED SYRINGES (PFS)":[
+     {
+      "SR. NO.": 1,
+      "GENERIC_NAME": "ADERNALINE ",
+      "STRENGTH": "1ML",
+      "PACK_STYLE": "PFS ",
+      "PACKING": "1ML"
+     },
+     {
+      "SR. NO.": 2,
+      "GENERIC_NAME": "ATROPINE ",
+      "STRENGTH": "1ML",
+      "PACK_STYLE": "PFS ",
+      "PACKING": "1ML"
+     },
+     {
+      "SR. NO.": 3,
+      "GENERIC_NAME": "DALTAPARIN ",
+      "STRENGTH": "2500IU 1 ML",
+      "PACK_STYLE": "PFS ",
+      "PACKING": "1ML"
+     },
+     {
+      "SR. NO.": 4,
+      "GENERIC_NAME": "DALTAPARIN",
+      "STRENGTH": "5000IU 1 ML",
+      "PACK_STYLE": "PFS ",
+      "PACKING": "1ML"
+     },
+     {
+      "SR. NO.": 5,
+      "GENERIC_NAME": "DICLOFENAC ",
+      "STRENGTH": "1ML",
+      "PACK_STYLE": "PFS ",
+      "PACKING": "1ML"
+     },
+     {
+      "SR. NO.": 6,
+      "GENERIC_NAME": "ENOXAPARIN SODIUM ",
+      "STRENGTH": "20MG (PFS) 0.2ML",
+      "PACK_STYLE": "PFS ",
+      "PACKING": "1ML"
+     },
+     {
+      "SR. NO.": 7,
+      "GENERIC_NAME": "ENOXAPARIN SODIUM",
+      "STRENGTH": "40MG (PFS) 0.4ML",
+      "PACK_STYLE": "PFS ",
+      "PACKING": "1ML"
+     },
+     {
+      "SR. NO.": 8,
+      "GENERIC_NAME": "ENOXAPARIN SODIUM ",
+      "STRENGTH": "60MG (PFS) 0.6ML",
+      "PACK_STYLE": "PFS ",
+      "PACKING": "1ML"
+     },
+     {
+      "SR. NO.": 9,
+      "GENERIC_NAME": "ENOXAPARIN SODIUM ",
+      "STRENGTH": "80MG (PFS) 0.8ML",
+      "PACK_STYLE": "PFS ",
+      "PACKING": "1ML"
+     },
+     {
+      "SR. NO.": 10,
+      "GENERIC_NAME": "ERYTHROPOIETIN ",
+      "STRENGTH": "2000IU 1 ML",
+      "PACK_STYLE": "PFS ",
+      "PACKING": "1ML"
+     },
+     {
+      "SR. NO.": 11,
+      "GENERIC_NAME": "ERYTHROPOIETIN",
+      "STRENGTH": "4000IU 1 ML",
+      "PACK_STYLE": "PFS ",
+      "PACKING": "1ML"
+     },
+     {
+      "SR. NO.": 12,
+      "GENERIC_NAME": "ERYTHROPOIETIN ",
+      "STRENGTH": "10000IU 1 ML",
+      "PACK_STYLE": "PFS ",
+      "PACKING": "1ML"
+     },
+     {
+      "SR. NO.": 13,
+      "GENERIC_NAME": "ERYTHROPOIETIN ",
+      "STRENGTH": "40000IU 1 ML",
+      "PACK_STYLE": "PFS ",
+      "PACKING": "1ML"
+     },
+     {
+      "SR. NO.": 14,
+      "GENERIC_NAME": "FILGRASTIM",
+      "STRENGTH": "300 MCG 1 ML",
+      "PACK_STYLE": "PFS ",
+      "PACKING": "1ML"
+     },
+     {
+      "SR. NO.": 15,
+      "GENERIC_NAME": "FULVESTRANT ",
+      "STRENGTH": "250 MG 1 ML",
+      "PACK_STYLE": "PFS ",
+      "PACKING": "1ML"
+     },
+     {
+      "SR. NO.": 16,
+      "GENERIC_NAME": "FULVESTRANT ",
+      "STRENGTH": "500 MG 1 ML",
+      "PACK_STYLE": "PFS ",
+      "PACKING": "1ML"
+     },
+     {
+      "SR. NO.": 17,
+      "GENERIC_NAME": "METHOTREXATE ",
+      "STRENGTH": "1ML",
+      "PACK_STYLE": "PFS ",
+      "PACKING": "1ML"
+     },
+     {
+      "SR. NO.": 18,
+      "GENERIC_NAME": "NEOSTIGMINE ",
+      "STRENGTH": "1ML",
+      "PACK_STYLE": "PFS ",
+      "PACKING": "1ML"
+     },
+     {
+      "SR. NO.": 19,
+      "GENERIC_NAME": "ONDANSETRON ",
+      "STRENGTH": "1ML",
+      "PACK_STYLE": "PFS ",
+      "PACKING": "1ML"
+     },
+     {
+      "SR. NO.": 20,
+      "GENERIC_NAME": "OXYTOCIN ",
+      "STRENGTH": "1ML",
+      "PACK_STYLE": "PFS ",
+      "PACKING": "1ML"
+     },
+     {
+      "SR. NO.": 21,
+      "GENERIC_NAME": "SODIUM HYALURONATE",
+      "STRENGTH": "0.55 ML 4 ML",
+      "PACK_STYLE": "PFS ",
+      "PACKING": "1ML"
+     },
+     {
+      "SR. NO.": 22,
+      "GENERIC_NAME": "SODIUM HYALURONATE ",
+      "STRENGTH": "15 MG\/1ML 1 ML",
+      "PACK_STYLE": "PFS ",
+      "PACKING": "1ML"
+     },
+     {
+      "SR. NO.": 23,
+      "GENERIC_NAME": "SODIUM HYALURONATE",
+      "STRENGTH": "20 MG\/2ML 4 ML",
+      "PACK_STYLE": "PFS ",
+      "PACKING": "1ML"
+     },
+     {
+      "SR. NO.": 24,
+      "GENERIC_NAME": "SODIUM HYALURONATE ",
+      "STRENGTH": "10 MG\/ 0.4ML PFS 4 ML",
+      "PACK_STYLE": "PFS ",
+      "PACKING": "1ML"
+     },
+     {
+      "SR. NO.": 25,
+      "GENERIC_NAME": "SODIUM HYALURONATE ",
+      "STRENGTH": "15 MG\/2ML 4 ML",
+      "PACK_STYLE": "PFS ",
+      "PACKING": "1ML"
+     },
+     {
+      "SR. NO.": 26,
+      "GENERIC_NAME": "VASOPRESSIN ",
+      "STRENGTH": "20 IU 1 ML",
+      "PACK_STYLE": "PFS ",
+      "PACKING": "1ML"
+     }
+    ],
+    "INFUSIONS":[
+     {
+      "SR. NO.": 1,
+      "GENERIC_NAME": "ACETATE RINGER",
+      "STRENGTH": "IP\/BP\/USP",
+      "PACK_STYLE": "GLASS\/FFS",
+      "PACKING": "500 ML"
+     },
+     {
+      "SR. NO.": 2,
+      "GENERIC_NAME": "ALL ESSENTIAL AND NONESSENTIAL PURE AMINO ACID FOR INTRAVENOUS INFUSION (10%)",
+      "STRENGTH": "IP\/BP\/USP",
+      "PACK_STYLE": "GLASS\/FFS",
+      "PACKING": "100\/250\/500ML"
+     },
+     {
+      "SR. NO.": 3,
+      "GENERIC_NAME": "AMINO ACID (10%W\/V) INJECTION WITH ELECTROLYTES",
+      "STRENGTH": "IP\/BP\/USP",
+      "PACK_STYLE": "GLASS\/FFS",
+      "PACKING": "100\/250\/500ML"
+     },
+     {
+      "SR. NO.": 4,
+      "GENERIC_NAME": "AMINO ACID INFUSION 8%W\/V",
+      "STRENGTH": "IP\/BP\/USP",
+      "PACK_STYLE": "GLASS\/FFS",
+      "PACKING": "100\/250\/500ML"
+     },
+     {
+      "SR. NO.": 5,
+      "GENERIC_NAME": "AMINO ACID 5% W\/V AND SORBITOL 5% W\/V I.V. INFUSION",
+      "STRENGTH": "IP\/BP\/USP",
+      "PACK_STYLE": "GLASS\/FFS",
+      "PACKING": "100\/250\/500ML"
+     },
+     {
+      "SR. NO.": 6,
+      "GENERIC_NAME": "AMINO ACID INJECTION 7%W\/V",
+      "STRENGTH": "IP\/BP\/USP",
+      "PACK_STYLE": "GLASS\/FFS",
+      "PACKING": "100\/250\/500ML"
+     },
+     {
+      "SR. NO.": 7,
+      "GENERIC_NAME": "ATROPINE SULPHATE INJECTION",
+      "STRENGTH": "IP\/BP\/USP",
+      "PACK_STYLE": "GLASS\/FFS",
+      "PACKING": "100\/250\/300\/500 ML"
+     },
+     {
+      "SR. NO.": 8,
+      "GENERIC_NAME": "CIPROFLOXACIN INJECTION",
+      "STRENGTH": "IP\/BP\/USP",
+      "PACK_STYLE": "GLASS\/FFS",
+      "PACKING": "100\/250\/300\/500 ML"
+     },
+     {
+      "SR. NO.": 9,
+      "GENERIC_NAME": "COMPOUND SODIUM CHLORIDE INJECTION",
+      "STRENGTH": "IP\/BP\/USP",
+      "PACK_STYLE": "GLASS\/FFS",
+      "PACKING": "500\/540\/1000 ML"
+     },
+     {
+      "SR. NO.": 10,
+      "GENERIC_NAME": "COMPOUND SODIUM LACTATE & DEXTROSE INJECTION",
+      "STRENGTH": "IP\/BP\/USP",
+      "PACK_STYLE": "GLASS\/FFS",
+      "PACKING": "500\/540\/1000 ML"
+     },
+     {
+      "SR. NO.": 11,
+      "GENERIC_NAME": "COMPOUND SODIUM LACTATE INJECTION",
+      "STRENGTH": "IP\/BP\/USP",
+      "PACK_STYLE": "GLASS\/FFS",
+      "PACKING": "100\/250\/500\/1000 ML"
+     },
+     {
+      "SR. NO.": 12,
+      "GENERIC_NAME": "DEXTRAN 40 & DEXTROSE 5% INJECTION",
+      "STRENGTH": "IP\/BP\/USP",
+      "PACK_STYLE": "GLASS\/FFS",
+      "PACKING": "500\/1000 ML"
+     },
+     {
+      "SR. NO.": 13,
+      "GENERIC_NAME": "DEXTRAN 40 & SODIUM CHLORIDE 0.9% INJECTION",
+      "STRENGTH": "IP\/BP\/USP",
+      "PACK_STYLE": "GLASS\/FFS",
+      "PACKING": "500\/1000 ML"
+     },
+     {
+      "SR. NO.": 14,
+      "GENERIC_NAME": "DEXTROSE 10% & SODIUM CHLORIDE 0.9% INJECTION",
+      "STRENGTH": "IP\/BP\/USP",
+      "PACK_STYLE": "GLASS\/FFS",
+      "PACKING": "500\/540\/1000 ML"
+     },
+     {
+      "SR. NO.": 15,
+      "GENERIC_NAME": "DEXTROSE 10% INJECTION",
+      "STRENGTH": "IP\/BP\/USP",
+      "PACK_STYLE": "GLASS\/FFS",
+      "PACKING": "100\/250\/500\/1000 ML"
+     },
+     {
+      "SR. NO.": 16,
+      "GENERIC_NAME": "DEXTROSE 25% INJECTION",
+      "STRENGTH": "IP\/BP\/USP",
+      "PACK_STYLE": "GLASS\/FFS",
+      "PACKING": "100\/250\/500 ML"
+     },
+     {
+      "SR. NO.": 17,
+      "GENERIC_NAME": "DEXTROSE 5% & SODIUM CHLORIDE 0.45% INJECTION",
+      "STRENGTH": "IP\/BP\/USP",
+      "PACK_STYLE": "GLASS\/FFS",
+      "PACKING": "500\/540\/1000 ML"
+     },
+     {
+      "SR. NO.": 18,
+      "GENERIC_NAME": "DEXTROSE 5% & SODIUM CHLORIDE 0.9% INJECTION",
+      "STRENGTH": "IP\/BP\/USP",
+      "PACK_STYLE": "GLASS\/FFS",
+      "PACKING": "100\/250\/500\/1000 ML"
+     },
+     {
+      "SR. NO.": 19,
+      "GENERIC_NAME": "DEXTROSE 5% INJECTION",
+      "STRENGTH": "IP\/BP\/USP",
+      "PACK_STYLE": "GLASS\/FFS",
+      "PACKING": "100\/250\/500\/1000 ML"
+     },
+     {
+      "SR. NO.": 20,
+      "GENERIC_NAME": "ESSENTIAL AMINO ACID FOR PARENTERAL NUTRITION",
+      "STRENGTH": "IP\/BP\/USP",
+      "PACK_STYLE": "GLASS\/FFS",
+      "PACKING": "100\/250\/500ML"
+     },
+     {
+      "SR. NO.": 21,
+      "GENERIC_NAME": "FLUCONAZOLE I.V. INFUSION",
+      "STRENGTH": "IP\/BP\/USP",
+      "PACK_STYLE": "GLASS\/FFS",
+      "PACKING": "100 ML"
+     },
+     {
+      "SR. NO.": 22,
+      "GENERIC_NAME": "GLUCOSE INTRAVENOUS INFUSION BP (10.0 % W\/V)\r",
+      "STRENGTH": "IP\/BP\/USP",
+      "PACK_STYLE": "GLASS\/FFS",
+      "PACKING": "500\/1000 ML"
+     },
+     {
+      "SR. NO.": 23,
+      "GENERIC_NAME": "GLUCOSE INTRAVENOUS INFUSION BP (5.0 % W\/V)\r",
+      "STRENGTH": "IP\/BP\/USP",
+      "PACK_STYLE": "GLASS\/FFS",
+      "PACKING": "500\/1000 ML"
+     },
+     {
+      "SR. NO.": 24,
+      "GENERIC_NAME": "GLUCOSE INTRAVENOUS INFUSION BP 25% W\/V\r",
+      "STRENGTH": "IP\/BP\/USP",
+      "PACK_STYLE": "GLASS\/FFS",
+      "PACKING": "500\/1000 ML"
+     },
+     {
+      "SR. NO.": 25,
+      "GENERIC_NAME": "GLYCINE IRRIGATION SOLUTION",
+      "STRENGTH": "IP\/BP\/USP",
+      "PACK_STYLE": "FFS",
+      "PACKING": "2000\/3000 ML"
+     },
+     {
+      "GENERIC_NAME": "Hydroxyethyl Starch 200\/0.5",
+      "STRENGTH": "IP\/BP\/USP",
+      "PACK_STYLE": "FFS",
+      "PACKING": "500ml"
+     },
+     {
+      "SR. NO.": 26,
+      "GENERIC_NAME": "INVERT SUGAR 10% & SODIUM CHLORIDE 0.9% INJECTION",
+      "STRENGTH": "IP\/BP\/USP",
+      "PACK_STYLE": "GLASS\/FFS",
+      "PACKING": "500\/540\/1000 ML"
+     },
+     {
+      "SR. NO.": 27,
+      "GENERIC_NAME": "INVERT SUGAR 10% INJECTION",
+      "STRENGTH": "IP\/BP\/USP",
+      "PACK_STYLE": "GLASS\/FFS",
+      "PACKING": "500\/540\/1000 ML"
+     },
+     {
+      "SR. NO.": 28,
+      "GENERIC_NAME": "LEVETIRACETAM INJECTION USP (500MG\/100ML)\r",
+      "STRENGTH": "IP\/BP\/USP",
+      "PACK_STYLE": "GLASS\/FFS",
+      "PACKING": "100ML"
+     },
+     {
+      "SR. NO.": 29,
+      "GENERIC_NAME": "LEVOFLOXACIN INTRAVENOUS INFUSION",
+      "STRENGTH": "IP\/BP\/USP",
+      "PACK_STYLE": "GLASS\/FFS",
+      "PACKING": "100 ML"
+     },
+     {
+      "SR. NO.": 30,
+      "GENERIC_NAME": "LINEZOLID INTRAVENOUS INFUSION 2MG\/ML",
+      "STRENGTH": "IP\/BP\/USP",
+      "PACK_STYLE": "GLASS\/FFS",
+      "PACKING": "100\/250ML\/300ML"
+     },
+     {
+      "SR. NO.": 31,
+      "GENERIC_NAME": "MANNITAL 20% INJECTION",
+      "STRENGTH": "IP\/BP\/USP",
+      "PACK_STYLE": "GLASS\/FFS",
+      "PACKING": "100\/250\/350\/1000 ML"
+     },
+     {
+      "SR. NO.": 32,
+      "GENERIC_NAME": "MANNITOL WITH GLYCERINE IV INFUSION (10 GM\/10 GM)\r",
+      "STRENGTH": "IP\/BP\/USP",
+      "PACK_STYLE": "GLASS\/FFS",
+      "PACKING": "100ML"
+     },
+     {
+      "SR. NO.": 33,
+      "GENERIC_NAME": "METRONIDAZOLE INJECTION",
+      "STRENGTH": "IP\/BP\/USP",
+      "PACK_STYLE": "GLASS\/FFS",
+      "PACKING": "100\/250\/350\/500 ML"
+     },
+     {
+      "SR. NO.": 34,
+      "GENERIC_NAME": "MOXIFLOXACIN INTRAVENOUS INFUSION",
+      "STRENGTH": "IP\/BP\/USP",
+      "PACK_STYLE": "GLASS\/FFS",
+      "PACKING": "100\/250 ML"
+     },
+     {
+      "SR. NO.": 35,
+      "GENERIC_NAME": "MULTIPLE ELECTROLYTES & DEXTROSE INJECTION TYPE 1",
+      "STRENGTH": "IP\/BP\/USP",
+      "PACK_STYLE": "GLASS\/FFS",
+      "PACKING": "100\/250\/500\/1000 ML"
+     },
+     {
+      "SR. NO.": 36,
+      "GENERIC_NAME": "MULTIPLE ELECTROLYTES & DEXTROSE INJECTION TYPE 3",
+      "STRENGTH": "IP\/BP\/USP",
+      "PACK_STYLE": "GLASS\/FFS",
+      "PACKING": "100\/250\/500\/1000 ML"
+     },
+     {
+      "SR. NO.": 37,
+      "GENERIC_NAME": "NUTRITIVE INFUSION 100ML",
+      "STRENGTH": "IP\/BP\/USP",
+      "PACK_STYLE": "GLASS\/FFS",
+      "PACKING": "100\/250\/500ML"
+     },
+     {
+      "SR. NO.": 38,
+      "GENERIC_NAME": "NUTRITIVE INFUSION OF PURE CRYSTALLINE AMINO ACIDS",
+      "STRENGTH": "IP\/BP\/USP",
+      "PACK_STYLE": "GLASS\/FFS",
+      "PACKING": "100\/250\/500ML"
+     },
+     {
+      "SR. NO.": 39,
+      "GENERIC_NAME": "OFLOXACIN INFUSION 2MG\/ML",
+      "STRENGTH": "IP\/BP\/USP",
+      "PACK_STYLE": "GLASS\/FFS",
+      "PACKING": "100\/250\/300\/500 ML"
+     },
+     {
+      "SR. NO.": 40,
+      "GENERIC_NAME": "ORNIDAZOLE IV INFUSION 500 MG\/ 100 ML\r",
+      "STRENGTH": "IP\/BP\/USP",
+      "PACK_STYLE": "GLASS\/FFS",
+      "PACKING": "100ML"
+     },
+     {
+      "SR. NO.": 41,
+      "GENERIC_NAME": "PARACETAMOL INTRAVENOUS INFUSION (1.0 GM\/100 ML)",
+      "STRENGTH": "IP\/BP\/USP",
+      "PACK_STYLE": "GLASS\/FFS",
+      "PACKING": "100 ML"
+     },
+     {
+      "SR. NO.": 42,
+      "GENERIC_NAME": "SODIUM CHLORIDE 0.225% INJECTION",
+      "STRENGTH": "IP\/BP\/USP",
+      "PACK_STYLE": "GLASS\/FFS",
+      "PACKING": "100\/250\/500 ML"
+     },
+     {
+      "SR. NO.": 43,
+      "GENERIC_NAME": "SODIUM CHLORIDE 0.45% INJECTION",
+      "STRENGTH": "IP\/BP\/USP",
+      "PACK_STYLE": "GLASS\/FFS",
+      "PACKING": "100\/250\/500 ML"
+     },
+     {
+      "SR. NO.": 44,
+      "GENERIC_NAME": "SODIUM CHLORIDE 0.9% INJECTION",
+      "STRENGTH": "IP\/BP\/USP",
+      "PACK_STYLE": "GLASS\/FFS",
+      "PACKING": "100\/250\/500\/1000 ML"
+     },
+     {
+      "SR. NO.": 45,
+      "GENERIC_NAME": "SODIUM CHLORIDE 3% INJECTION",
+      "STRENGTH": "IP\/BP\/USP",
+      "PACK_STYLE": "GLASS\/FFS",
+      "PACKING": "100 ML"
+     },
+     {
+      "SR. NO.": 46,
+      "GENERIC_NAME": "SODIUM CHLORIDE IRRIGATION SOLUTION",
+      "STRENGTH": "IP\/BP\/USP",
+      "PACK_STYLE": "FFS",
+      "PACKING": "2000\/3000 ML"
+     },
+     {
+      "SR. NO.": 47,
+      "GENERIC_NAME": "SODIUM LACTATE INJECTION",
+      "STRENGTH": "IP\/BP\/USP",
+      "PACK_STYLE": "GLASS\/FFS",
+      "PACKING": "500\/540\/1000 ML"
+     },
+     {
+      "GENERIC_NAME": "Sterile Oral Electrolyte Solution",
+      "STRENGTH": "IP\/BP\/USP",
+      "PACK_STYLE": "GLASS\/FFS",
+      "PACKING": "30ml \/ 40ml"
+     },
+     {
+      "SR. NO.": 48,
+      "GENERIC_NAME": "STERILE WATER FOR INJECTION",
+      "STRENGTH": "IP\/BP\/USP",
+      "PACK_STYLE": "GLASS\/FFS",
+      "PACKING": "100\/250\/500\/540\/1000 ML"
+     },
+     {
+      "SR. NO.": 49,
+      "GENERIC_NAME": "STERILE WATER FOR IRRIGATION",
+      "STRENGTH": "IP\/BP\/USP",
+      "PACK_STYLE": "FFS",
+      "PACKING": "100\/2502000\/3000 ML"
+     },
+     {
+      "SR. NO.": 50,
+      "GENERIC_NAME": "TINIDAZOLE INJECTION",
+      "STRENGTH": "IP\/BP\/USP",
+      "PACK_STYLE": "GLASS\/FFS",
+      "PACKING": "100\/400\/800 ML"
+     }
+    ],
+    "CONTRAST MEDIA":[
+     {
+      "SR. NO.": 1,
+      "GENERIC_NAME": "IOPAMIDOL INJECTION USP ( 300MGI\/ML, 350MGI\/ML, 370MGI\/ML )",
+      "TYPE": "NON-IONIC CONTRAST MEDIA",
+      "PACK_STYLE": "20 ML VIAL, 50 ML VIAL, 90 ML VIAL"
+     },
+     {
+      "SR. NO.": 2,
+      "GENERIC_NAME": "IOHEXOL INJECTION USP (240MGI\/ML, 300MGI\/ML, 350MGI\/ML, 370MGI\/ML)",
+      "TYPE": "NON-IONIC CONTRAST MEDIA",
+      "PACK_STYLE": "20 ML VIAL, 30 ML VIAL, 50 ML VIAL, 90 ML VIAL"
+     },
+     {
+      "SR. NO.": 3,
+      "GENERIC_NAME": "IODIXANOL INJECTION USP (270MGI\/ML, 320 MGI\/ML)",
+      "TYPE": "NON-IONIC CONTRAST MEDIA",
+      "PACK_STYLE": "50 ML VIAL, 90 ML VIAL"
+     },
+     {
+      "SR. NO.": 4,
+      "GENERIC_NAME": "IOVERSOL INJECTION USP (320MGI\/ML, 350MGI\/ML)",
+      "TYPE": "NON-IONIC CONTRAST MEDIA",
+      "PACK_STYLE": "50 ML VIAL, 90 ML VIAL"
+     },
+     {
+      "SR. NO.": 5,
+      "GENERIC_NAME": "IOPROMIDE INJECTION USP (300MGI\/ML, 370MGI\/ML)",
+      "TYPE": "NON-IONIC CONTRAST MEDIA",
+      "PACK_STYLE": "50 ML VIAL, 90 ML VIAL"
+     },
+     {
+      "SR. NO.": 6,
+      "GENERIC_NAME": "GADOPENTETATE DIMEGLUMINE INJECTION USP",
+      "TYPE": "MRI CONTRAST MEDIA",
+      "PACK_STYLE": "10 ML VIAL, 20 ML VIAL"
+     },
+     {
+      "SR. NO.": 7,
+      "GENERIC_NAME": "GADOTERATE MEGLUMINE INJECTION",
+      "TYPE": "MRI CONTRAST MEDIA",
+      "PACK_STYLE": "10 ML VIAL, 20 ML VIAL"
+     },
+     {
+      "SR. NO.": 8,
+      "GENERIC_NAME": "GADODIAMIDE INJECTION USP",
+      "TYPE": "MRI CONTRAST MEDIA",
+      "PACK_STYLE": "10 ML VIAL, 20 ML VIAL"
+     },
+     {
+      "SR. NO.": 9,
+      "GENERIC_NAME": "DIATRIZOATE MEGLUMINE & DIATRIZOATE SODIUM INJ. USP (60% & 76%)",
+      "TYPE": "IONIC CONTRAST MEDIA",
+      "PACK_STYLE": "20 ML V\/A, 50 ML VIAL, 90 ML VIAL"
+     },
+     {
+      "SR. NO.": 10,
+      "GENERIC_NAME": "DIATRIZOATE MEGLUMINE INJECTION USP (65%)",
+      "TYPE": "IONIC CONTRAST MEDIA",
+      "PACK_STYLE": "20 ML V\/A, 50 ML VIAL, 90 ML VIAL"
+     },
+     {
+      "SR. NO.": 11,
+      "GENERIC_NAME": "DITRIZOATE MEGLUMINE 65% INJECTION USP & CANA2 EDTA STABILIZER",
+      "TYPE": "IONIC CONTRAST MEDIA",
+      "PACK_STYLE": "20ML VIAL, 50ML VIAL"
+     },
+     {
+      "SR. NO.": 12,
+      "GENERIC_NAME": "DIATRIZOATE SODIUM ORAL SOLUTION USP",
+      "TYPE": "ORAL CONTRAST MEDIA",
+      "PACK_STYLE": "30 ML BOTTLE, 60 ML BOTTLE, 100 ML BOTTLE"
+     },
+     {
+      "SR. NO.": 13,
+      "GENERIC_NAME": "DIATRIZOATE MEGLUMINE & DIATRIZOATE SODIUM ORAL SOLUTION USP",
+      "TYPE": "ORAL CONTRAST MEDIA",
+      "PACK_STYLE": "30 ML BOTTLE, 60 ML BOTTLE, 100 ML BOTTLE"
+     }
+    ]
+    }

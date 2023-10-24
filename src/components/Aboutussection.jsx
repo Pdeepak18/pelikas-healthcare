@@ -52,7 +52,7 @@ const Aboutussection = () => {
   return (
     <div
       style={myStyle}
-      className="bg-[#9EA791] p-6 relative -top-[140px] md:top-0 text-black"
+      className="bg-[#A7D397] p-6 relative -top-[140px] md:top-0 text-black"
     >
       <h1 className="text-3xl font-semibold text-center ">About Us</h1>
       <p className="text-[20px] md:text-2xl text-center mt-10">

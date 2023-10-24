@@ -177,19 +177,19 @@ const Navbar = () => {
                       <div className="ml-5 leading-8 cursor-pointer">
                         <ul className="list-[circle] ">
                           <li>
-                            <a href="/products/enteral-formulation">TABLETS</a>
+                            <a href="/products/enteral-formulation/tablets">TABLETS</a>
                           </li>
                           <li>
-                            <a href="/products/enteral-formulation">CAPSULES</a>
+                            <a href="/products/enteral-formulation/capsules">CAPSULES</a>
                           </li>
                           <li>
-                            <a href="/products/enteral-formulation">LOZENGES</a>
+                            <a href="/products/enteral-formulation/sachets">SACHETS</a>
                           </li>
                           <li>
-                            <a href="/products/enteral-formulation">GRANULES</a>
+                            <a href="/products/enteral-formulation/lozenges">LOZENGES</a>
                           </li>
                           <li>
-                            <a href="/products/enteral-formulation">
+                            <a href="/products/enteral-formulation/suppositories">
                               SUPPOSITORIES/PESSARY
                             </a>
                           </li>
@@ -209,27 +209,27 @@ const Navbar = () => {
                       <div className="ml-5 leading-8 cursor-pointer">
                         <ul className="list-[circle] ">
                           <li>
-                            <a href="/products/parenteral-formulations">
+                            <a href="/products/parenteral-formulations/Drypowder">
                               DRY POWDER INJECTABLES (VIALS/AMPS)
                             </a>
                           </li>
                           <li>
-                            <a href="/products/parenteral-formulations">
+                            <a href="/products/parenteral-formulations/LiquidInjectables">
                               LIQUID INJECTABLES (VIALS/AMPS)
                             </a>
                           </li>
                           <li>
-                            <a href="/products/parenteral-formulations">
+                            <a href="/products/parenteral-formulations/PrifilledSyringes">
                               PREFILLED SYRINGES (PFS)
                             </a>
                           </li>
                           <li>
-                            <a href="/products/parenteral-formulations">
+                            <a href="/products/parenteral-formulations/Infusion">
                               INFUSIONS
                             </a>
                           </li>
                           <li>
-                            <a href="/products/parenteral-formulations">
+                            <a href="/products/parenteral-formulations/ContrastMedia">
                               CONTRAST MEDIA
                             </a>
                           </li>
@@ -249,22 +249,22 @@ const Navbar = () => {
                       <div className="ml-5 leading-8 cursor-pointer">
                         <ul className="list-[circle] ">
                           <li>
-                            <a href="/products/inhalational-formulations">
+                            <a href="/products/inhalational-formulations/Repulses">
                               REPSULES
                             </a>
                           </li>
                           <li>
-                            <a href="/products/inhalational-formulations">
+                            <a href="/products/inhalational-formulations/Rotacaps">
                               ROTACAPS
                             </a>
                           </li>
                           <li>
-                            <a href="/products/inhalational-formulations">
+                            <a href="/products/inhalational-formulations/Inhalers">
                               INHALERS
                             </a>
                           </li>
                           <li>
-                            <a href="/products/inhalational-formulations">
+                            <a href="/products/inhalational-formulations/NasalSprays">
                               NASAL SPRAYS
                             </a>
                           </li>
@@ -284,18 +284,18 @@ const Navbar = () => {
                       <div className="ml-5 leading-8 cursor-pointer">
                         <ul className="list-[circle] ">
                           <li>
-                            <a href="/products/topical-formulations">
+                            <a href="/products/topical-formulations/Cream-ointment-gel">
                               CREAM/OINTMENTS/GELS
                             </a>
                           </li>
                           <li>
-                            <a href="/products/topical-formulations">
+                            <a href="/products/topical-formulations/Lotion-powder">
                               LOTIONS/POWDER
                             </a>
                           </li>
                           <li>
-                            <a href="/products/topical-formulations">
-                              LOZENGESSERUM/DROPS/SPRAYS
+                            <a href="/products/topical-formulations/Serum-drop-sprays">
+                              SERUM/DROPS/SPRAYS
                             </a>
                           </li>
                         </ul>
@@ -314,22 +314,22 @@ const Navbar = () => {
                       <div className="ml-5 leading-8 cursor-pointer">
                         <ul className="list-[circle] ">
                           <li>
-                            <a href="/products/opthlamic-formulations">
-                              TABLETSEYE/EAR DROPS
+                            <a href="/products/opthalmic-formulations/eye-ear-drop">
+                              EYE/EAR DROPS
                             </a>
                           </li>
                           <li>
-                            <a href="/products/opthlamic-formulations">
+                            <a href="/products/opthalmic-formulations/Implant-lenses">
                               IMPLANTS / LENSES
                             </a>
                           </li>
                           <li>
-                            <a href="/products/opthlamic-formulations">
+                            <a href="/products/opthalmic-formulations/Intraocular">
                               INTRAOCULAR SOLUTIONS
                             </a>
                           </li>
                           <li>
-                            <a href="/products/opthlamic-formulations">
+                            <a href="/products/opthalmic-formulations/opthalmic">
                               OPTHALMIC CONSUMABLES & INSTRUMENTS
                             </a>
                           </li>
@@ -349,17 +349,13 @@ const Navbar = () => {
                       <div className="ml-5 leading-8 cursor-pointer">
                         <ul className="list-[circle] ">
                           <li>
-                            <a href="/products/others">SURGICAL DISPOSABLES</a>
+                            <a href="/products/others/surgical-consumables">SURGICAL CONSUMABLES</a>
                           </li>
+                          
                           <li>
-                            <a href="/products/others">SURGICAL INSTRUMENTS</a>
+                            <a href="/products/others/hospital-technology">HOSPITAL TECHNOLOGY</a>
                           </li>
-                          <li>
-                            <a href="/products/others">HOSPITAL TECHNOLOGY</a>
-                          </li>
-                          <li>
-                            <a href="/products/others">HOSPITAL FURNITURE</a>
-                          </li>
+                          
                         </ul>
                       </div>
                     )}
