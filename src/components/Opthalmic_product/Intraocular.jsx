@@ -15,7 +15,7 @@ const Intraocular = () => {
       <Navbar />
       <div className="flex flex-col justify-center items-center text-center gap-10 px-[10px] md:px-auto">
         <h1 className="font-semibold text-3xl md:text-4xl text-green-600 underline italic uppercase" >
-        OPTHALMIC & ENT PRODUCTS FORMULATIONS
+        OPTHALMIC & ENT PRODUCTS 
                 </h1>
         <p className=" md:max-w-[960px] max-w-700px m-auto  text-justify text-2xl font-bold"> {"INTRAOCULAR SOLUTIONS"} </p>
       </div>

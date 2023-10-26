@@ -14,8 +14,7 @@ const DryPowder = () => {
       <Navbar />
       <div className="flex flex-col justify-center items-center text-center gap-10 px-[10px] md:px-auto">
         <h1 className="font-semibold text-3xl md:text-4xl text-green-600 underline italic uppercase" >
-         ENTERNAL Formation 
-        </h1>
+        Parental Formation         </h1>
         <p className=" md:max-w-[960px] max-w-700px m-auto  text-justify text-2xl font-bold">{"DRY POWDER INJECTABLES (VIALSAM) "}</p>
       </div>
       <div className="flex flex-col md:flex-row px-[10px]  md:px-[6rem] gap-2 bg-slate h-[100%] mt-5 md:mt-10  !overflow-x-auto">
@@ -47,7 +46,7 @@ const DryPowder = () => {
                     {item.GENERIC_NAME}
                 
                 </td>
-                <td className="border-2 border-solid border-[#dddddd] text-center md:lg:p-[8px] !text-base">
+                <td className="border-2 border-solid border-[#dddddd] text-center lg:p-[4px] !text-sm">
                 {item.STRENGTH}
                 </td>
                 <td className="border-2 border-solid border-[#dddddd] text-center md:lg:p-[8px]  !text-base">

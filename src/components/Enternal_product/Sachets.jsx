@@ -48,7 +48,7 @@ const Sachets = () => {
               <td className="border-2 border-solid border-[#dddddd] text-center md:lg:p-[8px]  !text-base">
               {item.STRENGTH}
               </td>
-              <td className="border-2 border-solid border-[#dddddd] text-center md:lg:p-[8px] !text-base">
+              <td className="border-2 border-solid border-[#dddddd] text-center lg:p-[4px] !text-sm">
               {item.PACKING}
               </td>
             </tr>

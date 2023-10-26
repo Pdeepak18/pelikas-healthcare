@@ -14,9 +14,9 @@ const Opthalmic = () => {
       <Navbar />
       <div className="flex flex-col justify-center items-center text-center gap-10 px-[10px] md:px-auto">
         <h1 className="font-semibold text-3xl md:text-4xl text-green-600 underline italic uppercase" >
-        OPTHALMIC & ENT PRODUCTS FORMULATIONS
+        OPTHALMIC & ENT PRODUCTS 
                 </h1>
-        <p className=" md:max-w-[960px] max-w-700px m-auto  text-justify text-2xl font-bold"> {"OPTHALMIC CONSUMABLES & INSTRUM"} </p>
+        <p className=" md:max-w-[960px] max-w-700px m-auto  text-justify text-2xl font-bold"> {"OPTHALMIC CONSUMABLES & INSTRUMENTS"} </p>
       </div>
       <div className="flex flex-col md:flex-row px-[10px]  md:px-[6rem] gap-2 bg-slate h-[100%] mt-5 md:mt-10  !overflow-x-auto">
       <div className="py-4 mx-auto">

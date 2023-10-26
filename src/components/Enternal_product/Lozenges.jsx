@@ -53,35 +53,35 @@ const Lozenges = () => {
                       <td
                         rowSpan="8"
                         colSpan={1}
-                        className="border-2 border-solid border-[#dddddd] text-center md:lg:p-[8px] !text-base"
+                        className="border-2 border-solid border-[#dddddd] text-center lg:p-[4px] !text-sm"
                       >
                         {item.FLAVOURS}
                       </td>
                     )}
-                    {index === 8 && <td className="border-2 border-solid border-[#dddddd] text-center md:lg:p-[8px] !text-base">{item.FLAVOURS}</td>}
+                    {index === 8 && <td className="border-2 border-solid border-[#dddddd] text-center lg:p-[4px] !text-sm">{item.FLAVOURS}</td>}
                    
                     {index === 0 && (
                       <td
                         rowSpan="8"
                         colSpan={1}
-                        className="border-2 border-solid border-[#dddddd] text-center md:lg:p-[8px] !text-base"
+                        className="border-2 border-solid border-[#dddddd] text-center lg:p-[4px] !text-sm"
                       >
                        {item.PACK_STYLE}
                       </td>
                     )}
-                    {index === 8 && <td className="border-2 border-solid border-[#dddddd] text-center md:lg:p-[8px] !text-base">{item.PACK_STYLE}</td>}
+                    {index === 8 && <td className="border-2 border-solid border-[#dddddd] text-center lg:p-[4px] !text-sm">{item.PACK_STYLE}</td>}
 
                     
                     {index === 0 && (
                       <td
                         rowSpan="8"
                         colSpan={1}
-                        className="border-2 border-solid border-[#dddddd] text-center md:lg:p-[8px] !text-base"
+                        className="border-2 border-solid border-[#dddddd] text-center lg:p-[4px] !text-sm"
                       >
                         {item.PACKING}
                       </td>
                     )}
-                    {index === 8 && <td className="border-2 border-solid border-[#dddddd] text-center md:lg:p-[8px] !text-base">{item.PACKING}</td>}
+                    {index === 8 && <td className="border-2 border-solid border-[#dddddd] text-center lg:p-[4px] !text-sm">{item.PACKING}</td>}
 
                    
                    

@@ -8,10 +8,30 @@ const Services = () => {
   useEffect(() => {
     window.scrollTo(0, 0);
   }, []);
+  const additionalServices = [
+    "Third-Party Manufacturing Supply",
+    "Pharmaceutical Company Supply",
+    "Cold Chain Supply",
+    "Private Patient Supply",
+    "Hospital Supply",
+    "Government supply",
+    "NGOs Supply",
+    "Bulk Pharma Exports",
+    "Drop Shipping points"
+  ];
+
   return (
     <>
       <Navbar />
       <div className="relative min-h-[100vh]   p-6 py-20 bg-[#EEF6FF] flex flex-col mx-auto">
+      <div className="mb-12">
+          <h3 className="text-2xl text-red-600 font-semibold mb-4">Additional Services</h3>
+          <ul className="list-disc list-inside text-lg text-gray-800">
+            {additionalServices.map((service, index) => (
+              <li key={index} className="mb-2">{service}</li>
+            ))}
+          </ul>
+        </div>
       <div className="flex flex-col mx-auto">
       <h3 className="text-center text-red-600 text-2xl mb-6 font-semibold">
           Top 10 International Courier Services

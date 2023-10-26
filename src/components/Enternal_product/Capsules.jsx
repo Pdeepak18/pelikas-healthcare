@@ -32,20 +32,11 @@ const EnternalCapsules = () => {
           
         </div>
         
-        {/* Search Input */}
-        {/* <div className="flex justify-center mt-4 mb-2">
-          <input
-            type="text"
-            placeholder="Search by Generic Name"
-            value={searchTerm}
-            onChange={e => setSearchTerm(e.target.value)}
-            className="px-2 py-1 border border-gray-300 rounded"
-          />
-        </div> */}
+      
 
         {/* Table */}
-        <div className="py-4 mx-auto">
-          <table className="w-full text-lg mt-0 md:mt-8 lg:mx-auto overflow-x-auto">
+        <div className="py-4 mx-auto lg:px-24 overflow-x-auto">
+          <table className="w-full !text-base mt-0 md:mt-8 lg:mx-auto ">
             {/* Table Headers */}
             <tr className="bg-blue-500 text-white">
               <th className="border-2 border-solid border-[#dddddd] text-center lg:p-[8px]">
@@ -67,16 +58,16 @@ const EnternalCapsules = () => {
                 key={index}
                 className="hover:bg-blue-500 hover:text-white even:bg-slate-200"
               >
-                <td className="border-2 border-solid border-[#dddddd] text-center lg:p-[8px]">
+                <td className="border-2 border-solid border-[#dddddd] text-center lg:p-[4px]">
                   {index + 1}
                 </td>
-                <td className="border-2 border-solid border-[#dddddd] text-center md:lg:p-[8px]">
+                <td className="border-2 border-solid border-[#dddddd] text-center lg:p-[4px]">
                   {item.GENERIC_NAME}
                 </td>
-                <td className="border-2 border-solid border-[#dddddd] text-center md:lg:p-[8px] !text-base">
+                <td className="border-2 border-solid border-[#dddddd] text-center lg:p-[4px] !text-sm">
                   {item.PACK_STYLE}
                 </td>
-                <td className="border-2 border-solid border-[#dddddd] text-center md:lg:p-[8px] !text-base">
+                <td className="border-2 border-solid border-[#dddddd] text-center lg:p-[4px] !text-sm">
                   {item.CATEGORY}
                 </td>
               </tr>

@@ -3,7 +3,7 @@ import Navbar from "../Navbar";
 import Footer from "../Footer";
 import Parental_Formulation from "../../assests/JsonFile/Parental_Formulation.json"
 const PrifilledSyringes = () => {
-  const data = Parental_Formulation["LIQUID INJECTABLES (VIALSAMPS)"];
+  const data = Parental_Formulation["PREFILLED SYRINGES (PFS)"];
   useEffect(() => {
     window.scrollTo(0, 0);
   }, []);
@@ -13,9 +13,9 @@ const PrifilledSyringes = () => {
       <Navbar />
       <div className="flex flex-col justify-center items-center text-center gap-10 px-[10px] md:px-auto">
         <h1 className="font-semibold text-3xl md:text-4xl text-green-600 underline italic uppercase" >
-         ENTERNAL Formation 
+         Parental Formation 
         </h1>
-        <p className=" md:max-w-[960px] max-w-700px m-auto  text-justify text-2xl font-bold">{"LIQUID INJECTABLES (VIALSAMPS) "}</p>
+        <p className=" md:max-w-[960px] max-w-700px m-auto  text-justify text-2xl font-bold">{"PREFILLED SYRINGES (PFS) "}</p>
       </div>
       <div className="flex flex-col md:flex-row px-[10px]  md:px-[6rem] gap-2 bg-slate h-[100%] mt-5 md:mt-10  !overflow-x-auto">
       <div className="py-4 mx-auto">
@@ -54,10 +54,10 @@ const PrifilledSyringes = () => {
                 <td className="border-2 border-solid border-[#dddddd] text-center md:lg:p-[8px]  !text-base">
                 {item.STRENGTH}
                 </td>
-                <td className="border-2 border-solid border-[#dddddd] text-center md:lg:p-[8px] !text-base">
+                <td className="border-2 border-solid border-[#dddddd] text-center lg:p-[4px] !text-sm">
                 {item.PACK_STYLE}
                 </td>
-                <td className="border-2 border-solid border-[#dddddd] text-center md:lg:p-[8px] !text-base">
+                <td className="border-2 border-solid border-[#dddddd] text-center lg:p-[4px] !text-sm">
                 {item.PACKING}
                 </td>
                
