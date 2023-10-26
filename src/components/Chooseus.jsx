@@ -12,19 +12,16 @@ const Chooseus = () => {
   return (
     <div style={myStyle} className="flex flex-row relative -top-[140px] md:top-0 ">
       {/* image */}
-      <div className="w-[40%]  hidden lg:block object-cover h-full ">
+      <div className="w-[40%]  hidden lg:block object-cover lg:max-h-[500px] ">
         <img src={bg} alt="" className="w-full h-full" />
       </div>
 
       {/* data */}
-      <div className="bg-[#F3F3F3]  w-full px-[30px] lg:px-[70px] py-4 lg:py-2 flex flex-col gap-8">
+      <div className="bg-[#F3F3F3]  w-full px-[30px] lg:px-[70px] py-4 lg:py-2 flex flex-col gap-7 lg:max-h-[500px]">
       
         <h1 className="text-2xl lg:text-3xl text-black font-semibold">WHY CHOOSE US</h1>
         <p className="text-black text-md lg:text-xl">
-          We Are The Leader Amongst Fastest Growing Pharma Companies In India.
-          Maya Biotech Is Known As One Of The Best Third Party Pharmaceutical
-          Manufacturing Company. Maya Biotech Is A Trusted Pharma Third Party
-          Manufacturing Company.
+        As proud bearers of ISO and GDP compliance, we leave no stone unturned in ensuring the highest levels of safety, quality, and efficacy for our valued customers. Our state-of-the-art manufacturing units boast prestigious certifications such as WHO-GMP and GLP, reflecting our unwavering commitment to global best practices.
         </p>
         <div  className=" flex flex-col md:flex-row px-3 lg:px-6 py-2 text-black gap-[50px] lg:gap-[10px]">
           <div className="flex flex-row gap-5 ">

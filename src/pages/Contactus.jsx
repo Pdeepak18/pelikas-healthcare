@@ -82,8 +82,8 @@ const Contactus = () => {
                         Our Location
                       </h4>
                       <p className="text-body-color text-base">
-                        Shop No. 2, C-Wing, Shri Badrinath CHSL, Ketkipada,
-                        Dahisar (East), Mumbai - 400 068, Maharashtra, INDIA 097
+                      Gupta House No. 4702, Jadhav Pada, Dhaniv Baug,
+                      Pelhar, Vasai Road (East), Vasai, Thane – 401 202 Maharashtra, INDIA
                       </p>
                     </div>
                   </div>

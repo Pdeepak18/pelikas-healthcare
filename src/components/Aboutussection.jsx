@@ -8,44 +8,49 @@ const Aboutussection = () => {
     fontFamily: "Segoe UI",
   };
   const aboutUsNo = [
-    {
-      title: "State Of The Art Facilities",
-      no: <CountUp end={15} duration={6.75} />,
-      extra: "",
-    },
-    {
-      title: "Tablets Per Day Manufacturing Capacity",
-      no: <CountUp end={140} duration={6.75} />,
-      extra: "M",
-    },
-    {
-      title: "Patents Applied",
-      no: <CountUp end={85} duration={6.75} />,
-      extra: "+",
-    },
-    {
-      title: "FSSAI Approvals",
-      no: <CountUp end={690} duration={6.75} />,
-      extra: "+",
-    },
-    {
-      title: "DCGI Approvals",
-      no: <CountUp end={919} duration={6.75} />,
-      extra: "+",
-    },
+    // {
+    //   title: "State Of The Art Facilities",
+    //   no: <CountUp end={15} duration={6.75} />,
+    //   extra: "",
+    // },
+    // {
+    //   title: "Tablets Per Day Manufacturing Capacity",
+    //   no: <CountUp end={140} duration={6.75} />,
+    //   extra: "M",
+    // },
+    // {
+    //   title: "Patents Applied",
+    //   no: <CountUp end={85} duration={6.75} />,
+    //   extra: "+",
+    // },
+    // {
+    //   title: "FSSAI Approvals",
+    //   no: <CountUp end={690} duration={6.75} />,
+    //   extra: "+",
+    // },
+    // {
+    //   title: "DCGI Approvals",
+    //   no: <CountUp end={919} duration={6.75} />,
+    //   extra: "+",
+    // },
     {
       title: "Clients Served With Excellence",
-      no: <CountUp end={1000} duration={6.75} />,
-      extra: "",
+      no: <CountUp end={100} duration={6.75} />,
+      extra: "+",
+    },
+    {
+      title: "International GMP",
+      no: <CountUp end={150} duration={6.75} />,
+      extra: "+",
     },
     {
       title: "Commercialized Formulations",
-      no: <CountUp end={4000} duration={6.75} />,
+      no: <CountUp end={5000} duration={6.75} />,
       extra: "+",
     },
     {
       title: "Brands",
-      no: <CountUp end={18000} duration={6.75} />,
+      no: <CountUp end={25000} duration={6.75} />,
       extra: "+",
     },
   ];
@@ -55,9 +60,8 @@ const Aboutussection = () => {
       className="bg-[#A7D397] p-6 relative -top-[140px] md:top-0 text-black"
     >
       <h1 className="text-3xl font-semibold text-center ">About Us</h1>
-      <p className="text-[20px] md:text-2xl text-center mt-10">
-        Plikas Healthcare is the largest contract manufacturing <br />
-        pharmaceutical company of India
+      <p className="text-sm md:text-lg  mt-10 text-justify">
+      Pelikas Healthcare Pvt. Ltd., a trailblazing pharmaceutical company with over years of manufacturing and marketing expertise. From our Mumbai-based head office in Maharashtra, India, we are revolutionizing the industry by delivering products that surpass international standards of excellence. As proud bearers of ISO and GDP compliance, we leave no stone unturned in ensuring the highest levels of safety, quality, and efficacy for our valued customers.
       </p>
       <div className=" flex flex-row flex-wrap  gap-20 justify-center mt-14 px-auto md:px-20 ">
         {aboutUsNo.map((i) => {

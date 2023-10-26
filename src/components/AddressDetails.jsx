@@ -22,7 +22,7 @@ const AddressDetails = () => {
           </p>
         </div>
 
-        <div className=" p-3">
+        {/* <div className=" p-3">
           <FaRegAddressCard
             size="100px"
             className="flex justify-center relative lg:left-16"
@@ -37,7 +37,7 @@ const AddressDetails = () => {
             <br />
             Email: pelikashealthcare@gmail.com{" "}
           </p>
-        </div>
+        </div> */}
 
         <div className=" p-3">
           <FaRegAddressCard
