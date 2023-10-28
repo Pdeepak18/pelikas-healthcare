@@ -59,10 +59,10 @@ const Services = () => {
   return (
     <>
       <Navbar />
-      <div className="relative min-h-[100vh]   p-6 py-20 bg-[#EEF6FF] flex flex-col mx-auto">
+      <div className="relative min-h-[100vh]   p-6 py-20 bg-[#EEF6FF] flex flex-col mx-auto   lg:overflow-x-hidden">
        
         <div className="flex flex-col mx-auto">
-          <h3 className="text-center text-red-600 text-4xl mb-6 font-semibold">
+          <h3 className="text-center text-red-600 text-2xl lg:text-4xl mb-6 font-semibold">
             Top 10 International Courier Services
           </h3>
           <div className="flex flex-col lg:flex-row bg-[#EEF6FF]">
@@ -72,13 +72,13 @@ const Services = () => {
         </div>
 
 
-        <div className="flex flex-col mx-auto mt-8">
+        <div className="flex flex-col mt-8">
           <h3 className="text-center text-red-600 text-2xl items-center lg:text-4xl mb-6 font-semibold">
             International Air Cargo
           </h3>
-          <div className="flex flex-col lg:flex-row bg-[#EEF6FF]">
+          <div className="flex flex-col-reverse lg:flex-row bg-[#EEF6FF]">
           
-            <div className=" lg:p-8 flex flex-col gap-2 lg:gap-4 item-left lg:items-center">
+            <div className=" mx-auto lg:p-8 flex flex-col gap-2 lg:gap-4 item-left lg:items-center">
               <div className="flex gap-2 lg:gap-4">
                 <div className="bg-white border shadow-md border-white rounded-lg w-[80px] h-[60px] lg:w-[120px] lg:h-[80px] p-5 flex justify-center items-center">
                   <img src={Emirate} alt="" className="object-cover w-[100%] lg:w-[80%]" />
@@ -144,20 +144,20 @@ const Services = () => {
                 <img src={Emirate} alt="" className="object-cover w-[100%] lg:w-[80%]" />
               </div> */}
             </div>
-            <img src={Cargo} alt="" className="w-[45%]" />
+            <img src={Cargo} alt="" className="lg:w-[45%] items-center" />
           </div>
         </div>
 
 
 {/* sea cargo */}
-        <div className="flex flex-col mx-auto mt-8">
+        <div className="flex flex-col  mt-8">
           <h3 className="text-center text-red-600 text-2xl items-center lg:text-4xl mb-6 font-semibold capitalize">
           INTERNATIONAL SEA CARGO AND COURIER
 
           </h3>
           <div className="flex flex-col lg:flex-row bg-[#EEF6FF]">
-          <img src={sea} alt="" className="w-[45%]" />
-            <div className=" lg:p-8 flex flex-col gap-2 lg:gap-4 item-left lg:items-center">
+          <img src={sea} alt="" className="lg:w-[45%]" />
+            <div className=" mx-auto lg:p-8 flex flex-col gap-2 lg:gap-4 item-left lg:items-center">
               <div className="flex gap-2 lg:gap-4">
                 <div className="bg-white border shadow-md border-white rounded-lg w-[80px] h-[60px] lg:w-[120px] lg:h-[80px] p-5 flex justify-center items-center">
                   <img src={a} alt="" className="object-cover w-[100%] lg:w-[80%]" />
@@ -231,11 +231,11 @@ const Services = () => {
           </div>
         </div>
 
-        <div className="mb-12 mx-auto mt-8">
+        <div className="mb-12 lg:mx-auto mt-8 overflow-x-auto">
           <h3 className="text-2xl lg:text-4xl text-red-600 font-semibold mb-4 text-center">
             Additional Services
           </h3>
-          <table className="border-2 border-slate-600">
+          <table className="border-2 border-slate-600 ">
               <tr className="">
                 <td className="p-2 md:p-4 text-base md:text-lg border border-slate-600">{"Third-Party Manufacturing Supply"}</td>
                 <td className="p-2 md:p-4 text-base md:text-lg border border-slate-600">{"Pharmaceutical Company Supply"}</td>
