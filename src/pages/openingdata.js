@@ -2,9 +2,9 @@
 
 const jobOpenings = [
   {
-    title: "Software Engineer",
+    title: "Medical Representative",
     description:
-      "Join our team as a software engineer and help us build amazing products.",
+      "Join our team as a Medical Representative and help us build amazing products.",
     location: "Mumbai",
     type: "Permanent",
     postedDate: "20/9/2023",
@@ -18,8 +18,8 @@ const jobOpenings = [
     postedDate: "20/9/2023",
   },
   {
-    title: "UI/UX Engineer",
-    description: "We are looking for a UI/UX Engineer to promote our brand.",
+    title: "Manager Pre-Sales & Lead Generation",
+    description: "We are looking for a Manager Pre-Sales & Lead Generation to promote our brand.",
     location: "Mumbai",
     type: "Permanent",
     postedDate: "20/9/2023",
